@@ -14,12 +14,12 @@
                             </li>
                             <li>
                                 <span>Teléfono:</span>
-                                <a style="color:#66717A;" href="tel:1234567890">+52 123 456 7890
+                                <a style="color:#66717A;" href="tel:+526246901960">(52) 624 690 1960
                                 </a>
                             </li>
                             <li>
                                 <span>Dirección:</span>
-                                San José del Cabo
+                                C.Valerio González Plaza Tamarindo #4
                             </li>
                         </ul>
                     </div>
@@ -68,7 +68,7 @@
                                         <li><a href="index-4.html">Home style 4</a></li>
                                     </ul> -->
                                 </li>
-                                <li><a href="about.php">Nosotros</a></li>
+                                <!-- <li><a href="about.php">Nosotros</a></li> -->
                                 <li class="menu-item-has-children">
                                     <a href="#">Nosotros</a>
                                     <ul class="sub-menu">
