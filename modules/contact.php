@@ -32,7 +32,7 @@
                                     </div>
                                     <div class="office-info-text">
                                         <h2>Dirección</h2>
-                                        <p>San José del Cabo</p>
+                                        <p>C. Valerio González Plaza Tamarindo #4 <br> San José del Cabo, B.C.S. 23406</p>
                                     </div>
                                 </div>
                             </div>
@@ -45,7 +45,7 @@
                                     </div>
                                     <div class="office-info-text">
                                         <h2>Correo</h2>
-                                        <p><a style="color: #484653;" href="mailto:cesar@phoenixservices.com.mx">cesar@phoenixservices.com.mx</a>
+                                        <p><a style="color: #484653;" href="mailto:cesar@phoenixservices.com.mx">cesar@phoenixservices.com.mx</a> <br><br><br>
                                         </p>
                                     </div>
                                 </div>
@@ -59,7 +59,7 @@
                                     </div>
                                     <div class="office-info-text">
                                         <h2>Llámanos</h2>
-                                        <a style="color: #484653;" href="tel:1234567890">+52 123 456 7890</a>
+                                        <a style="color: #484653;" href="tel:+526246901960">+52 624 690 1960</a> <br><br><br><br>
                                     </div>
                                 </div>
                             </div>
