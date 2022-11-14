@@ -22,7 +22,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-12">
                     <div class="about-left">
-                        <img src="assets/images/about.jpg" alt="">
+                        <img src="assets/images/about2.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 col-12">
@@ -119,9 +119,9 @@
                         <h2>Conoce a nuestro equipo</h2>
                         <span>Nos dedicamos a la experiencia de nuestros clientes, ofreciendo sólo las mejores
                             soluciones para cada caso.</span>
-                        <div class="shape-title">
+                        <!-- <div class="shape-title">
                             <img src="assets/images/section-title-shape-2.png" alt="">
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

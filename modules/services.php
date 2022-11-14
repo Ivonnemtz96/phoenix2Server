@@ -28,9 +28,9 @@
                         ¡Nosotros nos encargamos de todo! Abrimos el fideicomiso, coordinamos el seguro de título (si
                         se requiere), preparamos el papeleo de cierre y lo llevamos a la mesa de cierre.
                     </span>
-                    <div class="shape-title">
+                    <!-- <div class="shape-title">
                         <img src="assets/images/section-title-shape-2.png" alt="">
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-4 col-12">
