@@ -23,8 +23,8 @@
             <div class="col-lg-8 col-12">
                 <div class="wpo-section-title">
                     <!-- <span>SUCCESSFUL PROJECT</span> -->
-                    <h2>Phoenix Legal Services</h2>
-                    <span style="margin-top: 1rem;">
+                    <h2 style="margin-bottom: 1rem;">Phoenix Legal Services</h2>
+                    <span>
                         ¡Nosotros nos encargamos de todo! Abrimos el fideicomiso, coordinamos el seguro de título (si
                         se requiere), preparamos el papeleo de cierre y lo llevamos a la mesa de cierre.
                     </span>
@@ -133,7 +133,7 @@
                 <div class="col-lg-6">
                     <div class="project-single">
                         <div class="project-single-img">
-                            <img src="assets/images/project/4.jpg" alt="">
+                            <img src="assets/images/project/5.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -158,7 +158,7 @@
                 <div class="col-lg-6">
                     <div class="project-single">
                         <div class="project-single-img">
-                            <img src="assets/images/project/4.jpg" alt="">
+                            <img src="assets/images/project/6.jpg" alt="">
                         </div>
                     </div>
                 </div>
