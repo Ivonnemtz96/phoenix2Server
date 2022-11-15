@@ -23,7 +23,7 @@
                 <div class="col-lg-6 col-12">
                     <div class="about-left">
                         <img src="assets/images/about.jpg" alt="">
-                        <div class="about-left-text">
+                        <div hidden class="about-left-text">
                         <h3 style="color: white;">LOGO</h3>
                             <!-- <img src="assets/images/about-left-shape.png" alt="">
                             <h5>Desde</h5>
@@ -160,11 +160,12 @@
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="assets/images/team/2.jpg" alt="">
+                <img src="assets/images/team/2.jpg" alt="" class="mb-3">
+                <a href="mailto:cesar@phoenixservices.com.mx " style="color: #000;text-decoration: underline;">cesar@phoenixservices.com.mx </a> <br> 
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
                     Cesar abogado responsable de construir relaciones a largo plazo con los clientes clave de Phoenix
                     Legal Services. durante los últimos 20 años Cesar ha estado involucrado en todos los aspectos de la
-                    industria de bienes raíces (corretaje, desarrollo, construcción, fideicomisos y depósito en
+                    industria de bienes raíces (corretaje, desarrollo,construcción, fideicomisos y depósito en
                     garantía), tanto a nivel nacional como internacional. El aporta un nivel muy alto de organización y
                     eficiencia a la operación de PLS y tiene como objetivo estar siempre un paso por delante de
                     cualquier problema potencial para que pueda abordarse rápidamente. Cesar vive en San Jose del Cabo,
@@ -178,11 +179,12 @@
             <div class="offcanvas-header">
                 <h5 class="offcanvas-title" id="offcanvasExampleLabel">Jordy Baltazar <br>Socio / Abogado Inmobiliario
                 </h5>
-                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas2"
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="assets/images/team/1.jpg" alt="">
+                <img src="assets/images/team/1.jpg" alt="" class="mb-3">
+                <a href="mailto:jordy@phoenixservices.com.mx" style="color: #000;text-decoration: underline;">jordy@phoenixservices.com.mx</a> <br> 
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
                     Jordy abogado que enfoca su práctica en brindar soluciones prácticas a los clientes de Phoenix. Esta
                     sintonizado con el conjunto dinámico de circunstancias que unen a las partes de una transacción, de
@@ -200,11 +202,12 @@
             aria-labelledby="offcanvas3ExampleLabel">
             <div class="offcanvas-header">
                 <h5 class="offcanvas-title" id="offcanvasExampleLabel">Karina <br>Abogado Inmobiliario</h5>
-                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas3"
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="assets/images/team/1.jpg" alt="">
+                <img src="assets/images/team/1.jpg" alt="" class="mb-3">
+                <a href="mailto:karina@phoenixservices.com.mx" style="color: #000;text-decoration: underline;">karina@phoenixservices.com.mx</a> <br> 
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
                     Karina comenzó su carrera profesional trabajando para el gobierno federal antes de pasar a los
                     fideicomisos, criando a dos hijos increíbles, aprendió a ser súper organizada, flexible y abordar la
@@ -218,12 +221,14 @@
             aria-labelledby="offcanvas4ExampleLabel">
             <div class="offcanvas-header">
                 <h5 class="offcanvas-title" id="offcanvasExampleLabel">Eduardo <br>Administrador</h5>
-                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas4"
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="assets/images/team/1.jpg" alt="">
+                <img src="assets/images/team/1.jpg" alt="" class="mb-3">
+                <a href="mailto:eduardo@phoenixservices.com.mx" style="color: #000;text-decoration: underline;">eduardo@phoenixservices.com.mx</a> <br> 
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
+                <a href=""></a>
                     Eduardo se graduó de psicólogo lo cual ha servido mucho para convertirse en un miembro indispensable
                     del Equipo de Phoenix Legal Services.
                     Si bien no actúa como Abogado, Eduardo se mantiene ocupado como administrador de la oficina y todos

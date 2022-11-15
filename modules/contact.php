@@ -124,10 +124,8 @@
         <h2 class="hidden">Contact map</h2>
         <div class="wpo-contact-map">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2976.8253219504086!2d-109.70700424097582!3d23.092207640175864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1667859655734!5m2!1ses-419!2smx"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.1335422701927!2d-109.69773400250159!3d23.05556519442242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509ba68c1193%3A0x3de3e6a6721efa60!2sPlaza%20Tamarindo!5e0!3m2!1ses-419!2smx!4v1668541291156!5m2!1ses-419!2smx"
                 allowfullscreen></iframe>
-
-                
         </div>
     </section>
     <!-- end wpo-contact-map -->
