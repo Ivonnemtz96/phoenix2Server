@@ -4,10 +4,10 @@
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="wpo-breadcumb-wrap">
-                        <h2>Asóciate con Phoenix Legal Services</h2>
+                        <h2>Devolver el favor</h2>
                         <ol class="wpo-breadcumb-wrap">
                             <li><a href="index.php">Inicio</a></li>
-                            <li>Asóciate</li>
+                            <li>Dar de vuelta</li>
                         </ol>
                     </div>
                 </div>
@@ -22,7 +22,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-12">
                     <div class="about-left">
-                        <img src="assets/images/about.jpg" alt="">
+                        <img src="assets/images/about3.jpg" alt="">
                         <div class="about-left-text">
                             <h3 style="color: white;">LOGO</h3>
                             <!-- <img src="assets/images/about-left-shape.png" alt="">
@@ -34,18 +34,16 @@
                 <div class="col-lg-6 col-12">
                     <div class="about-right">
                         <div class="text">
-                            <span>¿Quiénes somos?</span>
+                            <span>Dar de vuelta</span>
                             <h2>Phoenix Legal Services</h2>
                             <p>
-                                Combinamos todos los recurss, conocimeintos y los años de experiencia en el mercado con
-                                nuestros profesionales de talla internacional.
-                                Nuestro objetivo es proporcionar a nuestros clientes un cierre sin problemas y en
-                                tiempo, donde Phoenix Legal Services actúa como el principal coordinador de todas las
-                                partes involucradas en el proceso de cierre, desde que la oferta es aceptada por el
-                                vendedor hasta que el comprador obtiene un título/fideicomiso registrado brindando la
-                                confianza y seguridad que nuestros clientes necesitan guíandolos en todo el proceso.
+                                Todos nuestros esfuerzos se centran a diferentes causas. <br>
+                                Dar de vuelta es una decisión gratificante para nosotros, el dar alegría y convertirnos
+                                en una parte de la comunidad.
+                                En Phoenix Legal Services, nuestros socios mantienen un refugio para perros, además de
+                                ayudar a distintas casas hogar contra el maltrato infantil y de la mujer.
                             </p>
-                            <a href="about.php" class="theme-btn">Ver más</a>
+                            <a href="contact.php" class="theme-btn">Contactar</a>
                         </div>
                     </div>
                 </div>
@@ -54,6 +52,7 @@
     </section>
     <!--end wpo-about-section -->
 
+    <!-- XM9jPrEo24 contra ftp -->
 
     <!-- start wpo-team-section -->
     <section class="wpo-team-section section-padding">
