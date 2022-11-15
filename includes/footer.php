@@ -28,7 +28,7 @@
                 <div class="col  col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="widget link-widget">
                         <div class="widget-title">
-                            <h3>Nuestros servivios</h3>
+                            <h3>Nuestros servicios</h3>
                         </div>
                         <ul>
                             <li><a href="#">Cierres</a></li>

@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="wpo-breadcumb-wrap">
-                        <h2>Devolver el favor</h2>
+                        <h2>Dar de vuelta</h2>
                         <ol class="wpo-breadcumb-wrap">
                             <li><a href="index.php">Inicio</a></li>
                             <li>Dar de vuelta</li>

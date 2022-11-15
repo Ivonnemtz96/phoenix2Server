@@ -55,8 +55,8 @@
     <!--end wpo-about-section -->
 
 
-    <!-- start wpo-team-section -->
-    <section class="wpo-team-section section-padding">
+       <!-- start wpo-team-section -->
+       <section class="wpo-team-section section-padding">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-12">
@@ -144,7 +144,6 @@
                 </div>
             </div>
         </div>
-
     </section>
 
     <!-- Menú lateral de los agentes -->
@@ -161,7 +160,8 @@
             </div>
             <div class="offcanvas-body text-center">
                 <img src="assets/images/team/2.jpg" alt="" class="mb-3">
-                <a href="mailto:cesar@phoenixservices.com.mx " style="color: #000;text-decoration: underline;">cesar@phoenixservices.com.mx </a> <br> 
+                <a href="mailto:cesar@phoenixservices.com.mx "
+                    style="color: #000;text-decoration: underline;">cesar@phoenixservices.com.mx </a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
                     Cesar abogado responsable de construir relaciones a largo plazo con los clientes clave de Phoenix
                     Legal Services. durante los últimos 20 años Cesar ha estado involucrado en todos los aspectos de la
@@ -184,7 +184,8 @@
             </div>
             <div class="offcanvas-body text-center">
                 <img src="assets/images/team/1.jpg" alt="" class="mb-3">
-                <a href="mailto:jordy@phoenixservices.com.mx" style="color: #000;text-decoration: underline;">jordy@phoenixservices.com.mx</a> <br> 
+                <a href="mailto:jordy@phoenixservices.com.mx"
+                    style="color: #000;text-decoration: underline;">jordy@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
                     Jordy abogado que enfoca su práctica en brindar soluciones prácticas a los clientes de Phoenix. Esta
                     sintonizado con el conjunto dinámico de circunstancias que unen a las partes de una transacción, de
@@ -207,7 +208,8 @@
             </div>
             <div class="offcanvas-body text-center">
                 <img src="assets/images/team/1.jpg" alt="" class="mb-3">
-                <a href="mailto:karina@phoenixservices.com.mx" style="color: #000;text-decoration: underline;">karina@phoenixservices.com.mx</a> <br> 
+                <a href="mailto:karina@phoenixservices.com.mx"
+                    style="color: #000;text-decoration: underline;">karina@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
                     Karina comenzó su carrera profesional trabajando para el gobierno federal antes de pasar a los
                     fideicomisos, criando a dos hijos increíbles, aprendió a ser súper organizada, flexible y abordar la
@@ -226,9 +228,10 @@
             </div>
             <div class="offcanvas-body text-center">
                 <img src="assets/images/team/1.jpg" alt="" class="mb-3">
-                <a href="mailto:eduardo@phoenixservices.com.mx" style="color: #000;text-decoration: underline;">eduardo@phoenixservices.com.mx</a> <br> 
+                <a href="mailto:eduardo@phoenixservices.com.mx"
+                    style="color: #000;text-decoration: underline;">eduardo@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
-                <a href=""></a>
+                    <a href=""></a>
                     Eduardo se graduó de psicólogo lo cual ha servido mucho para convertirse en un miembro indispensable
                     del Equipo de Phoenix Legal Services.
                     Si bien no actúa como Abogado, Eduardo se mantiene ocupado como administrador de la oficina y todos
