@@ -139,7 +139,13 @@
                         <span>¿Quiénes somos?</span>
                         <h2>Phoenix Legal Services</h2>
                         <p>
-                            Combinamos todos los recursos, conocimientos y los años de experiencia en el mercado de nuestros profesionales de talla internacional. Nuestro objetivo es proporcionar a nuestros clientes un cierre sin problemas, amigable y en tiempo, donde Phoenix Legal Services actúa como el principal coordinador de todas las partes involucradas en el proceso de cierre, desde que la oferta es aceptada por el vendedor hasta que el comprador obtiene un título/fideicomiso registrado, brindando la confianza y seguridad que nuestros clientes necesitan guiándolos en todo el proceso.
+                            Combinamos todos los recursos, conocimientos y los años de experiencia en el mercado de
+                            nuestros profesionales de talla internacional. Nuestro objetivo es proporcionar a nuestros
+                            clientes un cierre sin problemas, amigable y en tiempo, donde Phoenix Legal Services actúa
+                            como el principal coordinador de todas las partes involucradas en el proceso de cierre,
+                            desde que la oferta es aceptada por el vendedor hasta que el comprador obtiene un
+                            título/fideicomiso registrado, brindando la confianza y seguridad que nuestros clientes
+                            necesitan guiándolos en todo el proceso.
                         </p>
                         <a href="contactar.php" class="theme-btn">Contactar</a>
                     </div>
@@ -159,8 +165,10 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 col-12">
                 <div class="wpo-section-title">
-                    <span>¿Porqué elegirnos?</span>
-                    <h2 style="color:#AC8D68 ;">Somos sus socios en la compraventa de inmuebles</h2>
+                    <h3 style="color:#AC8D68 ;">
+                        Phoenix Legal Services está aquí para ayudarlo en la compra y venta de bienes raíces
+                        internacionales.
+                    </h3>
                     <!-- <div class="shape-title">
                         <img src="assets/images/section-title-shape.png" alt="">
                     </div> -->
@@ -168,43 +176,44 @@
             </div>
         </div>
         <div class="scervice-wrap">
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-4 col-12">
+            <h3 style="text-align: center; margin-bottom: 2rem;">Nuestros servicios</h3>
+            <div class="row justify-content-center align-items-center">
+                <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
                             <img src="assets/images/services/icon-1.png" alt="">
                         </div>
                         <div class="scervice-item-text">
                             <a href="service-single.html">
-                                <h2>Compañía de custodia dirigida por un abogado</h2>
+                                <h2>Cierre <br><br><br></h2>
                             </a>
                             <!-- <p>It seem that only fragmen
                                 the original remain.</p> -->
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-12">
+                <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
                             <img src="assets/images/services/icon-2.png" alt="">
                         </div>
                         <div class="scervice-item-text">
                             <a href="service-single.html">
-                                <h2>Servicio de custodia con fines específicos <br><br></h2>
+                                <h2>Servicio de depósito de garantía </h2>
                             </a>
                             <!-- <p>It seem that only fragmen
                                 the original remain.</p> -->
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-12">
+                <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
                             <img src="assets/images/services/icon-3.png" alt="">
                         </div>
                         <div class="scervice-item-text">
                             <a href="service-single.html">
-                                <h2>Fideicomiso privado y seguro de bienes raíces</h2>
+                                <h2>Contratos y documentos jurídicos</h2>
                             </a>
                             <!-- <p>It seem that only fragmen
                                 the original remain.</p> -->
@@ -212,6 +221,25 @@
                     </div>
                 </div>
 
+                <div class="col-lg-3 col-md-3 col-12">
+                    <div class="scervice-item">
+                        <div class="scervice-item-img">
+                            <img src="assets/images/services/icon-3.png" alt="">
+                        </div>
+                        <div class="scervice-item-text">
+                            <a href="service-single.html">
+                                <h2>Traducciones oficiales al español</h2>
+                            </a>
+                            <!-- <p>It seem that only fragmen
+                                the original remain.</p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2 mt-5 align-items-center justify-content-center">
+                    <div class="container">
+                        <a href="services.php" class="theme-btn">Ver más</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
