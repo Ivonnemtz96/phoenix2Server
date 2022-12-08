@@ -126,7 +126,8 @@
                 <div class="about-left">
                     <img src="assets/images/about.jpg" alt="">
                     <div class="about-left-text">
-                        <h3 style="color: white;">LOGO</h3>
+                    <img src="assets/images/logo-gde.png" alt="">
+                        <!-- <h3 style="color: white;">LOGO</h3> -->
                         <!-- <img src="assets/images/about-left-shape.png" alt="">
                         <h5>Desde</h5>
                         <span>2016</span> -->

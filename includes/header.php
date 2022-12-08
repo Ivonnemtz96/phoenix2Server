@@ -51,7 +51,9 @@
                     </div>
                     <div class="col-lg-3 col-md-5 col-6">
                         <div class="navbar-header">
-                            <a class="navbar-brand" href="index.php">LOGO</a>
+                            <a class="navbar-brand" href="index.php">
+                            <img src="assets/images/logo.png" alt="">
+                            </a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-1 col-1">
