@@ -23,11 +23,18 @@
             <div class="col-lg-8 col-12">
                 <div class="wpo-section-title">
                     <!-- <span>SUCCESSFUL PROJECT</span> -->
-                    <h2 style="margin-bottom: 1rem;">Phoenix Legal Services</h2>
-                    <span>
-                        ¡NOSOTROS NOS ENCARGAMOS DE TODO! ABRIMOS EL FIDEICOMISO, COORDINAMOS EL SEGURO DE TÍTULO (SI SE
-                        REQUIERE), PREPARAMOS EL PAPELEO DE CIERRE Y LO LLEVAMOS A LA MESA DE CIERRE.
-                    </span>
+                    <h2 style="margin-bottom: 1rem;text-transform: none;">
+                        Comprar una propiedad en Cabo, lo hacemos fácil.
+                    </h2>
+                    <p style="color: #AC8D68;">
+                        Nuestro equipo de expertos locales está listo para guiarlo a través del proceso de compra de una
+                        propiedad. Estamos comprometidos con un servicio rápido, profesional y amigable para ayudarlo a
+                        comprender y sentirse cómodo durante todo el proceso de compra de una propiedad. Nuestros
+                        abogados se especializan en el mercado inmobiliario del área de Baja California Sur y están
+                        preparados para brindarle el apoyo <strong>adecuado de inicio hasta que ¡eres oficialmente el
+                            nuevo
+                            propietario! .</strong>
+                    </p>
                     <!-- <div class="shape-title">
                         <img src="assets/images/section-title-shape-2.png" alt="">
                     </div> -->
@@ -41,7 +48,7 @@
         </div>
     </div>
     <section class="timeline">
-        <h2 style="text-align: center;">Lo hacemos fácil</h2>
+        <h2 style="text-align: center;">Nuestros servicios</h2>
         <div class="container">
             <ul>
                 <li>
@@ -100,12 +107,12 @@
                 <li>
                     <div>
                         <time>Creación de Empresas</time>
-                        En Phoenix Legal Services nuestros abogados están capacitados para asistirle en todo tipo de
+                        <!-- En Phoenix Legal Services nuestros abogados están capacitados para asistirle en todo tipo de
                         contratos que neustros clientes necesiten, como lo son: promesa a fideicomiso , compraventa,
                         construcción, arrendamiento, joint ventures, etc. <br>
                         También redactamos otros documentos legales como pagarés, poderes, revisiones de abogados,
                         informes
-                        de due diligence, resoluciones corporativas, notificaciones, comunicaciones oficiales, etc.
+                        de due diligence, resoluciones corporativas, notificaciones, comunicaciones oficiales, etc. -->
                     </div>
                 </li>
                 <li>
