@@ -31,10 +31,10 @@
                         </div>
                         <ul>
                             <li><a href="#">Cierres</a></li>
-                            <li><a href="#">Búsqueda y seguro de títulos</a></li>
+                            <!-- <li><a href="#">Búsqueda y seguro de títulos</a></li> -->
                             <li><a href="#">Servicio de depósito de garantía</a></li>
                             <li><a href="#">Contratos y documentos jurídicos</a></li>
-                            <li><a href="#">Empresas</a></li>
+                            <li><a href="#">Creación de Empresas</a></li>
                             <li><a href="#">Traducciones oficiales al español</a></li>
                         </ul>
                     </div>
