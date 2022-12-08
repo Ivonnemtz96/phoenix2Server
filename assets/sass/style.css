@@ -5155,7 +5155,7 @@ img {
 }
 .wpo-testimonial-section .testimonial-wrapper .testimonial-text,
 .wpo-testimonial-section-s2 .testimonial-wrapper .testimonial-text {
-  background: #fff;
+  background: rgba(255, 255, 255, .79);
   margin-top: 80px;
   margin-left: 80px;
   text-align: center;
