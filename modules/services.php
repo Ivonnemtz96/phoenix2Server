@@ -25,8 +25,8 @@
                     <!-- <span>SUCCESSFUL PROJECT</span> -->
                     <h2 style="margin-bottom: 1rem;">Phoenix Legal Services</h2>
                     <span>
-                        ¡Nosotros nos encargamos de todo! Abrimos el fideicomiso, coordinamos el seguro de título (si
-                        se requiere), preparamos el papeleo de cierre y lo llevamos a la mesa de cierre.
+                        ¡NOSOTROS NOS ENCARGAMOS DE TODO! ABRIMOS EL FIDEICOMISO, COORDINAMOS EL SEGURO DE TÍTULO (SI SE
+                        REQUIERE), PREPARAMOS EL PAPELEO DE CIERRE Y LO LLEVAMOS A LA MESA DE CIERRE.
                     </span>
                     <!-- <div class="shape-title">
                         <img src="assets/images/section-title-shape-2.png" alt="">
@@ -40,7 +40,95 @@
             </div>
         </div>
     </div>
-    <div class="project-wrapper">
+    <section class="timeline">
+        <h2 style="text-align: center;">Lo hacemos fácil</h2>
+        <div class="container">
+            <ul>
+                <li>
+                    <div>
+                        <time>Cierres</time>
+                        Coordinamos el proceso de cierre de la operación inmobiliaria con los agentes inmobiliarios, el
+                        vendedor, el comprador, el prestamista (si procede), el banco fiduciario, el tasador, el
+                        notario,
+                        las oficinas gubernamentales y todas las personas que participan en el proceso. <br>
+                        Respondemos rápidamente a todas sus preguntas desde el principio y durante todo el proceso, le
+                        enviamos informes, protegemos sus intereses y nos aseguramos de que el papeleo de cierre sea
+                        correcto, justo y esté en orden legal. Establecemos su Fideicomiso y completamos todas las
+                        tareas
+                        previas al cierre en su nombre, y estamos a su lado o le representamos en el cierre. Si la
+                        transacción involucra financiamiento (ya sea otorgado por el vendedor o por un tercer
+                        prestamista)
+                        implementamos las garantías e instrumentos necesarios para asegurar las obligaciones de pago del
+                        comprador.
+                    </div>
+                </li>
+                <!-- <li>
+                <div>
+                    <time>Búsqueda y seguro de títulos de propiedad</time>
+                    Si usted desea obtener una póliza de seguro de título, ciertamente podemos integrarla al proceso de
+                    cierre. Nos encargamos de la búsqueda del título y de los documentos de apoyo, escribimos el informe
+                    del título y lo presentamos a la compañía de seguros de título. <br>
+                    La búsqueda del título, si se hace correctamente, le proporcionará una cadena del título de la
+                    propiedad, mostrará cualquiera restricción sobre la misma, e identificará cualquier derecho de
+                    retención relevante sobre la propiedad. La búsqueda de un título se lleva a cabo en los registros
+                    públicos de la propiedad locales de la ciudad, pueblo o condado donde se conservan tales registros
+                    de la propiedad.
+                </div>
+            </li> -->
+                <li>
+                    <div>
+                        <time>Servicios de depósito en garantía</time>
+                        No proporcionamos servicios de custodia directamente a nuestros clientes, sino que utilizamos
+                        empresas de custodia bien establecidas en Estados Unidos, tales como Global Escrow Solutions,
+                        TLA y
+                        Armour Secure. Estas empresas se especializan en los servicios de custodia ofreciendo el mejor
+                        nivel
+                        de seguridad requerido para todos nuestros clientes.
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <time>Contratos y documentos jurídicos</time>
+                        En Phoenix Legal Services nuestros abogados están capacitados para asistirle en todo tipo de
+                        contratos que neustros clientes necesiten, como lo son: promesa a fideicomiso , compraventa,
+                        construcción, arrendamiento, joint ventures, etc. <br>
+                        También redactamos otros documentos legales como pagarés, poderes, revisiones de abogados,
+                        informes
+                        de due diligence, resoluciones corporativas, notificaciones, comunicaciones oficiales, etc.
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <time>Creación de Empresas</time>
+                        En Phoenix Legal Services nuestros abogados están capacitados para asistirle en todo tipo de
+                        contratos que neustros clientes necesiten, como lo son: promesa a fideicomiso , compraventa,
+                        construcción, arrendamiento, joint ventures, etc. <br>
+                        También redactamos otros documentos legales como pagarés, poderes, revisiones de abogados,
+                        informes
+                        de due diligence, resoluciones corporativas, notificaciones, comunicaciones oficiales, etc.
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <time>Empresas</time>
+                        Podemos ayudarle a constituir una empresa o sociedad mexicana en menos de dos semanas. Obtenemos
+                        el permiso de nombre, redactamos los estatutos y los poderes (si son aplicables), y trabajamos
+                        con el notario mexicano para formalizar la escritura de constitución.
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <time>Traducciones oficiales al español</time>
+                        Todos los documentos de cierre redactados en un idioma extranjero deben ser traducidos al
+                        español, por ejemplo, poderes otorgados en el extranjero, documentos corporativos de empresas
+                        constituidas en otros países, etc. Disponemos de un traductor oficial interno para su comodidad.
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <div hidden class="project-wrapper">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <!-- Primer servicio -->
@@ -164,7 +252,6 @@
                 </div>
             </div>
         </div>
-    </div>
     </div>
 </section>
 <!-- end wpo-project-section -->

@@ -5,8 +5,7 @@
                 <div class="col col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="widget about-widget">
                         <div class="logo widget-title">
-                            <!-- <img src="assets/images/logo-2.svg" alt=""> -->
-                            <a class="logo" href="index.html"> LOGO</a>
+                            <img src="assets/images/logo.png" alt="">
                         </div>
                         <p>
                             Phoenix Legal Services, estamos orgullosos de asociarnos con los mejores del sector.
