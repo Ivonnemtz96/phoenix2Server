@@ -62,8 +62,9 @@
                 <div class="col-lg-6 col-12">
                     <div class="wpo-section-title">
                         <h2>Conoce a nuestro equipo</h2> <br>
-                        <span>Nos dedicamos a la experiencia de nuestros clientes, ofreciendo sólo las mejores
-                            soluciones para cada caso.</span>
+                        <span>
+                        Nuestro equipo de abogados es experto en transacciones internacionales y derecho inmobiliario. <br> Estamos dedicados a la experiencia de nuestros clientes, ofreciendo solo las mejores soluciones para cada caso.
+                        </span>
                         <div class="shape-title">
                             <!-- <img src="assets/images/section-title-shape-2.png" alt=""> -->
                         </div>
