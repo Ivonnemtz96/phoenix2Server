@@ -7,10 +7,10 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col col-lg-7 col-md-8 col-sm-12 slide-caption">
+                    <div class="col col-md-10 col-sm-12 slide-caption">
                         <div class="hero-slider-content">
                             <div class="slide-title">
-                                <h2>¿Sueñas con una propiedad?</h2>
+                                <h2 >¿Sueñas con una propiedad?</h2>
                             </div>
                             <div class="slide-subtitle">
                                 <p>
@@ -236,7 +236,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-2 mt-5 align-items-center justify-content-center">
+                <div class="col-md-3 mt-5 text-center justify-content-center">
                     <div class="container">
                         <a href="services.php" class="theme-btn">Ver más</a>
                     </div>

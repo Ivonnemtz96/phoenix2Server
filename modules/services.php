@@ -53,7 +53,7 @@
             <ul>
                 <li>
                     <div>
-                        <time>Cierres</time>
+                        <time><h4 style="color: #fff;">Cierres</h4></time>
                         Coordinamos el proceso de cierre de la operación inmobiliaria con los agentes inmobiliarios, el
                         vendedor, el comprador, el prestamista (si procede), el banco fiduciario, el tasador, el
                         notario,
@@ -84,7 +84,7 @@
             </li> -->
                 <li>
                     <div>
-                        <time>Servicios de depósito en garantía</time>
+                        <time><h4 style="color: #fff;">Servicios de depósito en garantía</h4></time>
                         No proporcionamos servicios de custodia directamente a nuestros clientes, sino que utilizamos
                         empresas de custodia bien establecidas en Estados Unidos, tales como Global Escrow Solutions,
                         TLA y
@@ -95,7 +95,7 @@
                 </li>
                 <li>
                     <div>
-                        <time>Contratos y documentos jurídicos</time>
+                        <time><h4 style="color: #fff;">Contratos y documentos jurídicos</h4></time>
                         En Phoenix Legal Services nuestros abogados están capacitados para asistirle en todo tipo de
                         contratos que neustros clientes necesiten, como lo son: promesa a fideicomiso , compraventa,
                         construcción, arrendamiento, joint ventures, etc. <br>
@@ -106,18 +106,7 @@
                 </li>
                 <li>
                     <div>
-                        <time>Creación de Empresas</time>
-                        <!-- En Phoenix Legal Services nuestros abogados están capacitados para asistirle en todo tipo de
-                        contratos que neustros clientes necesiten, como lo son: promesa a fideicomiso , compraventa,
-                        construcción, arrendamiento, joint ventures, etc. <br>
-                        También redactamos otros documentos legales como pagarés, poderes, revisiones de abogados,
-                        informes
-                        de due diligence, resoluciones corporativas, notificaciones, comunicaciones oficiales, etc. -->
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <time>Empresas</time>
+                        <time><h4 style="color: #fff;">Creación de Empresas</h4></time>
                         Podemos ayudarle a constituir una empresa o sociedad mexicana en menos de dos semanas. Obtenemos
                         el permiso de nombre, redactamos los estatutos y los poderes (si son aplicables), y trabajamos
                         con el notario mexicano para formalizar la escritura de constitución.
@@ -125,7 +114,7 @@
                 </li>
                 <li>
                     <div>
-                        <time>Traducciones oficiales al español</time>
+                        <time><h4 style="color: #fff;">Traducciones oficiales al español</h4></time>
                         Todos los documentos de cierre redactados en un idioma extranjero deben ser traducidos al
                         español, por ejemplo, poderes otorgados en el extranjero, documentos corporativos de empresas
                         constituidas en otros países, etc. Disponemos de un traductor oficial interno para su comodidad.

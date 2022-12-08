@@ -74,7 +74,7 @@ Version:        1.0.0
 
 @font-face {
   font-family: geometos;
-  src: url(assets/fonts/Geometos.ttf);
+  src: url(Geometos.ttf);
 }
 
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&amp;family=Vidaloka&amp;display=swap");
@@ -4105,7 +4105,7 @@ img {
   text-align: center;
   border: 10px solid #fff;
   border-left: 0;
-  padding: 40px 0 23px;
+  padding: 40px 0 40px;
   position: absolute;
   top: 50%;
   left: 0;
@@ -4119,7 +4119,7 @@ img {
 }
 .wpo-about-section .about-left .about-left-text img {
   width: 150px;
-  height: 150px;
+  height: auto;
 }
 @media (max-width: 525px) {
   .wpo-about-section .about-left .about-left-text img {
