@@ -10,14 +10,11 @@
                     <div class="col col-lg-7 col-md-8 col-sm-12 slide-caption">
                         <div class="hero-slider-content">
                             <div class="slide-title">
-                                <h2>Obtenga
-                                    la mejor
-                                    propiedad</h2>
+                                <h2>¿Sueñas con una propiedad?</h2>
                             </div>
                             <div class="slide-subtitle">
                                 <p>
-                                    Phoenix Legal Services, nuestro servicio les da confianza a compradores y
-                                    vendedores.
+                                    Obtener la propiedad internacional de sus sueños ahora es más fácil y más seguro.
                                 </p>
                             </div>
                             <div class="btns">
@@ -25,7 +22,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="hero-right-text">
+                    <!-- <div class="hero-right-text">
                         <div class="grid">
                             <div class="info">
                                 <h3>
@@ -37,12 +34,12 @@
                                 <span>Nuestros años de experiencia y clientes nos respaldan</span>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
 
-        <div class="slide">
+        <!-- <div class="slide">
             <div class="slide-bg">
                 <img src="assets/images/slider/3.jpg" alt="">
             </div>
@@ -116,7 +113,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 <!-- end of wpo-hero-section-1 slider -->
@@ -129,7 +126,7 @@
                 <div class="about-left">
                     <img src="assets/images/about.jpg" alt="">
                     <div class="about-left-text">
-                    <h3 style="color: white;">LOGO</h3>
+                        <h3 style="color: white;">LOGO</h3>
                         <!-- <img src="assets/images/about-left-shape.png" alt="">
                         <h5>Desde</h5>
                         <span>2016</span> -->
@@ -142,15 +139,9 @@
                         <span>¿Quiénes somos?</span>
                         <h2>Phoenix Legal Services</h2>
                         <p>
-                            Combinamos todos los recursos, conocimientos y los años de experiencia en el mercado con
-                            nuestros profesionales de talla internacional.
-                            Nuestro objetivo es proporcionar a nuestros clientes un cierre sin problemas y en tiempo,
-                            donde Phoenix Legal Services actúa como el principal coordinador de todas las partes
-                            involucradas en el proceso de cierre, desde que la oferta es aceptada por el vendedor hasta
-                            que el comprador obtiene un título/fideicomiso registrado brindando la confianza y seguridad
-                            que nuestros clientes necesitan guíandolos en todo el proceso.
+                            Combinamos todos los recursos, conocimientos y los años de experiencia en el mercado de nuestros profesionales de talla internacional. Nuestro objetivo es proporcionar a nuestros clientes un cierre sin problemas, amigable y en tiempo, donde Phoenix Legal Services actúa como el principal coordinador de todas las partes involucradas en el proceso de cierre, desde que la oferta es aceptada por el vendedor hasta que el comprador obtiene un título/fideicomiso registrado, brindando la confianza y seguridad que nuestros clientes necesitan guiándolos en todo el proceso.
                         </p>
-                        <a href="about.php" class="theme-btn">Ver más</a>
+                        <a href="contactar.php" class="theme-btn">Contactar</a>
                     </div>
                 </div>
             </div>
@@ -234,7 +225,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-7 col-12">
                     <div class="cta-left">
-                        <h2>La propiedad de sus sueños.</h2>
+                        <h2>Estamos aquí para guiarte.</h2>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-5 col-12">

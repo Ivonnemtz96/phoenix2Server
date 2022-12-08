@@ -284,7 +284,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-7 col-12">
                         <div class="cta-left">
-                            <h2>La propiedad de sus sueños.</h2>
+                            <h2>Estamos aquí para guiarte.</h2>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-5 col-12">
