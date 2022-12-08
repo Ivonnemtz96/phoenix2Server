@@ -24,14 +24,14 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col col-xl-2 col-lg-12 col-md-12 col-sm-12 col-12">
+                <!-- <div class="col col-xl-2 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="contact-info">
                         <ul>
                             <li><a href="#"><i class="ti-facebook"></i></a></li>
                             <li><a href="#"><i class="ti-instagram"></i></a></li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div> <!-- end topbar -->

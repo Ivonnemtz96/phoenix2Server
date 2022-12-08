@@ -11,7 +11,7 @@
                         <p>
                             Phoenix Legal Services, estamos orgullosos de asociarnos con los mejores del sector.
                         </p>
-                        <ul>
+                        <!-- <ul>
                             <li>
                                 <a href="#">
                                     <i class="ti-facebook"></i>
@@ -22,7 +22,7 @@
                                     <i class="ti-instagram"></i>
                                 </a>
                             </li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
                 <div class="col  col-lg-4 col-md-6 col-sm-12 col-12">
