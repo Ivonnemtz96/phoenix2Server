@@ -48,7 +48,7 @@
                             <ul>
                                 <li><i class="fi flaticon-maps-and-flags"></i>C. Valerio González Plaza Tamarindo #4 <br> San José del Cabo, B.C.S. 23406</li>
                                 <li><i class="fi flaticon-phone-call"></i> <a style="color: #fff;" href="tel:+526246901960">+52 624 690 1960</a> <br></li>
-                                <li><i class="fi flaticon-email"></i><a style="color: #fff;" href="mailto:cesar@phoenixservices.com.mx">cesar@phoenixservices.com.mx</a></li>
+                                <li><i class="fi flaticon-email"></i><a style="color: #fff;" href="mailto:hola@phoenixservices.com.mx">hola@phoenixservices.com.mx</a></li>
                             </ul>
                         </div>
                     </div>

@@ -45,7 +45,7 @@
                                     </div>
                                     <div class="office-info-text">
                                         <h2>Correo</h2>
-                                        <p><a style="color: #484653;" href="mailto:cesar@phoenixservices.com.mx">cesar@phoenixservices.com.mx</a> <br><br><br>
+                                        <p><a style="color: #484653;" href="mailto:hola@phoenixservices.com.mx">hola@phoenixservices.com.mx</a> <br><br><br>
                                         </p>
                                     </div>
                                 </div>

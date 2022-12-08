@@ -9,7 +9,7 @@
                             <li>
                                 <span>Correo: </span>
                                 <a style="color:#66717A;"
-                                    href="mailto:cesar@phoenixservices.com.mx">cesar@phoenixservices.com.mx
+                                    href="mailto:hola@phoenixservices.com.mx">hola@phoenixservices.com.mx
                                 </a>
                             </li>
                             <li>
