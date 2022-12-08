@@ -225,7 +225,7 @@
                 <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
-                            <img src="assets/images/services/icon-3.png" alt="">
+                            <img src="assets/images/services/icon-5.png" alt="">
                         </div>
                         <div class="scervice-item-text">
                             <a href="service-single.html">
@@ -278,48 +278,29 @@
                     <div class="testimonial-slider">
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem Ipsum is simply dummy
-                                the printing and typesetting industry
-                                has been the industry's standard text
-                                survived not only five centuries.</p>
-                            <h3>Tanneis Akrasenko</h3>
-                            <span>Business Man</span>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quidem explicabo fugit cum maiores, accusantium ea quas nostrum accusamus ipsum fuga ut vero delectus. A alias dolorem sunt voluptatibus officia!</p>
+                            <h3>Cliente 1</h3>
+
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem Ipsum is simply dummy
-                                the printing and typesetting industry
-                                has been the industry's standard text
-                                survived not only five centuries.</p>
-                            <h3>Funky Dos</h3>
-                            <span>Business Man</span>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <h3>Cliente 2</h3>
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem Ipsum is simply dummy
-                                the printing and typesetting industry
-                                has been the industry's standard text
-                                survived not only five centuries.</p>
-                            <h3>RockinIt</h3>
-                            <span>Business Man</span>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <h3>Cliente 3</h3>
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem Ipsum is simply dummy
-                                the printing and typesetting industry
-                                has been the industry's standard text
-                                survived not only five centuries.</p>
-                            <h3>David Gray</h3>
-                            <span>Business Man</span>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <h3>Cliente 4</h3>
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem Ipsum is simply dummy
-                                the printing and typesetting industry
-                                has been the industry's standard text
-                                survived not only five centuries.</p>
-                            <h3>Tanneis Akrasenko</h3>
-                            <span>Business Man</span>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <h3>Cliente 5</h3>
                         </div>
                     </div>
                 </div>
