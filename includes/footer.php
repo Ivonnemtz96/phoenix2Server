@@ -30,12 +30,12 @@
                             <h3>Nuestros servicios</h3>
                         </div>
                         <ul>
-                            <li><a href="#">Cierres</a></li>
+                            <li><a href="services.php">Cierres</a></li>
                             <!-- <li><a href="#">Búsqueda y seguro de títulos</a></li> -->
-                            <li><a href="#">Servicio de depósito de garantía</a></li>
-                            <li><a href="#">Contratos y documentos jurídicos</a></li>
-                            <li><a href="#">Creación de Empresas</a></li>
-                            <li><a href="#">Traducciones oficiales al español</a></li>
+                            <li><a href="services.php">Servicio de depósito de garantía</a></li>
+                            <li><a href="services.php">Contratos y documentos jurídicos</a></li>
+                            <li><a href="services.php">Creación de Empresas</a></li>
+                            <li><a href="services.php">Traducciones oficiales al español</a></li>
                         </ul>
                     </div>
                 </div>
@@ -72,3 +72,17 @@
     </div>
 </footer>
 <!-- end of wpo-site-footer-section -->
+
+<style>
+    #whatsapp {
+        position: fixed;
+        z-index: 999;
+        bottom: 5rem;
+        right: 1rem;
+        width: 3rem;
+    }
+
+</style>
+<a href="https://wa.me/+526246901960?text=Hola,%20me%20gustaría%20más%20información." target="_blank">
+    <img src="assets/images/whats.png" alt="WhatsApp" id="whatsapp" />
+</a>
