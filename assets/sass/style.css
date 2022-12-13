@@ -120,7 +120,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #070143;
+  color: #292929;
   font-family: geometos,Verdana,Arial,sans-serif;
   font-weight: 600;
 }
@@ -1563,7 +1563,7 @@ img {
   /* style for navigation less than 992px */
   /*navbar collaps less then 992px*/
   /*** cart-search-contact ***/
-  background-color: rgb(8, 9, 9);;
+  background-color: rgb(41 41 41);
   position: relative;
   z-index: 11;
 }
@@ -1601,7 +1601,7 @@ img {
 }
 
 .sticky-header {
-  background-color: #b5ae99;
+  background-color: #292929;
   width: 100%;
   position: fixed;
   left: 0;
@@ -2387,7 +2387,7 @@ img {
     font-size: calc-rem-value(16);
     display: block;
     padding: 10px 15px;
-    color: #070143;
+    color: #292929;
     position: relative;
     text-transform: capitalize;
     overflow: hidden;
@@ -2401,7 +2401,7 @@ img {
     width: 0px;
     height: 2px;
     content: "";
-    background: #AC8D68;
+    background: #1c1b1a;
     transition: all 0.3s;
     opacity: 0;
     visibility: hidden;
@@ -2946,7 +2946,7 @@ img {
   width: 100%;
   height: 100%;
   content: "";
-  background: #7b7a7ddb;
+  background: #2f2f2fdb;
   opacity: 0.5;
   z-index: -1;
 }
@@ -3783,7 +3783,7 @@ img {
   width: 100%;
   height: 100%;
   content: "";
-  background: #2b210ff2;
+  background: #000000de;
   opacity: 0.9;
   z-index: -1;
 }
@@ -4091,7 +4091,7 @@ img {
 
 /* 3.2 wpo-about-section */
 .wpo-about-section {
-  background: #fff;
+  background: #292929;
 }
 .wpo-about-section .about-left {
   position: relative;
@@ -4164,7 +4164,7 @@ img {
   }
 }
 .wpo-about-section .about-right .text {
-  background: #F7F2EE;
+  background: #fefefe;
   padding: 74px 72px;
 }
 @media (max-width: 1399px) {
@@ -4200,7 +4200,7 @@ img {
   font-size: 42px;
   font-weight: 400;
   line-height: 53px;
-  color: #7b7a7ddb;
+  color: #484849;
   margin-top: 9px;
   margin-bottom: 23px;
 }
@@ -4239,7 +4239,7 @@ img {
   font-size: 16px;
   font-weight: 400;
   line-height: 30px;
-  color: #66717A;
+  color: #484849;
   padding-bottom: 11px;
 }
 @media (max-width: 1199px) {
@@ -4296,7 +4296,7 @@ img {
 .wpo-service-section,
 .wpo-service-section-s2,
 .wpo-service-section-s3 {
-  background: #F7F2EE;
+  background: #e5e5e5;
   position: relative;
   z-index: 1;
   padding: 165px 0;
@@ -4512,7 +4512,7 @@ img {
 .wpo-service-section .scervice-wrap .scervice-item:hover,
 .wpo-service-section-s2 .scervice-wrap .scervice-item:hover,
 .wpo-service-section-s3 .scervice-wrap .scervice-item:hover {
-  background: #AC8D68;
+  background: #696865;
 }
 .wpo-service-section .scervice-wrap .scervice-item:hover .scervice-item-img,
 .wpo-service-section-s2 .scervice-wrap .scervice-item:hover .scervice-item-img,
@@ -4554,7 +4554,7 @@ img {
   }
 }
 .wpo-cta-section .cta-wrapper {
-  background: #AC8D68;
+  background: #000000c9;
   padding: 45px 70px;
 }
 @media (max-width: 1199px) {
@@ -4609,11 +4609,11 @@ img {
 }
 .wpo-cta-section .cta-wrapper .cta-right a {
   background: #fff;
-  color: #AC8D68;
+  color: #000;
   transition: all 0.4s ease-in-out;
 }
 .wpo-cta-section .cta-wrapper .cta-right a:after {
-  background: #070143;
+  background: #565658;
 }
 .wpo-cta-section .cta-wrapper .cta-right a:hover {
   color: #fff;
@@ -5154,7 +5154,7 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #7b7a7ddb;
+  background: #050506c2;
   opacity: 0.5;
   z-index: -1;
 }
@@ -5265,7 +5265,7 @@ img {
   top: -30px;
   left: 50%;
   content: "";
-  background: #AC8D68;
+  background: #484849;
   width: 90px;
   height: 3px;
   transform: translate(-50%, -50%);
@@ -5343,13 +5343,13 @@ img {
   padding: 0;
   border: none;
   border-radius: 100%;
-  background-color: #AC8D68;
+  background-color: #000;
   text-indent: -9999px;
   opacity: 0.5;
 }
 .wpo-testimonial-section .testimonial-wrapper .testimonial-slider .slick-dots li.slick-active button,
 .wpo-testimonial-section-s2 .testimonial-wrapper .testimonial-slider .slick-dots li.slick-active button {
-  background-color: #AC8D68;
+  background-color: #000;
   opacity: 1;
 }
 .wpo-testimonial-section.wpo-testimonial-section-s2,

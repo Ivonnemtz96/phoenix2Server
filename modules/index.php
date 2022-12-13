@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <div class="textos">
-                    <h6 style="color:#AC8D68;text-shadow: 2px 2px #000;">Desplazar hacia abajo</h6>
+                    <h6 style="color:#fff;text-shadow: 2px 2px #000;">Desplazar hacia abajo</h6>
                 </div>
                 <a href="index.php#nosotros" class="button-down"></a>
 
@@ -81,10 +81,10 @@
                 <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
-                            <img src="assets/images/services/icon-1.png" alt="">
+                            <img style="filter: brightness(0);" src="assets/images/services/icon-1.png" alt="">
                         </div>
                         <div class="scervice-item-text">
-                            <a href="service-single.html">
+                            <a href="services.php">
                                 <h2>Cierre <br><br><br></h2>
                             </a>
                             <!-- <p>It seem that only fragmen
@@ -95,10 +95,10 @@
                 <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
-                            <img src="assets/images/services/icon-2.png" alt="">
+                            <img style="filter: brightness(0);" src="assets/images/services/icon-2.png" alt="">
                         </div>
                         <div class="scervice-item-text">
-                            <a href="service-single.html">
+                            <a href="services.php">
                                 <h2>Servicio de depósito de garantía </h2>
                             </a>
                             <!-- <p>It seem that only fragmen
@@ -109,10 +109,10 @@
                 <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
-                            <img src="assets/images/services/icon-3.png" alt="">
+                            <img style="filter: brightness(0);" src="assets/images/services/icon-3.png" alt="">
                         </div>
                         <div class="scervice-item-text">
-                            <a href="service-single.html">
+                            <a href="services.php">
                                 <h2>Contratos y documentos jurídicos</h2>
                             </a>
                             <!-- <p>It seem that only fragmen
@@ -124,10 +124,10 @@
                 <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
-                            <img src="assets/images/services/icon-5.png" alt="">
+                            <img style="filter: brightness(0);" src="assets/images/services/icon-5.png" alt="">
                         </div>
                         <div class="scervice-item-text">
-                            <a href="service-single.html">
+                            <a href="services.php">
                                 <h2>Traducciones oficiales al español</h2>
                             </a>
                             <!-- <p>It seem that only fragmen
@@ -176,28 +176,28 @@
                 <div class="col-lg-5 col-12">
                 <div class="testimonial-slider">
                         <div class="testimonial-text">
-                            <img src="assets/images/ft-icon/5.png" alt="">
+                            <img style="filter: brightness(0);" src="assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quidem explicabo fugit cum maiores, accusantium ea quas nostrum accusamus ipsum fuga ut vero delectus. A alias dolorem sunt voluptatibus officia!</p>
                             <h3>Cliente 1</h3>
 
                         </div>
                         <div class="testimonial-text">
-                            <img src="assets/images/ft-icon/5.png" alt="">
+                            <img style="filter: brightness(0);" src="assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 2</h3>
                         </div>
                         <div class="testimonial-text">
-                            <img src="assets/images/ft-icon/5.png" alt="">
+                            <img style="filter: brightness(0);" src="assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 3</h3>
                         </div>
                         <div class="testimonial-text">
-                            <img src="assets/images/ft-icon/5.png" alt="">
+                            <img style="filter: brightness(0);" src="assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 4</h3>
                         </div>
                         <div class="testimonial-text">
-                            <img src="assets/images/ft-icon/5.png" alt="">
+                            <img style="filter: brightness(0);" src="assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 5</h3>
                         </div>

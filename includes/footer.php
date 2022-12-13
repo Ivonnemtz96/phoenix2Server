@@ -46,26 +46,30 @@
                         </div>
                         <div class="contact-ft">
                             <ul>
-                                <li><i class="fi flaticon-maps-and-flags"></i>C. Valerio González Plaza Tamarindo #4 <br> San José del Cabo, B.C.S. 23406</li>
-                                <li><i class="fi flaticon-phone-call"></i> <a style="color: #fff;" href="tel:+526246901960">+52 624 690 1960</a> <br></li>
-                                <li><i class="fi flaticon-email"></i><a style="color: #fff;" href="mailto:hola@phoenixservices.com.mx">hola@phoenixservices.com.mx</a></li>
+                                <li><i class="fi flaticon-maps-and-flags"></i>C. Valerio González Plaza Tamarindo #4
+                                    <br> San José del Cabo, B.C.S. 23406</li>
+                                <li><i class="fi flaticon-phone-call"></i> <a style="color: #fff;"
+                                        href="tel:+526246901960">+52 624 690 1960</a> <br></li>
+                                <li><i class="fi flaticon-email"></i><a style="color: #fff;"
+                                        href="mailto:hola@phoenixservices.com.mx">hola@phoenixservices.com.mx</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
 
-                
+
             </div>
         </div> <!-- end container -->
     </div>
     <div class="wpo-lower-footer">
         <div class="container text-center">
             <div class="row justify-content-center">
-                <div class="col col-xs-12">
-                    
-                        &copy; 2022 Phoenix Legal Services. Diseñado por <a style="color: #AC8D68;" href="https://www.bananagroup.mx" target="_blank">Banana Group Marketing</a>.
-                        <!-- <li><a href="#">Terms of use |</a> <a href="#">Privacy Environmental Policy</a></li> -->
-                
+                <div class="col col-xs-12" style="color: #fff;">
+                    &copy; 2022 Phoenix Legal Services. Diseñado por
+                    <a style="color: #adadad;" href="https://www.bananagroup.mx" target="_blank">
+                        <strong>Banana Group Marketing</strong>
+                    </a>.
+                    <!-- <li><a href="#">Terms of use |</a> <a href="#">Privacy Environmental Policy</a></li> -->
                 </div>
             </div>
         </div>
@@ -74,14 +78,13 @@
 <!-- end of wpo-site-footer-section -->
 
 <style>
-    #whatsapp {
-        position: fixed;
-        z-index: 999;
-        bottom: 5rem;
-        right: 1rem;
-        width: 3rem;
-    }
-
+#whatsapp {
+    position: fixed;
+    z-index: 999;
+    bottom: 5rem;
+    right: 1rem;
+    width: 3rem;
+}
 </style>
 <a href="https://wa.me/+526246901960?text=Hola,%20me%20gustaría%20más%20información." target="_blank">
     <img src="assets/images/whats.png" alt="WhatsApp" id="whatsapp" />
