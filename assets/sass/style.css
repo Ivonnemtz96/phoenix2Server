@@ -72,6 +72,10 @@ Version:        1.0.0
 	Fonts
 ----------------------------*/
 
+
+
+
+
 @font-face {
   font-family: geometos;
   src: url(Geometos.ttf);
@@ -81,7 +85,8 @@ Version:        1.0.0
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 /* 1.1	Theme Reset Style */
 html {
-  font-size: 15pxpx;
+  font-size: 15px;
+  scroll-behavior: smooth !important;
 }
 
 :root {
@@ -10163,4 +10168,68 @@ time {
 .page-footer a {
   display: flex;
   margin-left: 4px;
+}
+
+/* botpn de bajar */
+.button-down {
+  top: 70%;
+  right: 54%;
+  position: absolute;
+  padding: 5px;
+  margin: 30px auto;
+  background: #000;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  transition: all 0.2s linear;
+}
+
+.button-down:hover {
+  transform: translate3d(0, 10px, 0);
+}
+.button-down::after {
+  content: "";
+  position: absolute;
+  left: 14px;
+  z-index: 11;
+  display: block;
+  width: 25px;
+  height: 25px;
+  border-top: 2px solid #fff;
+  border-left: 2px solid #fff;
+}
+
+.button-down::after {
+  top: 8px;
+  transform: rotate(225deg);
+}
+.textos{
+  position: absolute;
+  top: 70%;
+  right: 50%;
+}
+@media  (min-width: 325px) and (max-width: 460px) {
+  .textos{
+  position: absolute;
+  top: 68%;
+  right: 21%;
+  }
+  .button-down{
+    top: 68%;
+  right: 43%;
+  }
+  
+}
+
+@media  (min-width: 470px) and (max-width: 769px) {
+  .textos{
+  position: absolute;
+  top: 70%;
+  right: 41%;
+  }
+  .button-down{
+    top: 70%;
+  right: 51%;
+  }
+  
 }

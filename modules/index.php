@@ -23,131 +23,45 @@
                             </div> -->
                         </div>
                     </div>
-                    <!-- <div class="hero-right-text">
-                        <div class="grid">
-                            <div class="info">
-                                <h3>
-                                    +6
-                                </h3>
-                            </div>
-                            <div class="text">
-                                <h4>Años de experiencia</h4>
-                                <span>Nuestros años de experiencia y clientes nos respaldan</span>
-                            </div>
-                        </div>
-                    </div> -->
                 </div>
+                <div class="textos">
+                    <h6 style="color:#AC8D68;text-shadow: 2px 2px #000;">Desplazar hacia abajo</h6>
+                </div>
+                <a href="index.php#nosotros" class="button-down"></a>
+
             </div>
         </div>
-
-        <!-- <div class="slide">
-            <div class="slide-bg">
-                <img src="assets/images/slider/3.jpg" alt="">
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col col-lg-7 col-md-8 col-sm-12 slide-caption">
-                        <div class="hero-slider-content">
-                            <div class="slide-title">
-                                <h2>Phoenix Legal Services</h2>
-                            </div>
-                            <div class="slide-subtitle">
-                                <p>
-                                    Llevando los más altos estándares de inmuebles hasta la palma de su mano.
-                                </p>
-                            </div>
-                            <div class="btns">
-                                <a href="contact.php" class="theme-btn">Agendar cita</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="hero-right-text">
-                        <div class="grid">
-                            <div class="info">
-                                <h3>
-                                    +6
-                                </h3>
-                            </div>
-                            <div class="text">
-                                <h4>Años de experiencia</h4>
-                                <span>Nuestros años de experiencia y clientes nos respaldan</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="slide">
-            <div class="slide-bg">
-                <img src="assets/images/slider/2.jpg" alt="">
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col col-lg-7 col-md-8 col-sm-12 slide-caption">
-                        <div class="hero-slider-content">
-                            <div class="slide-title">
-                                <h2>La propiedad perfecta le espera</h2>
-                            </div>
-                            <div class="slide-subtitle">
-                                <p>
-                                    No hay dos propiedades iguales, la que lo está esperando es única.
-                                </p>
-                            </div>
-                            <div class="btns">
-                                <a href="contact.php" class="theme-btn">Agendar cita</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="hero-right-text">
-                        <div class="grid">
-                            <div class="info">
-                                <h3>
-                                    +6
-                                </h3>
-                            </div>
-                            <div class="text">
-                                <h4>Años de experiencia</h4>
-                                <span>Nuestros años de experiencia y clientes nos respaldan</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
     </div>
 </section>
 <!-- end of wpo-hero-section-1 slider -->
 
 <!--start wpo-about-section -->
 <section class="wpo-about-section section-padding">
-    <div class="container">
+    <div class="container" id="nosotros">
         <div class="row align-items-center">
-            <div class="col-lg-6 col-12">
+            <!-- <div hidden class="col-lg-6 col-12">
                 <div class="about-left">
                     <img src="assets/images/about.jpg" alt="">
                     <div class="about-left-text">
                         <img src="assets/images/logo-gde.png" alt="">
-                        <!-- <h3 style="color: white;">LOGO</h3> -->
-                        <!-- <img src="assets/images/about-left-shape.png" alt="">
+                        <h3 style="color: white;">LOGO</h3>
+                        <img src="assets/images/about-left-shape.png" alt="">
                         <h5>Desde</h5>
-                        <span>2016</span> -->
+                        <span>2016</span>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-6 col-12">
+            </div> -->
+            <div class="col-lg-12 col-12">
                 <div class="about-right">
-                    <div class="text">
-                        <span>¿Quiénes somos?</span>
-                        <h2>Phoenix Legal Services</h2>
+                    <div class="text text-center">
+                        <!-- <span>¿Quiénes somos?</span> -->
+                        <h2>Nuestro Objetivo</h2>
                         <p>
-                            Combinamos todos los recursos, conocimientos y los años de experiencia en el mercado de
-                            nuestros profesionales de talla internacional. Nuestro objetivo es proporcionar a nuestros
-                            clientes un cierre sin problemas, amigable y en tiempo, donde Phoenix Legal Services actúa
-                            como el principal coordinador de todas las partes involucradas en el proceso de cierre,
-                            desde que la oferta es aceptada por el vendedor hasta que el comprador obtiene un
-                            título/fideicomiso registrado, brindando la confianza y seguridad que nuestros clientes
-                            necesitan guiándolos en todo el proceso.
+                            Los servicios de cierre de bienes raíces de Phoenix Legal Services están diseñados en torno
+                            a nuestros principios básicos de transparencia, comunicación clara y rápida, y
+                            responsabilidad en cada transacción. Para que nuestros clientes tengan la libertad de
+                            explorar oportunidades inmobiliarias sabiendo que Phoenix Legal Services ofrece una solución
+                            confiable para proteger su inversión.
                         </p>
                         <a href="contactar.php" class="theme-btn">Contactar</a>
                     </div>
@@ -159,24 +73,8 @@
 <!--end wpo-about-section -->
 
 <!-- start wpo-service-section -->
-<section class="wpo-service-section">
-    <!-- <div class="shape-1">
-        <img src="assets/images/scervice-shap-1.png" alt="">
-    </div> -->
+<section class="wpo-service-section" style="padding: 79px 0;">
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-6 col-12">
-                <div class="wpo-section-title">
-                    <h3 style="color:#AC8D68 ;">
-                        Phoenix Legal Services está aquí para ayudarlo en la compra y venta de bienes raíces
-                        internacionales.
-                    </h3>
-                    <!-- <div class="shape-title">
-                        <img src="assets/images/section-title-shape.png" alt="">
-                    </div> -->
-                </div>
-            </div>
-        </div>
         <div class="scervice-wrap">
             <h3 style="text-align: center; margin-bottom: 2rem;">Nuestros servicios</h3>
             <div class="row justify-content-center align-items-center">
@@ -272,54 +170,40 @@
 
 <!-- start wpo-testimonial-section -->
 <div class="wpo-testimonial-section section-padding" style="margin-top: 1rem;">
-    <div class="container">
-        <div class="testimonial-wrapper">
-            <div class="row">
-                <div class="col-lg-6 col-12">
-                    <div class="testimonial-slider">
+    <div class="container-fluid">
+        <div class="testimonial-wrapper text-center">
+            <div class="row justify-content-center">
+                <div class="col-lg-5 col-12">
+                <div class="testimonial-slider">
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quidem explicabo fugit
-                                cum maiores, accusantium ea quas nostrum accusamus ipsum fuga ut vero delectus. A alias
-                                dolorem sunt voluptatibus officia!</p>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quidem explicabo fugit cum maiores, accusantium ea quas nostrum accusamus ipsum fuga ut vero delectus. A alias dolorem sunt voluptatibus officia!</p>
                             <h3>Cliente 1</h3>
 
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
-                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
-                                consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 2</h3>
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
-                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
-                                consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 3</h3>
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
-                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
-                                consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 4</h3>
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
-                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
-                                consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 5</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-12">
-                    <div class="testimonial-img">
-                        <!-- <img src="assets/images/testimonial.png" alt=""> -->
-                    </div>
-                </div>
+              
             </div>
 
         </div>
