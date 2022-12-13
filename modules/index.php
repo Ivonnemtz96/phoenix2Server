@@ -10,16 +10,17 @@
                     <div class="col col-md-10 col-sm-12 slide-caption">
                         <div class="hero-slider-content">
                             <div class="slide-title">
-                                <h2 >¿Sueñas con una propiedad?</h2>
+                                <h2>¿Sueñas con una propiedad?</h2>
                             </div>
                             <div class="slide-subtitle">
                                 <p>
-                                    Obtener la propiedad internacional de sus sueños ahora es más fácil y más seguro.
+                                    Guiamos proactivamente su transacción y lo mantenemos informado continuamente a lo
+                                    largo del camino.
                                 </p>
                             </div>
-                            <div class="btns">
+                            <!-- <div class="btns">
                                 <a href="contact.php" class="theme-btn">Agendar cita<i class="fi "></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <!-- <div class="hero-right-text">
@@ -126,7 +127,7 @@
                 <div class="about-left">
                     <img src="assets/images/about.jpg" alt="">
                     <div class="about-left-text">
-                    <img src="assets/images/logo-gde.png" alt="">
+                        <img src="assets/images/logo-gde.png" alt="">
                         <!-- <h3 style="color: white;">LOGO</h3> -->
                         <!-- <img src="assets/images/about-left-shape.png" alt="">
                         <h5>Desde</h5>
@@ -278,28 +279,38 @@
                     <div class="testimonial-slider">
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quidem explicabo fugit cum maiores, accusantium ea quas nostrum accusamus ipsum fuga ut vero delectus. A alias dolorem sunt voluptatibus officia!</p>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quidem explicabo fugit
+                                cum maiores, accusantium ea quas nostrum accusamus ipsum fuga ut vero delectus. A alias
+                                dolorem sunt voluptatibus officia!</p>
                             <h3>Cliente 1</h3>
 
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
+                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
+                                consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 2</h3>
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
+                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
+                                consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 3</h3>
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
+                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
+                                consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 4</h3>
                         </div>
                         <div class="testimonial-text">
                             <img src="assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem consequatur doloremque quas voluptatem nemo placeat!</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
+                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
+                                consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 5</h3>
                         </div>
                     </div>
