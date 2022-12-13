@@ -40,14 +40,14 @@
                     </div> -->
                 </div>
             </div>
-            <div class="col-lg-4 col-12">
+            <!-- <div class="col-lg-4 col-12">
                 <div class="project-right">
                     <a href="contact.php" class="theme-btn">Agendar Cita</a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
-    <section class="timeline">
+    <section class="linea">
         <h2 style="text-align: center;">Nuestros servicios</h2>
         <div class="container">
             <ul>
