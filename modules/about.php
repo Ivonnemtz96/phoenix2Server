@@ -20,33 +20,24 @@
     <section class="wpo-about-section section-padding">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6 col-12">
+                <div class="col-lg-3 col-12">
                     <div class="about-left">
                         <img src="assets/images/about.jpg" alt="">
-                        <div hidden class="about-left-text">
-                        <img src="assets/images/logo-gde.png" alt="">
-                        <!-- <h3 style="color: white;">LOGO</h3> -->
-                            <!-- <img src="assets/images/about-left-shape.png" alt="">
-                            <h5>Desde</h5>
-                            <span>2016</span> -->
-                        </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-12">
+                <div class="col-lg-9 col-12">
                     <div class="about-right">
                         <div class="text">
-                            <span>¿Quiénes somos?</span>
-                            <h2>Phoenix Legal Services</h2>
+                            <!-- <span>¿Quiénes somos?</span> -->
+                            <h2>Representamos sus intereses durante todo el proceso.</h2>
                             <p>
-                                Combinamos todos los recursos, conocimientos y los años de experiencia en el mercado con
-                                nuestros profesionales de talla internacional.
-                                Nuestro objetivo es proporcionar a nuestros clientes un cierre sin problemas y en
-                                tiempo, donde Phoenix Legal Services actúa como el principal coordinador de todas las
-                                partes involucradas en el proceso de cierre, desde que la oferta es aceptada por el
-                                vendedor hasta que el comprador obtiene un título/fideicomiso registrado brindando la
-                                confianza y seguridad que nuestros clientes necesitan guíandolos en todo el proceso.
+                                En Phoenix Legal Services, nuestra misión es brindar una experiencia de cierre única y
+                                centrada en el cliente a través de un servicio al cliente amable, profesional y
+                                receptivo, al tiempo que mantenemos nuestro compromiso con nuestros principios básicos
+                                de transparencia, comunicación clara y rápida, y responsabilidad a través de cada
+                                transacción.
                             </p>
-                            <a href="about.php" class="theme-btn">Ver más</a>
+
                         </div>
                     </div>
                 </div>
@@ -56,15 +47,118 @@
     <!--end wpo-about-section -->
 
 
-       <!-- start wpo-team-section -->
-       <section class="wpo-team-section section-padding">
+    <!--start wpo-about-section -->
+    <section class="wpo-about-section section-padding" style="padding: 80px 0px;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-9 col-12">
+                    <div class="about-right">
+                        <div class="text">
+                            <!-- <span>¿Quiénes somos?</span> -->
+                            <h2>Un enfoque moderno</h2>
+                            <p>
+                                En lugar de hacer las cosas de la manera típica como los viejos cerradores, creamos un
+                                sistema diseñado en torno a las necesidades de nuestros clientes. Aprovechando elementos
+                                seguros y modernos y la investigación meticulosa de nuestros socios de servicio,
+                                agilizamos simultáneamente los procedimientos y minimizamos los riesgos en el proceso de
+                                cierre de bienes raíces para nuestros clientes. <br><br>
+                                Nuestra misión en Phoenix Legal Services es brindar un servicio personalizado a nuestros
+                                clientes para que la experiencia de compra de bienes raíces sea perfecta y placentera.
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-12">
+                    <div class="about-left">
+                        <img src="assets/images/about.jpg" alt="">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!--end wpo-about-section -->
+
+
+    <!-- Principios fundamentales -->
+
+    <section class="wpo-about-section section-padding" style="padding: 80px 0px;">
+        <div class="container">
+            <h2 style="margin-bottom: 2rem;">Nuestros principios fundamentales</h2>
+            <div class="row align-items-center mb-5">
+                <div class="col-lg-4 col-12">
+                    <div class="about-right">
+                        <div class="text">
+                            <!-- <span>¿Quiénes somos?</span> -->
+                            <h4>Transparencia</h4>
+                            <p>
+                                Entendemos que el proceso de compra de bienes raíces en México está lleno de incógnitas
+                                para los compradores primerizos. Es por eso que nuestra prioridad es estar contigo en
+                                cada paso del camino para brindarte tranquilidad y claridad en todo el proceso de
+                                compra.
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-12">
+                    <div class="about-right">
+                        <div class="text">
+                            <!-- <span>¿Quiénes somos?</span> -->
+                            <h4>Comunicación</h4>
+                            <p>
+                                Entienda lo que está pasando y lo que viene después. Cualquiera que sea su consulta,
+                                responderemos con prontitud, abordaremos directamente sus preguntas y entregaremos
+                                respuestas de manera oportuna. Con Phoenix, nos comunicamos claramente con los clientes
+                                sobre los pasos del proceso de cierre, con actualizaciones y notificaciones continuas
+                                para garantizar que su transacción esté siempre encaminada.
+                                <br>
+                                <br>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-12">
+                    <div class="about-right">
+                        <div class="text">
+                            <!-- <span>¿Quiénes somos?</span> -->
+                            <h4>Responsabilidad</h4>
+                            <p>
+                                Phoenix entiende que la atención a los detalles no termina con la preparación del
+                                contrato o la diligencia debida, sino que incluye un cuidado genuino, niveles más altos
+                                de comunicación y opciones creativas de cierre para crear una experiencia de cierre
+                                excepcional para los clientes. Su día de cierre marcará el comienzo de un nuevo y
+                                emocionante capítulo de su vida, y nuestra misión es garantizar que su experiencia de
+                                cierre inicie el viaje con una celebración.
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- start wpo-team-section -->
+    <section hidden class="wpo-team-section section-padding">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-12">
                     <div class="wpo-section-title">
                         <h2>Conoce a nuestro equipo</h2> <br>
                         <span>
-                        Nuestro equipo de abogados es experto en transacciones internacionales y derecho inmobiliario. <br> Estamos dedicados a la experiencia de nuestros clientes, ofreciendo solo las mejores soluciones para cada caso.
+                            Nuestro equipo de abogados es experto en transacciones internacionales y derecho
+                            inmobiliario. <br> Estamos dedicados a la experiencia de nuestros clientes, ofreciendo solo
+                            las mejores soluciones para cada caso.
                         </span>
                         <div class="shape-title">
                             <!-- <img src="assets/images/section-title-shape-2.png" alt=""> -->
@@ -149,7 +243,7 @@
     </section>
 
     <!-- Menú lateral de los agentes -->
-    <section class="info-agentes">
+    <section hidden class="info-agentes">
         <!-- Info 1 -->
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasExample"
             aria-labelledby="offcanvasExampleLabel">

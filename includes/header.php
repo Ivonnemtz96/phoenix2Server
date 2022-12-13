@@ -75,7 +75,7 @@
                                     <a href="#">Sobre</a>
                                     <ul class="sub-menu">
                                         <li><a href="about.php">Nosotros</a></li>
-                                        <li><a href="partners.php">Asóciate con nosotros</a></li>
+                                        <li><a href="partners.php">Nuestro equipo</a></li>
                                         <!-- <li><a href="giveback.php">Retribuir</a></li> -->
                                     </ul>
                                 <li><a href="services.php">Servicios</a></li>
