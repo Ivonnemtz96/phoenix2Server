@@ -4897,7 +4897,7 @@ img {
   left: -210px;
   width: 1100px;
   height: 1100px;
-  background: #AC8D68;
+  /* background: #AC8D68; */
   border-radius: 50%;
   overflow: hidden;
   opacity: 0.1;
@@ -4932,7 +4932,7 @@ img {
   right: -280px;
   width: 1100px;
   height: 1100px;
-  background: #AC8D68;
+  /* background: #AC8D68; */
   border-radius: 50%;
   overflow: hidden;
   opacity: 0.1;
@@ -9989,7 +9989,7 @@ img {
   bottom: 0;
   width: 400px;
   padding: 15px;
-  background: #AC8D68;
+  background: #292929;
 }
 
 .linea ul li div::before {
@@ -10008,7 +10008,7 @@ img {
 .linea ul li:nth-child(odd) div::before {
   left: -15px;
   border-width: 8px 16px 8px 0;
-  border-color: transparent #AC8D68 transparent transparent;
+  border-color: transparent #292929 transparent transparent;
 }
 
 .linea ul li:nth-child(even) div {
@@ -10018,7 +10018,7 @@ img {
 .linea ul li:nth-child(even) div::before {
   right: -15px;
   border-width: 8px 0 8px 16px;
-  border-color: transparent transparent transparent #AC8D68;
+  border-color: transparent transparent transparent #292929;
 }
 
 time {
@@ -10026,6 +10026,9 @@ time {
   font-size: 1.2rem;
   font-weight: bold;
   margin-bottom: 8px;
+}
+.linea-txt{
+  color: #fff;
 }
 
 
