@@ -18,7 +18,7 @@
 
     <!--start wpo-about-section -->
     <section class="wpo-about-section section-padding">
-        <div class="container">
+        <div class="container" style="padding: 25px 50px; background-color: #fff;">
             <div class="row align-items-center">
                 <div class="col-lg-3 col-12">
                     <div class="about-left">
@@ -27,9 +27,9 @@
                 </div>
                 <div class="col-lg-9 col-12">
                     <div class="about-right">
-                        <div class="text">
+                        <div class="text" style="padding: 15px 2px;">
                             <!-- <span>¿Quiénes somos?</span> -->
-                            <h2 style="font-size:22px;">Nuestra compañía de cierres es 100% propiedad y está
+                            <h2 style="font-size:26px;">Nuestra compañía de cierres es 100% propiedad y está
                                 administrada por abogados.</h2>
                             <p>
                                 Phoenix Legal Services ha sido propiedad y está operado por un abogado y un equipo de
