@@ -177,7 +177,7 @@
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="assets/images/team/1.jpg" alt="" class="mb-3">
+                <img src="assets/images/team/2.jpg" alt="" class="mb-3">
                 <a href="mailto:jordy@phoenixservices.com.mx"
                     style="color: #000;text-decoration: underline;">jordy@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
@@ -221,7 +221,7 @@
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="assets/images/team/1.jpg" alt="" class="mb-3">
+                <img src="assets/images/team/2.jpg" alt="" class="mb-3">
                 <a href="mailto:eduardo@phoenixservices.com.mx"
                     style="color: #000;text-decoration: underline;">eduardo@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
