@@ -55,7 +55,7 @@
             <!-- punto 1 -->
             <div class="col-lg-3 col-12">
                 <div class="about-left">
-                    <img src="assets/images/about.jpg" alt="">
+                    <img src="assets/images/1.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-9 col-12">
@@ -100,7 +100,7 @@
             </div>
             <div class="col-lg-3 col-12 order-1 order-md-2">
                 <div class="about-left">
-                    <img src="assets/images/about.jpg" alt="">
+                    <img src="assets/images/2.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -109,7 +109,7 @@
             <!-- punto 3 -->
             <div class="col-lg-3 col-12  ">
                 <div class="about-left">
-                    <img src="assets/images/about.jpg" alt="">
+                    <img src="assets/images/3.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-9 col-12  ">
@@ -155,7 +155,7 @@
             </div>
             <div class="col-lg-3 col-12 order-1 order-md-2">
                 <div class="about-left">
-                    <img src="assets/images/about.jpg" alt="">
+                    <img src="assets/images/4.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -164,7 +164,7 @@
             <!-- punto 5 -->
             <div class="col-lg-3 col-12 ">
                 <div class="about-left">
-                    <img src="assets/images/about.jpg" alt="">
+                    <img src="assets/images/5.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-9 col-12 ">

@@ -52,7 +52,8 @@
                     <div class="col-lg-3 col-md-5 col-6">
                         <div class="navbar-header">
                             <a class="navbar-brand" href="index.php">
-                            <img src="assets/images/logo2.png" alt="">
+                                <img class="d-none d-md-block" src="assets/images/logo2.png" alt="">
+                                <img class="d-block d-md-none" src="assets/images/logo.png" alt="">
                             </a>
                         </div>
                     </div>
