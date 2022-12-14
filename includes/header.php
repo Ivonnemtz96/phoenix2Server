@@ -73,13 +73,13 @@
                                 </li>
                                 <!-- <li><a href="about.php">Nosotros</a></li> -->
                                 <li class="menu-item-has-children">
-                                    <a href="#">Sobre</a>
+                                    <a class="<? echo $sobre?>" href="#">Sobre</a>
                                     <ul class="sub-menu">
-                                        <li><a class="<? echo $sobre?>" href="about.php">Nosotros</a></li>
-                                        <li><a class="<? echo $sobre?>" href="team.php">Nuestro equipo</a></li>
+                                        <li><a  href="about.php">Nosotros</a></li>
+                                        <li><a href="team.php">Nuestro equipo</a></li>
                                         <!-- <li><a href="giveback.php">Retribuir</a></li> -->
                                     </ul>
-                                <li><a class="<? echo $servicio?>" href="services.php">Servicios</a></li>
+                                <li><a class="<? echo $servicios?>" href="services.php">Servicios</a></li>
                                 <li><a class="<? echo $guia?>" href="guia.php">Guía de cierre</a></li>
                                 <!-- <li><a href="about.html"></a></li> -->
                                 <!-- <li class="menu-item-has-children">

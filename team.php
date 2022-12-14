@@ -2,7 +2,7 @@
 <html lang="en">
 <?php
 $title = 'Equipo';
-$equipo = 'active';
+$sobre = 'active';
 
 include('includes/head.php');
 ?>
