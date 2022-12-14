@@ -19,7 +19,7 @@
     <!--start wpo-about-section -->
     <section class="wpo-about-section section-padding">
         <div class="container">
-            <div class="row align-items-center">
+            <div class="row align-items-center" style="background-color: #fff;padding: 25px 60px;">
                 <div class="col-lg-3 col-12">
                     <div class="about-left">
                         <img src="assets/images/about.jpg" alt="">
@@ -50,7 +50,7 @@
     <!--start wpo-about-section -->
     <section class="wpo-about-section section-padding" style="padding: 80px 0px;">
         <div class="container">
-            <div class="row align-items-center">
+            <div class="row align-items-center" style="background-color: #fff;padding: 25px 60px">
                 <div class="col-lg-9 col-12">
                     <div class="about-right">
                         <div class="text">
@@ -83,7 +83,7 @@
 
     <!-- Principios fundamentales -->
 
-    <section class="wpo-about-section section-padding" style="padding: 80px 0px;">
+    <section class="" style="padding: 80px 0px; background-color: #fff;">
         <div class="container">
             <h2 style="margin-bottom: 2rem;">Nuestros principios fundamentales</h2>
             <div class="row align-items-center mb-5">
@@ -97,8 +97,6 @@
                                 para los compradores primerizos. Es por eso que nuestra prioridad es estar contigo en
                                 cada paso del camino para brindarte tranquilidad y claridad en todo el proceso de
                                 compra.
-                                <br>
-                                <br>
                                 <br>
                                 <br>
                                 <br>
@@ -151,7 +149,7 @@
     <!-- start wpo-team-section -->
     <section hidden class="wpo-team-section section-padding">
         <div class="container">
-            <div class="row justify-content-center">
+            <div class="row justify-content-center" >
                 <div class="col-lg-6 col-12">
                     <div class="wpo-section-title">
                         <h2>Conoce a nuestro equipo</h2> <br>
