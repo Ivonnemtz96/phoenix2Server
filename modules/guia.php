@@ -17,9 +17,9 @@
 <!-- end page-title -->
 
 <!--start wpo-about-section -->
-<section class="wpo-about-section section-padding">
-    <div class="container">
-        <div class="row align-items-center">
+<section class="wpo-about-section section-padding" style="padding: 10px;">
+    <div class="container mt-5">
+        <div class="row align-items-center" style="padding: 80px 40px; background-color: #fff;">
             <!-- <div class="col-lg-3 col-12">
                     <div class="about-left">
                         <img src="assets/images/about.jpg" alt="">
@@ -27,7 +27,7 @@
                 </div> -->
             <div class="col-lg-12 col-12">
                 <div class="about-right">
-                    <div class="text">
+                    <div class="text" style="padding: 2px 2px;">
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h3 style=" text-align: center;">Todo lo que necesita saber sobre la adquisición de una
                             propiedad en México, desde la oferta inicial hasta el cierre final.</h3>
@@ -51,16 +51,16 @@
 
 <section class="wpo-about-section section-padding">
     <div class="container">
-        <div class="row align-items-center">
+        <div class="row align-items-center mt-5 mb-5" style="padding: 50px 50px; background-color: #fff;">
             <!-- punto 1 -->
-            <div class="col-lg-3 col-12 mt-5 ">
+            <div class="col-lg-3 col-12">
                 <div class="about-left">
                     <img src="assets/images/about.jpg" alt="">
                 </div>
             </div>
-            <div class="col-lg-9 col-12 mt-5 ">
+            <div class="col-lg-9 col-12">
                 <div class="about-right">
-                    <div class="text">
+                    <div class="text" style="padding: 2px 2px;">
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2 style=" text-align: center; font-size: 29px;">Paso 1: Realizar la debida diligencia</h2>
                         <p>
@@ -76,11 +76,11 @@
             </div>
         </div>
 
-        <div class="row align-items-center">
+        <div class="row align-items-center mt-5 mb-5" style="padding: 50px 50px; background-color: #fff;">
             <!-- punto 2 -->
-            <div class="col-lg-9 col-12 mt-5 order-2 order-md-1">
+            <div class="col-lg-9 col-12 order-2 order-md-1">
                 <div class="about-right">
-                    <div class="text">
+                    <div class="text"  style="padding: 2px 2px;">
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2 style=" text-align: center; font-size: 29px;">Paso 2: Preparar los acuerdos de depósito en
                             garantía y compra</h2>
@@ -98,23 +98,23 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-12 mt-5 order-1 order-md-2">
+            <div class="col-lg-3 col-12 order-1 order-md-2">
                 <div class="about-left">
                     <img src="assets/images/about.jpg" alt="">
                 </div>
             </div>
         </div>
 
-        <div class="row align-items-center">
+        <div class="row align-items-center mt-5 mb-5" style="padding: 50px 50px; background-color: #fff;">
             <!-- punto 3 -->
-            <div class="col-lg-3 col-12 mt-5 ">
+            <div class="col-lg-3 col-12  ">
                 <div class="about-left">
                     <img src="assets/images/about.jpg" alt="">
                 </div>
             </div>
-            <div class="col-lg-9 col-12 mt-5 ">
+            <div class="col-lg-9 col-12  ">
                 <div class="about-right">
-                    <div class="text">
+                    <div class="text"  style="padding: 2px 2px;">
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2 style=" text-align: center; font-size: 29px;">Paso 3 - Establezca el Fideicomiso
                             (Fideicomiso) para Adquirir su Propiedad</h2>
@@ -134,11 +134,11 @@
             </div>
         </div>
 
-        <div class="row align-items-center">
+        <div class="row align-items-center mt-5 mb-5" style="padding: 50px 50px; background-color: #fff;">
             <!-- punto 4 -->
-            <div class="col-lg-9 col-12 mt-5 order-2 order-md-1">
+            <div class="col-lg-9 col-12 order-2 order-md-1">
                 <div class="about-right">
-                    <div class="text">
+                    <div class="text"  style="padding: 2px 2px;">
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2 style=" text-align: center; font-size: 29px;">Paso 4: Coordine con el notario público y el
                             banco fiduciario</h2>
@@ -153,23 +153,23 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-12 mt-5 order-1 order-md-2">
+            <div class="col-lg-3 col-12 order-1 order-md-2">
                 <div class="about-left">
                     <img src="assets/images/about.jpg" alt="">
                 </div>
             </div>
         </div>
 
-        <div class="row align-items-center">
+        <div class="row align-items-center mt-5 mb-5" style="padding: 50px 50px; background-color: #fff;">
             <!-- punto 5 -->
-            <div class="col-lg-3 col-12 mt-5 ">
+            <div class="col-lg-3 col-12 ">
                 <div class="about-left">
                     <img src="assets/images/about.jpg" alt="">
                 </div>
             </div>
-            <div class="col-lg-9 col-12 mt-5 ">
+            <div class="col-lg-9 col-12 ">
                 <div class="about-right">
-                    <div class="text">
+                    <div class="text"  style="padding: 2px 2px;">
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2 style=" text-align: center; font-size: 29px;">Paso 5 - Cierre final </h2>
                         <p>
@@ -187,19 +187,21 @@
                     </div>
                 </div>
             </div>
+
+            <div class="container text-center mt-5">
+                <div class="btns">
+                    <a href="contact.php" class="theme-btn">Versión PDF<i class="fi "></i></a>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="container text-center mt-5">
-        <div class="btns">
-            <a href="contact.php" class="theme-btn">Versión PDF<i class="fi "></i></a>
-        </div>
-    </div>
+
 </section>
 <!--end wpo-about-section -->
 
 
 <section class="faqs">
-    <div class="container preguntas mb-5">
+    <div class="container preguntas mb-5 mt-5">
         <h3 style="margin-bottom: 3rem;">Preguntas Frecuentes</h3>
         <div class="accordion" id="accordionPanelsStayOpenExample">
             <div class="accordion-item">
@@ -212,7 +214,7 @@
                 </h2>
                 <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show"
                     aria-labelledby="panelsStayOpen-headingOne">
-                    <div class="accordion-body">
+                    <div class="accordion-body" style="color: #666666;">
                         Por razones de seguridad nacional, la constitución federal mexicana prohíbe que las personas no
                         mexicanas sean propietarias de bienes inmuebles ubicados dentro de las 30 millas de la costa de
                         México, denominada “zona restringida”. Todo Baja California Sur y todas las demás tierras
@@ -242,8 +244,10 @@
                 </h2>
                 <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse"
                     aria-labelledby="panelsStayOpen-headingTwo">
-                    <div class="accordion-body">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam adipisci ratione ipsa quas esse, unde rerum vel suscipit laborum sequi. Voluptatum, cupiditate deleniti? Porro enim nihil cupiditate. Repellat, ullam quidem?
+                    <div class="accordion-body" style="color: #666666;">
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam adipisci ratione ipsa quas
+                        esse, unde rerum vel suscipit laborum sequi. Voluptatum, cupiditate deleniti? Porro enim nihil
+                        cupiditate. Repellat, ullam quidem?
                     </div>
                 </div>
             </div>
@@ -258,26 +262,29 @@
                 </h2>
                 <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse"
                     aria-labelledby="panelsStayOpen-headingThree">
-                    <div class="accordion-body">
-                       <p>
-                       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic ducimus ipsam cum, ea labore suscipit, praesentium nihil minima sequi quo veritatis atque quam sapiente at velit? Temporibus esse non necessitatibus.
-                       </p>
+                    <div class="accordion-body" style="color: #666666;">
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic ducimus ipsam cum, ea labore
+                            suscipit, praesentium nihil minima sequi quo veritatis atque quam sapiente at velit?
+                            Temporibus esse non necessitatibus.
                     </div>
                 </div>
             </div>
-            
+
             <div class="accordion-item">
                 <h2 class="accordion-header" id="panelsStayOpen-headingCuatro">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#panelsStayOpen-collapseCuatro" aria-expanded="false"
                         aria-controls="panelsStayOpen-collapseCuatro">
-                        ¿Por qué necesito una firma de servicios de cierre o un abogado durante mi transacción de bienes raíces?
+                        ¿Por qué necesito una firma de servicios de cierre o un abogado durante mi transacción de bienes
+                        raíces?
                     </button>
                 </h2>
                 <div id="panelsStayOpen-collapseCuatro" class="accordion-collapse collapse"
                     aria-labelledby="panelsStayOpen-headingCuatro">
-                    <div class="accordion-body">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi dicta placeat consectetur, incidunt sint explicabo inventore itaque corporis nostrum cupiditate possimus perspiciatis ducimus error, quaerat omnis repellendus, eos necessitatibus deleniti.
+                    <div class="accordion-body" style="color: #666666;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi dicta placeat consectetur,
+                        incidunt sint explicabo inventore itaque corporis nostrum cupiditate possimus perspiciatis
+                        ducimus error, quaerat omnis repellendus, eos necessitatibus deleniti.
                     </div>
                 </div>
             </div>
@@ -292,8 +299,10 @@
                 </h2>
                 <div id="panelsStayOpen-collapseCinco" class="accordion-collapse collapse"
                     aria-labelledby="panelsStayOpen-headingCinco">
-                    <div class="accordion-body">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi, placeat? Atque, libero dolore eos cum maxime incidunt vel sunt rerum amet dolorem consectetur nisi maiores sint magnam impedit iure distinctio.
+                    <div class="accordion-body" style="color: #666666;">
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi, placeat? Atque, libero dolore
+                        eos cum maxime incidunt vel sunt rerum amet dolorem consectetur nisi maiores sint magnam impedit
+                        iure distinctio.
                     </div>
                 </div>
             </div>
@@ -308,8 +317,10 @@
                 </h2>
                 <div id="panelsStayOpen-collapseSeis" class="accordion-collapse collapse"
                     aria-labelledby="panelsStayOpen-headingSeis">
-                    <div class="accordion-body">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, quam. Veritatis nam quibusdam eius ea excepturi eum labore quo quidem illo natus minima doloremque suscipit, omnis voluptate numquam dolores voluptatem.
+                    <div class="accordion-body" style="color: #666666;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, quam. Veritatis nam quibusdam
+                        eius ea excepturi eum labore quo quidem illo natus minima doloremque suscipit, omnis voluptate
+                        numquam dolores voluptatem.
                     </div>
                 </div>
             </div>
@@ -324,8 +335,10 @@
                 </h2>
                 <div id="panelsStayOpen-collapseSiete" class="accordion-collapse collapse"
                     aria-labelledby="panelsStayOpen-headingSiete">
-                    <div class="accordion-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut perferendis eligendi, voluptas quaerat eius iste quidem temporibus natus quas blanditiis ipsam velit adipisci a debitis quod? Nam quam vel fugiat.
+                    <div class="accordion-body" style="color: #666666;">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut perferendis eligendi, voluptas
+                        quaerat eius iste quidem temporibus natus quas blanditiis ipsam velit adipisci a debitis quod?
+                        Nam quam vel fugiat.
                     </div>
                 </div>
             </div>
@@ -340,8 +353,10 @@
                 </h2>
                 <div id="panelsStayOpen-collapseOcho" class="accordion-collapse collapse"
                     aria-labelledby="panelsStayOpen-headingOcho">
-                    <div class="accordion-body">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam aspernatur iste animi eum deleniti autem voluptatibus quos sit, ea consectetur. Deleniti adipisci rerum, quisquam totam in impedit doloremque eius hic?
+                    <div class="accordion-body" style="color: #666666;">
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam aspernatur iste animi eum
+                        deleniti autem voluptatibus quos sit, ea consectetur. Deleniti adipisci rerum, quisquam totam in
+                        impedit doloremque eius hic?
                     </div>
                 </div>
             </div>
