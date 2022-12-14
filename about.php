@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$title = 'Inicio';
-$inicio = 'active';
+$title = 'Sobre';
+$sobre = 'active';
 
 include('includes/head.php');
 ?>

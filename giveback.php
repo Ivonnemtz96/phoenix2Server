@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$title = 'Inicio';
-$inicio = 'active';
+$title = 'giveback';
+$giveback = 'active';
 
 include('includes/head.php');
 ?>

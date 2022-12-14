@@ -62,7 +62,7 @@
                             <button class="menu-close"><i class="ti-close"></i></button>
                             <ul class="nav navbar-nav mb-2 mb-lg-0">
                                 <li>
-                                    <a class="active" href="index.php">Inicio</a>
+                                    <a class="<? echo $inicio?>" href="index.php">Inicio</a>
                                     <!--class="menu-item-has-children"
                                      <ul class="sub-menu">
                                         <li><a href="index.html">Home style 1</a></li>
@@ -75,12 +75,12 @@
                                 <li class="menu-item-has-children">
                                     <a href="#">Sobre</a>
                                     <ul class="sub-menu">
-                                        <li><a href="about.php">Nosotros</a></li>
-                                        <li><a href="partners.php">Nuestro equipo</a></li>
+                                        <li><a class="<? echo $sobre?>" href="about.php">Nosotros</a></li>
+                                        <li><a class="<? echo $sobre?>" href="team.php">Nuestro equipo</a></li>
                                         <!-- <li><a href="giveback.php">Retribuir</a></li> -->
                                     </ul>
-                                <li><a href="services.php">Servicios</a></li>
-                                <li><a href="guia.php">Guía de cierre</a></li>
+                                <li><a class="<? echo $servicio?>" href="services.php">Servicios</a></li>
+                                <li><a class="<? echo $guia?>" href="guia.php">Guía de cierre</a></li>
                                 <!-- <li><a href="about.html"></a></li> -->
                                 <!-- <li class="menu-item-has-children">
                                     <a href="#">project</a>
@@ -148,7 +148,7 @@
                             </div> -->
 
                             <div class="close-form">
-                                <a class="theme-btn" href="contact.php">Contáctanos</a>
+                                <a  class="theme-btn" href="contact.php">Contáctanos</a>
                             </div>
                         </div>
                     </div>
