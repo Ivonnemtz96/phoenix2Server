@@ -80,19 +80,23 @@
     </section>
     <!--end wpo-about-section -->
 
+    <!-- background-color: #696865;
+    padding: 40px;
+    border-radius: 5px;
+    border: solid 1px #fff -->
 
     <!-- Principios fundamentales -->
 
     <section class="" style="padding: 80px 0px; background-color: #fff;">
         <div class="container">
             <h2 style="margin-bottom: 2rem;">Nuestros principios fundamentales</h2>
-            <div class="row align-items-center mb-5">
+            <div class="row align-items-center mb-5 g-5">
                 <div class="col-lg-4 col-12">
-                    <div class="about-right">
+                    <div class="about-right" style="background-color:#e5e5e5;padding:40px;">
                         <div class="text">
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h4>Transparencia</h4>
-                            <p>
+                            <p style="color: #292929;">
                                 Entendemos que el proceso de compra de bienes raíces en México está lleno de incógnitas
                                 para los compradores primerizos. Es por eso que nuestra prioridad es estar contigo en
                                 cada paso del camino para brindarte tranquilidad y claridad en todo el proceso de
@@ -102,21 +106,23 @@
                                 <br>
                                 <br>
                                 <br>
+                                <br>
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-12">
-                    <div class="about-right">
+                    <div class="about-right" style="background-color:#e5e5e5;padding:40px;">
                         <div class="text">
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h4>Comunicación</h4>
-                            <p>
+                            <p style="color: #292929;">
                                 Entienda lo que está pasando y lo que viene después. Cualquiera que sea su consulta,
                                 responderemos con prontitud, abordaremos directamente sus preguntas y entregaremos
                                 respuestas de manera oportuna. Con Phoenix, nos comunicamos claramente con los clientes
                                 sobre los pasos del proceso de cierre, con actualizaciones y notificaciones continuas
                                 para garantizar que su transacción esté siempre encaminada.
+                                <br>
                                 <br>
                                 <br>
                             </p>
@@ -125,17 +131,19 @@
                 </div>
 
                 <div class="col-lg-4 col-12">
-                    <div class="about-right">
+                    <div class="about-right" style="background-color:#e5e5e5;padding:40px;">
                         <div class="text">
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h4>Responsabilidad</h4>
-                            <p>
+                            <p style="color: #292929;">
                                 Phoenix entiende que la atención a los detalles no termina con la preparación del
                                 contrato o la diligencia debida, sino que incluye un cuidado genuino, niveles más altos
                                 de comunicación y opciones creativas de cierre para crear una experiencia de cierre
                                 excepcional para los clientes. Su día de cierre marcará el comienzo de un nuevo y
                                 emocionante capítulo de su vida, y nuestra misión es garantizar que su experiencia de
                                 cierre inicie el viaje con una celebración.
+                                <br>
+                                <br>
 
                             </p>
                         </div>
