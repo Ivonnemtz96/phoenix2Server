@@ -19,13 +19,13 @@
     <!--start wpo-about-section -->
     <section class="wpo-about-section section-padding">
         <div class="container">
-            <div class="row align-items-center" style="background-color: #fff;padding: 25px 60px;">
-                <div class="col-lg-3 col-12">
+            <div class="row align-items-center" style="background-color: #fff;padding: 25px 10px;">
+                <div class="col-lg-5 col-12">
                     <div class="about-left">
-                        <img src="assets/images/about.jpg" alt="">
+                        <img src="assets/images/2.webp" alt="">
                     </div>
                 </div>
-                <div class="col-lg-9 col-12">
+                <div class="col-lg-7 col-12">
                     <div class="about-right">
                         <div class="text">
                             <!-- <span>¿Quiénes somos?</span> -->
@@ -50,8 +50,8 @@
     <!--start wpo-about-section -->
     <section class="wpo-about-section section-padding" style="padding: 80px 0px;">
         <div class="container">
-            <div class="row align-items-center" style="background-color: #fff;padding: 25px 60px">
-                <div class="col-lg-9 col-12">
+            <div class="row align-items-center" style="background-color: #fff;padding: 25px 10px">
+                <div class="col-lg-7 col-12">
                     <div class="about-right">
                         <div class="text">
                             <!-- <span>¿Quiénes somos?</span> -->
@@ -69,9 +69,9 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-12">
+                <div class="col-lg-5 col-12">
                     <div class="about-left">
-                        <img src="assets/images/about.jpg" alt="">
+                        <img src="assets/images/1.webp" alt="">
                     </div>
                 </div>
 
