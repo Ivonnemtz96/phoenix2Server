@@ -10114,3 +10114,19 @@ time {
   background-color: #d2d6d7;
   box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
  }
+
+ /* btn descarga pdf */
+ .btns .btn-pdf:hover{
+  background-color: white !important;
+  border: 1px solid !important;
+  border-color: #000;
+  color: #000;
+
+ }
+
+ .btns .btn-pdf::after{
+  background-color: white !important;
+  border: 1px solid !important;
+  border-color: #000;
+  color: #000;
+ }
