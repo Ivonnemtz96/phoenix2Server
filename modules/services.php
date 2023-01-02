@@ -20,10 +20,10 @@
 <section class="wpo-project-section" style="background-color: #fff;">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-12">
+            <div class="col-lg-12 col-12">
                 <div class="wpo-section-title">
                     <!-- <span>SUCCESSFUL PROJECT</span> -->
-                    <h2 style="margin-bottom: 1rem;text-transform: none;">
+                    <h2 style="margin-bottom: 1rem;text-transform: none; text-align: center;">
                         Comprar una propiedad en Cabo, lo hacemos fácil.
                     </h2>
                     <p style="color: #292929;">
@@ -33,7 +33,7 @@
                         abogados se especializan en el mercado inmobiliario del área de Baja California Sur y están
                         preparados para brindarle el apoyo <strong>adecuado de inicio hasta que ¡Eres oficialmente el
                             nuevo
-                            propietario!.</strong>
+                            propietario!</strong>
                     </p>
                     <!-- <div class="shape-title">
                         <img src="assets/images/section-title-shape-2.png" alt="">
@@ -53,20 +53,27 @@
             <ul>
                 <li>
                     <div class="linea-txt">
-                        <time><h4 style="color: #fff;">Cierres</h4></time>
-                        Coordinamos el proceso de cierre de la operación inmobiliaria con los agentes inmobiliarios, el
-                        vendedor, el comprador, el prestamista (si procede), el banco fiduciario, el tasador, el
-                        notario,
-                        las oficinas gubernamentales y todas las personas que participan en el proceso. <br>
-                        Respondemos rápidamente a todas sus preguntas desde el principio y durante todo el proceso, le
-                        enviamos informes, protegemos sus intereses y nos aseguramos de que el papeleo de cierre sea
-                        correcto, justo y esté en orden legal. Establecemos su Fideicomiso y completamos todas las
-                        tareas
-                        previas al cierre en su nombre, y estamos a su lado o le representamos en el cierre. Si la
-                        transacción involucra financiamiento (ya sea otorgado por el vendedor o por un tercer
-                        prestamista)
-                        implementamos las garantías e instrumentos necesarios para asegurar las obligaciones de pago del
-                        comprador.
+                        <time>
+                            <h4 style="color: #fff;">Cierres</h4>
+                        </time>
+                        <p>
+                            Coordinamos el proceso de cierre de la operación inmobiliaria con los agentes inmobiliarios,
+                            el
+                            vendedor, el comprador, el prestamista (si procede), el banco fiduciario, el tasador, el
+                            notario,
+                            las oficinas gubernamentales y todas las personas que participan en el proceso. <br>
+                            Respondemos rápidamente a todas sus preguntas desde el principio y durante todo el proceso,
+                            le
+                            enviamos informes, protegemos sus intereses y nos aseguramos de que el papeleo de cierre sea
+                            correcto, justo y esté en orden legal. Establecemos su Fideicomiso y completamos todas las
+                            tareas
+                            previas al cierre en su nombre, y estamos a su lado o le representamos en el cierre. Si la
+                            transacción involucra financiamiento (ya sea otorgado por el vendedor o por un tercer
+                            prestamista)
+                            implementamos las garantías e instrumentos necesarios para asegurar las obligaciones de pago
+                            del
+                            comprador.
+                        </p>
                     </div>
                 </li>
                 <!-- <li>
@@ -84,40 +91,63 @@
             </li> -->
                 <li>
                     <div class="linea-txt">
-                        <time><h4 style="color: #fff;">Servicios de depósito en garantía</h4></time>
-                        No proporcionamos servicios de custodia directamente a nuestros clientes, sino que utilizamos
-                        empresas de custodia bien establecidas en Estados Unidos, tales como Global Escrow Solutions,
-                        TLA y
-                        Armour Secure. Estas empresas se especializan en los servicios de custodia ofreciendo el mejor
-                        nivel
-                        de seguridad requerido para todos nuestros clientes.
+                        <time>
+                            <h4 style="color: #fff;">Servicios de depósito en garantía</h4>
+                        </time>
+                        <p>
+                            No proporcionamos servicios de custodia directamente a nuestros clientes, sino que
+                            utilizamos
+                            empresas de custodia bien establecidas en Estados Unidos, tales como Global Escrow
+                            Solutions,
+                            TLA y
+                            Armour Secure. Estas empresas se especializan en los servicios de custodia ofreciendo el
+                            mejor
+                            nivel
+                            de seguridad requerido para todos nuestros clientes.
+                        </p>
                     </div>
                 </li>
                 <li>
                     <div class="linea-txt">
-                        <time><h4 style="color: #fff;">Contratos y documentos jurídicos</h4></time>
-                        En Phoenix Legal Services nuestros abogados están capacitados para asistirle en todo tipo de
-                        contratos que neustros clientes necesiten, como lo son: promesa a fideicomiso , compraventa,
-                        construcción, arrendamiento, joint ventures, etc. <br>
-                        También redactamos otros documentos legales como pagarés, poderes, revisiones de abogados,
-                        informes
-                        de due diligence, resoluciones corporativas, notificaciones, comunicaciones oficiales, etc.
+                        <time>
+                            <h4 style="color: #fff;">Contratos y documentos jurídicos</h4>
+                        </time>
+                        <p>
+                            En Phoenix Legal Services nuestros abogados están capacitados para asistirle en todo tipo de
+                            contratos que neustros clientes necesiten, como lo son: promesa a fideicomiso , compraventa,
+                            construcción, arrendamiento, joint ventures, etc. <br>
+                            También redactamos otros documentos legales como pagarés, poderes, revisiones de abogados,
+                            informes
+                            de due diligence, resoluciones corporativas, notificaciones, comunicaciones oficiales, etc.
+                        </p>
                     </div>
                 </li>
                 <li>
                     <div class="linea-txt">
-                        <time><h4 style="color: #fff;">Creación de Empresas</h4></time>
-                        Podemos ayudarle a constituir una empresa o sociedad mexicana en menos de dos semanas. Obtenemos
-                        el permiso de nombre, redactamos los estatutos y los poderes (si son aplicables), y trabajamos
-                        con el notario mexicano para formalizar la escritura de constitución.
+                        <time>
+                            <h4 style="color: #fff;">Creación de Empresas</h4>
+                        </time>
+                        <p>
+                            Podemos ayudarle a constituir una empresa o sociedad mexicana en menos de dos semanas.
+                            Obtenemos
+                            el permiso de nombre, redactamos los estatutos y los poderes (si son aplicables), y
+                            trabajamos
+                            con el notario mexicano para formalizar la escritura de constitución.
+                        </p>
                     </div>
                 </li>
                 <li>
                     <div class="linea-txt">
-                        <time><h4 style="color: #fff;">Traducciones oficiales al español</h4></time>
-                        Todos los documentos de cierre redactados en un idioma extranjero deben ser traducidos al
-                        español, por ejemplo, poderes otorgados en el extranjero, documentos corporativos de empresas
-                        constituidas en otros países, etc. Disponemos de un traductor oficial interno para su comodidad.
+                        <time>
+                            <h4 style="color: #fff;">Traducciones oficiales al español</h4>
+                        </time>
+                        <p>
+                            Todos los documentos de cierre redactados en un idioma extranjero deben ser traducidos al
+                            español, por ejemplo, poderes otorgados en el extranjero, documentos corporativos de
+                            empresas
+                            constituidas en otros países, etc. Disponemos de un traductor oficial interno para su
+                            comodidad.
+                        </p>
                     </div>
                 </li>
             </ul>
