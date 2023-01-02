@@ -5300,8 +5300,8 @@ img {
 }
 .wpo-testimonial-section .testimonial-wrapper .testimonial-slider .slick-dots,
 .wpo-testimonial-section-s2 .testimonial-wrapper .testimonial-slider .slick-dots {
-  bottom: 3%;
-  left: 58%;
+  bottom: 10%;
+  left: 53%;
   transform: translate(-50%, -50%);
 }
 @media (max-width: 1199px) {

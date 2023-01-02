@@ -175,7 +175,7 @@
     <div class="container-fluid">
         <div class="testimonial-wrapper text-center">
             <div class="row justify-content-center">
-                <div class="col-lg-10 col-12">
+                <div class="col-lg-9 col-12">
                     <div class="testimonial-slider">
                         <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="assets/images/ft-icon/5.png" alt="">
