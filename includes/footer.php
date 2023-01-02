@@ -86,6 +86,6 @@
     width: 3rem;
 }
 </style>
-<a href="https://wa.me/+526246901960?text=Hola,%20me%20gustaría%20más%20información." target="_blank">
+<a href="https://wa.me/+526241585988?text=Hola,%20me%20gustaría%20más%20información." target="_blank">
     <img src="assets/images/whats.png" alt="WhatsApp" id="whatsapp" />
 </a>
