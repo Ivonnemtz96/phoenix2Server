@@ -521,7 +521,7 @@
     -------------------------------------------*/
     if ($(".wpo-testimonial-wrap").length) {
         $(".wpo-testimonial-wrap").owlCarousel({
-            autoplay: false,
+            autoplay: true,
             smartSpeed: 300,
             margin: 20,
             loop: true,
@@ -589,7 +589,7 @@
             autoplayHoverPause: true,
             dots: false,
             nav: false,
-            items: 4
+            items: 4,
         });
     }
 
@@ -691,7 +691,7 @@
         arrows: false,
         speed: 500,
         fade: true,
-        cssEase: 'linear'
+        cssEase: 'linear',
     });
 
     /*------------------------------------------
