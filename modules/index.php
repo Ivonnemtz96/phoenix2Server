@@ -39,7 +39,7 @@
 
 <!--start wpo-about-section -->
 <section class="wpo-about-section section-padding">
-    <div class="container" id="nosotros">
+    <div class="container" id="nosotros" style="background-color: #e5e5e5;">
         <div class="row align-items-center">
             <!-- <div hidden class="col-lg-6 col-12">
                 <div class="about-left">

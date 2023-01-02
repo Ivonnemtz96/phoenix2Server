@@ -4091,7 +4091,7 @@ img {
 
 /* 3.2 wpo-about-section */
 .wpo-about-section {
-  background: #292929;
+  background: #fff;
 }
 .wpo-about-section .about-left {
   position: relative;
@@ -4164,7 +4164,7 @@ img {
   }
 }
 .wpo-about-section .about-right .text {
-  background: #fefefe;
+  background-color: #e5e5e5;
   padding: 67px 2px;
 }
 @media (max-width: 1399px) {
@@ -5161,11 +5161,11 @@ img {
 .wpo-testimonial-section .testimonial-wrapper .testimonial-text,
 .wpo-testimonial-section-s2 .testimonial-wrapper .testimonial-text {
   background: rgba(255, 255, 255, .79);
-  margin-top: 80px;
+  margin-top: 10px;
   margin-left: 80px;
   text-align: center;
-  padding: 80px 50px;
-  padding-bottom: 180px;
+  padding: 60px 40px;
+  padding-bottom:100px;
   border-bottom: 10px solid #AC8D68;
 }
 @media (max-width: 1399px) {

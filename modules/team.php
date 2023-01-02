@@ -18,16 +18,16 @@
 
     <!--start wpo-about-section -->
     <section class="wpo-about-section section-padding">
-        <div class="container" style="padding: 25px 50px; background-color: #fff;">
+        <div class="container" style="padding: 15px 10px; background-color: #fff;">
             <div class="row align-items-center">
-                <div class="col-lg-3 col-12">
+                <div class="col-lg-5 col-12">
                     <div class="about-left">
                         <img src="assets/images/about.jpg" alt="">
                     </div>
                 </div>
-                <div class="col-lg-9 col-12">
+                <div class="col-lg-7 col-12">
                     <div class="about-right">
-                        <div class="text" style="padding: 15px 2px;">
+                        <div class="text" style="padding: 15px 32px;">
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h2 style="font-size:26px;">Nuestra compañía de cierres es 100% propiedad y está
                                 administrada por abogados.</h2>
