@@ -50,7 +50,7 @@
 
 
 
-<section class="wpo-about-section section-padding">
+<section class="wpo-about-section section-padding" style="padding: 0px;">
     <div class="container">
         <div class="row align-items-center mt-5 mb-5" style="padding: 50px 20px; background-color: #fff;">
             <!-- punto 1 -->
