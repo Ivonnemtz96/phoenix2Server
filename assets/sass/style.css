@@ -1563,7 +1563,7 @@ img {
   /* style for navigation less than 992px */
   /*navbar collaps less then 992px*/
   /*** cart-search-contact ***/
-  background-color: rgb(41 41 41);
+  background-color: rgb(0,0,0,.45);
   position: relative;
   z-index: 11;
 }
@@ -1601,7 +1601,7 @@ img {
 }
 
 .sticky-header {
-  background-color: #292929;
+  background-color: #a0a0a0eb;
   width: 100%;
   position: fixed;
   left: 0;
