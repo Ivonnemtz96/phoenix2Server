@@ -36,7 +36,7 @@
                             propietario!</strong>
                     </p>
                     <!-- <div class="shape-title">
-                        <img src="assets/images/section-title-shape-2.png" alt="">
+                        <img src="/assets/images/section-title-shape-2.png" alt="">
                     </div> -->
                 </div>
             </div>
@@ -161,7 +161,7 @@
                 <div class="col-lg-6">
                     <div class="project-single">
                         <div class="project-single-img">
-                            <img class="img-fluid" src="assets/images/project/1.jpg" alt="">
+                            <img class="img-fluid" src="/assets/images/project/1.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -198,7 +198,7 @@
                 <div class="col-lg-6">
                     <div class="project-single">
                         <div class="project-single-img">
-                            <img src="assets/images/project/2.jpg" alt="">
+                            <img src="/assets/images/project/2.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -207,7 +207,7 @@
                 <div class="col-lg-6">
                     <div class="project-single">
                         <div class="project-single-img">
-                            <img src="assets/images/project/3.jpg" alt="">
+                            <img src="/assets/images/project/3.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -238,7 +238,7 @@
                 <div class="col-lg-6">
                     <div class="project-single">
                         <div class="project-single-img">
-                            <img src="assets/images/project/4.jpg" alt="">
+                            <img src="/assets/images/project/4.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -247,7 +247,7 @@
                 <div class="col-lg-6">
                     <div class="project-single">
                         <div class="project-single-img">
-                            <img src="assets/images/project/5.jpg" alt="">
+                            <img src="/assets/images/project/5.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -272,7 +272,7 @@
                 <div class="col-lg-6">
                     <div class="project-single">
                         <div class="project-single-img">
-                            <img src="assets/images/project/6.jpg" alt="">
+                            <img src="/assets/images/project/6.jpg" alt="">
                         </div>
                     </div>
                 </div>

@@ -3,7 +3,7 @@
     <div class="hero-slider">
         <div class="slide">
             <div class="slide-bg">
-                <img src="assets/images/slider/1.jpg" alt="">
+                <img src="/assets/images/slider/1.jpg" alt="">
             </div>
             <div class="container">
                 <div class="row">
@@ -43,11 +43,11 @@
         <div class="row align-items-center">
             <!-- <div hidden class="col-lg-6 col-12">
                 <div class="about-left">
-                    <img src="assets/images/about.jpg" alt="">
+                    <img src="/assets/images/about.jpg" alt="">
                     <div class="about-left-text">
-                        <img src="assets/images/logo-gde.png" alt="">
+                        <img src="/assets/images/logo-gde.png" alt="">
                         <h3 style="color: white;">LOGO</h3>
-                        <img src="assets/images/about-left-shape.png" alt="">
+                        <img src="/assets/images/about-left-shape.png" alt="">
                         <h5>Desde</h5>
                         <span>2016</span>
                     </div>
@@ -83,7 +83,7 @@
                 <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
-                            <img style="filter: brightness(0);" src="assets/images/services/icon-1.png" alt="">
+                            <img style="filter: brightness(0);" src="/assets/images/services/icon-1.png" alt="">
                         </div>
                         <div class="scervice-item-text">
                             <a href="services.php">
@@ -97,7 +97,7 @@
                 <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
-                            <img style="filter: brightness(0);" src="assets/images/services/icon-2.png" alt="">
+                            <img style="filter: brightness(0);" src="/assets/images/services/icon-2.png" alt="">
                         </div>
                         <div class="scervice-item-text">
                             <a href="services.php">
@@ -111,7 +111,7 @@
                 <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
-                            <img style="filter: brightness(0);" src="assets/images/services/icon-3.png" alt="">
+                            <img style="filter: brightness(0);" src="/assets/images/services/icon-3.png" alt="">
                         </div>
                         <div class="scervice-item-text">
                             <a href="services.php">
@@ -126,7 +126,7 @@
                 <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
-                            <img style="filter: brightness(0);" src="assets/images/services/icon-5.png" alt="">
+                            <img style="filter: brightness(0);" src="/assets/images/services/icon-5.png" alt="">
                         </div>
                         <div class="scervice-item-text">
                             <a href="services.php">
@@ -178,7 +178,7 @@
                 <div class="col-lg-9 col-12">
                     <div class="testimonial-slider">
                         <div class="testimonial-text">
-                            <img style="filter: brightness(0);" src="assets/images/ft-icon/5.png" alt="">
+                            <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
                                 error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
                                 consequatur doloremque quas voluptatem nemo placeat!</p>
@@ -186,28 +186,28 @@
 
                         </div>
                         <div class="testimonial-text">
-                            <img style="filter: brightness(0);" src="assets/images/ft-icon/5.png" alt="">
+                            <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
                                 error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
                                 consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 2</h3>
                         </div>
                         <div class="testimonial-text">
-                            <img style="filter: brightness(0);" src="assets/images/ft-icon/5.png" alt="">
+                            <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
                                 error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
                                 consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 3</h3>
                         </div>
                         <div class="testimonial-text">
-                            <img style="filter: brightness(0);" src="assets/images/ft-icon/5.png" alt="">
+                            <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
                                 error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
                                 consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 4</h3>
                         </div>
                         <div class="testimonial-text">
-                            <img style="filter: brightness(0);" src="assets/images/ft-icon/5.png" alt="">
+                            <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
                                 error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
                                 consequatur doloremque quas voluptatem nemo placeat!</p>
