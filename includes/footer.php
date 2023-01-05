@@ -5,7 +5,7 @@
                 <div class="col col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="widget about-widget">
                         <div class="logo widget-title">
-                            <img src="/assets/images/logo2.png" alt="">
+                            <img src="/assets/images/Logo-bco.png" alt="">
                         </div>
                         <p>
                             Phoenix Legal Services, estamos orgullosos de asociarnos con los mejores del sector.
@@ -30,12 +30,12 @@
                             <h3>Nuestros servicios</h3>
                         </div>
                         <ul>
-                            <li><a href="services.php">Cierres</a></li>
+                            <li><a href="/services">Cierres</a></li>
                             <!-- <li><a href="#">Búsqueda y seguro de títulos</a></li> -->
-                            <li><a href="services.php">Servicio de depósito de garantía</a></li>
-                            <li><a href="services.php">Contratos y documentos jurídicos</a></li>
-                            <li><a href="services.php">Creación de Empresas</a></li>
-                            <li><a href="services.php">Traducciones oficiales al español</a></li>
+                            <li><a href="/services">Servicio de depósito de garantía</a></li>
+                            <li><a href="/services">Contratos y documentos jurídicos</a></li>
+                            <li><a href="/services">Creación de Empresas</a></li>
+                            <li><a href="/services">Traducciones oficiales al español</a></li>
                         </ul>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
             <div class="row justify-content-center">
                 <div class="col col-xs-12" style="color: #fff;">
                     &copy; 2022 Phoenix Legal Services. Diseñado por
-                    <a style="color: #adadad;" href="https://www.bananagroup.mx" target="_blank">
+                    <a style="color: #AC8D68;" href="https://www.bananagroup.mx" target="_blank">
                         <strong>Banana Group Marketing</strong>
                     </a>.
                     <!-- <li><a href="#">Terms of use |</a> <a href="#">Privacy Environmental Policy</a></li> -->
