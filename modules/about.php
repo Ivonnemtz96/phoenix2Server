@@ -6,7 +6,7 @@
                     <div class="wpo-breadcumb-wrap">
                         <h2>Sobre Phoenix Legal Services</h2>
                         <ol class="wpo-breadcumb-wrap">
-                            <li><a href="index.php">Inicio</a></li>
+                            <li><a href="/">Inicio</a></li>
                             <li>Nosotros</li>
                         </ol>
                     </div>

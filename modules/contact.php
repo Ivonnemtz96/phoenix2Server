@@ -6,7 +6,7 @@
                     <div class="wpo-breadcumb-wrap">
                         <h2>Contáctanos</h2>
                         <ol class="wpo-breadcumb-wrap">
-                            <li><a href="index.php">Inicio</a></li>
+                            <li><a href="/">Inicio</a></li>
                             <li>Contacto</li>
                         </ol>
                     </div>

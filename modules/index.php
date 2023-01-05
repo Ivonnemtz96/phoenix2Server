@@ -27,7 +27,7 @@
                         <h6 style="color:#fff;text-shadow: 2px 2px #000;">Desplazar hacia abajo</h6>
                         
                     </div>
-                    <a href="index.php#nosotros" class="button-down"></a>
+                    <a href="/#nosotros" class="button-down"></a>
                     
 
                 </div>
@@ -65,7 +65,7 @@
                             explorar oportunidades inmobiliarias sabiendo que Phoenix Legal Services ofrece una solución
                             confiable para proteger su inversión.
                         </p>
-                        <a href="contactar.php" class="theme-btn">Contactar</a>
+                        <a href="/contact" class="theme-btn">Contactar</a>
                     </div>
                 </div>
             </div>
@@ -86,7 +86,7 @@
                             <img style="filter: brightness(0);" src="/assets/images/services/icon-1.png" alt="">
                         </div>
                         <div class="scervice-item-text">
-                            <a href="services.php">
+                            <a href="/services">
                                 <h2>Cierre <br><br><br></h2>
                             </a>
                             <!-- <p>It seem that only fragmen
@@ -100,7 +100,7 @@
                             <img style="filter: brightness(0);" src="/assets/images/services/icon-2.png" alt="">
                         </div>
                         <div class="scervice-item-text">
-                            <a href="services.php">
+                            <a href="/services">
                                 <h2>Servicio de depósito de garantía </h2>
                             </a>
                             <!-- <p>It seem that only fragmen
@@ -114,7 +114,7 @@
                             <img style="filter: brightness(0);" src="/assets/images/services/icon-3.png" alt="">
                         </div>
                         <div class="scervice-item-text">
-                            <a href="services.php">
+                            <a href="/services">
                                 <h2>Contratos y documentos jurídicos</h2>
                             </a>
                             <!-- <p>It seem that only fragmen
@@ -129,7 +129,7 @@
                             <img style="filter: brightness(0);" src="/assets/images/services/icon-5.png" alt="">
                         </div>
                         <div class="scervice-item-text">
-                            <a href="services.php">
+                            <a href="/services">
                                 <h2>Traducciones oficiales al español</h2>
                             </a>
                             <!-- <p>It seem that only fragmen
@@ -139,7 +139,7 @@
                 </div>
                 <div class="col-md-3 mt-5 text-center justify-content-center">
                     <div class="container">
-                        <a href="services.php" class="theme-btn">Ver más</a>
+                        <a href="/services" class="theme-btn">Ver más</a>
                     </div>
                 </div>
             </div>

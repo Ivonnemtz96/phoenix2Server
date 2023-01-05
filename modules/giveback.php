@@ -44,7 +44,7 @@
                                 En Phoenix Legal Services, nuestros socios mantienen un refugio para perros, además de
                                 ayudar a distintas casas hogar contra el maltrato infantil y de la mujer.
                             </p>
-                            <a href="contact.php" class="theme-btn">Contactar</a>
+                            <a href="/contact" class="theme-btn">Contactar</a>
                         </div>
                     </div>
                 </div>
