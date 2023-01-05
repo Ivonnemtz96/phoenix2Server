@@ -8,13 +8,13 @@
                         <ul>
                             <li>
                                 <span>Correo: </span>
-                                <a style="color:#66717A;"
+                                <a style="color:#fff;"
                                     href="mailto:hola@phoenixservices.com.mx">hola@phoenixservices.com.mx
                                 </a>
                             </li>
                             <li>
                                 <span>Teléfono:</span>
-                                <a style="color:#66717A;" href="tel:+526246901960">(52) 624 690 1960
+                                <a style="color:#fff;" href="tel:+526246901960">(52) 624 690 1960
                                 </a>
                             </li>
                             <li>

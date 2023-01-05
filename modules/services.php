@@ -1,5 +1,5 @@
 <!-- start wpo-page-title -->
-<section class="wpo-page-title">
+<section class="wpo-page-title wpo-page-title4">
     <div class="container">
         <div class="row">
             <div class="col col-xs-12">

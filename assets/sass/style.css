@@ -603,6 +603,13 @@ img {
 .wpo-page-title2 {
   background: url(../images/page-bg.jpg) no-repeat center top/cover;
 }
+
+.wpo-page-title3 {
+  background: url(../images/page-title2.jpg) no-repeat center top/cover;
+}
+.wpo-page-title4 {
+  background: url(../images/page-title3.jpg) no-repeat center top/cover;
+}
 @media (max-width: 767px) {
   .wpo-page-title {
     min-height: 250px;
@@ -1326,7 +1333,7 @@ img {
 --------------------------------------------------------------*/
 /*-- 2.1 topbar --*/
 .topbar {
-  background: #fff;
+  background: #484849;
   padding: 0 130px;
 }
 
@@ -1354,7 +1361,7 @@ img {
   content: "";
   left: 100%;
   top: 50%;
-  background: #fff;
+  background: #484849;
   width: 60%;
   height: 100%;
   transform: translate(-50%, -50%);
@@ -1416,7 +1423,7 @@ img {
   font-family: "DM Sans", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: rgba(8, 9, 9, 0.8);
+  color: rgba(255, 255, 255, 0.8);
   line-height: 1em;
 }
 @media (max-width: 1199px) {
@@ -1429,7 +1436,7 @@ img {
   font-size: 16px;
   float: left;
   padding: 15px 10px;
-  color: #66717A;
+  color: #fff;
   line-height: 1em;
   font-family: "DM Sans", sans-serif;
   position: relative;
@@ -1563,7 +1570,7 @@ img {
   /* style for navigation less than 992px */
   /*navbar collaps less then 992px*/
   /*** cart-search-contact ***/
-  background-color: rgb(0,0,0,.45);
+  background-color: rgba(255, 255, 255, 0.78);
   position: relative;
   z-index: 11;
 }
@@ -1669,7 +1676,7 @@ img {
     top: 0;
     width: 100%;
     height: 4px;
-    background: #fff;
+    background: #484849;
     content: "";
     opacity: 0;
     visibility: hidden;
@@ -2340,7 +2347,7 @@ img {
 .wpo-site-header #navbar > ul li a:hover,
 .wpo-site-header #navbar > ul li a:focus {
   text-decoration: none;
-  color: #d4d6d6;
+  color: #484849;
 }
 @media screen and (min-width: 992px) {
   .wpo-site-header #navbar {
@@ -2353,7 +2360,7 @@ img {
     font-size: 19px;
     padding: 35px 20px;
     display: block;
-    color: #fff;
+    color: rgb(0, 0, 0);
     font-weight: 400;
     position: relative;
     font-family: 'Roboto', sans-serif;
