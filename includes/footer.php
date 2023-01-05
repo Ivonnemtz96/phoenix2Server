@@ -5,7 +5,7 @@
                 <div class="col col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="widget about-widget">
                         <div class="logo widget-title">
-                            <img src="assets/images/logo2.png" alt="">
+                            <img src="/assets/images/logo2.png" alt="">
                         </div>
                         <p>
                             Phoenix Legal Services, estamos orgullosos de asociarnos con los mejores del sector.
@@ -87,5 +87,5 @@
 }
 </style>
 <a href="https://wa.me/+526241585988?text=Hola,%20me%20gustaría%20más%20información." target="_blank">
-    <img src="assets/images/whats.png" alt="WhatsApp" id="whatsapp" />
+    <img src="/assets/images/whats.png" alt="WhatsApp" id="whatsapp" />
 </a>
