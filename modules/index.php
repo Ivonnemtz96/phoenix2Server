@@ -160,7 +160,7 @@
                 </div>
                 <div class="col-lg-6 col-md-5 col-12">
                     <div class="cta-right">
-                        <a href="tel:1234567890" class="theme-btn">Llamar</a>
+                        <a href="tel:6246901960" class="theme-btn">Llamar</a>
                     </div>
                 </div>
             </div>
