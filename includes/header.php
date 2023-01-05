@@ -52,8 +52,8 @@
                     <div class="col-lg-3 col-md-5 col-6">
                         <div class="navbar-header">
                             <a class="navbar-brand" href="index.php">
-                                <img class="d-none d-md-block" src="assets/images/logo2.png" alt="">
-                                <img class="d-block d-md-none" src="assets/images/logo.png" alt="">
+                                <img class="d-none d-md-block" src="/assets/images/logo2.png" alt="">
+                                <img class="d-block d-md-none" src="/assets/images/logo.png" alt="">
                             </a>
                         </div>
                     </div>
@@ -62,7 +62,7 @@
                             <button class="menu-close"><i class="ti-close"></i></button>
                             <ul class="nav navbar-nav mb-2 mb-lg-0">
                                 <li>
-                                    <a class="<? echo $inicio?>" href="index.php">Inicio</a>
+                                    <a class="<? echo $inicio?>" href="/">Inicio</a>
                                     <!--class="menu-item-has-children"
                                      <ul class="sub-menu">
                                         <li><a href="index.html">Home style 1</a></li>
@@ -75,12 +75,12 @@
                                 <li class="menu-item-has-children">
                                     <a class="<? echo $sobre?>" href="#">Sobre</a>
                                     <ul class="sub-menu">
-                                        <li><a  href="about.php">Nosotros</a></li>
-                                        <li><a href="team.php">Nuestro equipo</a></li>
+                                        <li><a  href="/about">Nosotros</a></li>
+                                        <li><a href="/team">Nuestro equipo</a></li>
                                         <!-- <li><a href="giveback.php">Retribuir</a></li> -->
                                     </ul>
-                                <li><a class="<? echo $servicios?>" href="services.php">Servicios</a></li>
-                                <li><a class="<? echo $guia?>" href="guia.php">Guía de cierre</a></li>
+                                <li><a class="<? echo $servicios?>" href="/services">Servicios</a></li>
+                                <li><a class="<? echo $guia?>" href="/guia">Guía de cierre</a></li>
                                 <!-- <li><a href="about.html"></a></li> -->
                                 <!-- <li class="menu-item-has-children">
                                     <a href="#">project</a>
@@ -148,7 +148,7 @@
                             </div> -->
 
                             <div class="close-form">
-                                <a  class="theme-btn" href="contact.php">Contáctanos</a>
+                                <a  class="theme-btn" href="/contact">Contáctanos</a>
                             </div>
                         </div>
                     </div>
