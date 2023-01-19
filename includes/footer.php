@@ -29,8 +29,8 @@
                         <div class="widget-title">
                             <h3>Nuestros servicios</h3>
                         </div>
-                        <ul>
-                            <li><a href="/services">Cierres</a></li>
+                        <ul >
+                            <li ><a href="/services">Cierres</a></li>
                             <!-- <li><a href="#">Búsqueda y seguro de títulos</a></li> -->
                             <li><a href="/services">Servicio de depósito de garantía</a></li>
                             <li><a href="/services">Contratos y documentos jurídicos</a></li>
