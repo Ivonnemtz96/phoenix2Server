@@ -45,7 +45,7 @@
                                     </div>
                                     <div class="office-info-text">
                                         <h2>Correo</h2>
-                                        <p><a style="color: #484653;" href="mailto:hola@phoenixservices.com.mx">hola@phoenixservices.com.mx</a> <br><br><br>
+                                        <p><a style="color: #484653;text-decoration: underline;" href="mailto:hola@phoenixservices.com.mx">hola@phoenixservices.com.mx</a> <br><br><br>
                                         </p>
                                     </div>
                                 </div>
@@ -59,14 +59,14 @@
                                     </div>
                                     <div class="office-info-text">
                                         <h2>Llámanos</h2>
-                                        <a style="color: #484653;" href="tel:+526246901960">+52 624 690 1960</a> <br><br><br><br>
+                                        <a style="color: #484653;text-decoration: underline;" href="tel:+526246901960">+52 624 690 1960</a> <br><br><br><br>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="wpo-contact-title">
-                        <h2>¿Tienes alguna duda o comentario?</h2>
+                        <h2 style="font-size: 25px;">¿Tienes alguna duda o comentario?</h2>
                         <p>
                             Estamos listos para responder todas tus dudas y ayudarte a encontrar tu casa ideal.
                         </p>
@@ -124,7 +124,7 @@
         <h2 class="hidden">Contact map</h2>
         <div class="wpo-contact-map">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.1335422701927!2d-109.69773400250159!3d23.05556519442242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509ba68c1193%3A0x3de3e6a6721efa60!2sPlaza%20Tamarindo!5e0!3m2!1ses-419!2smx!4v1668541291156!5m2!1ses-419!2smx"
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5548.80331869352!2d-109.69876855370555!3d23.056489261672567!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfd14616e5447b792!2sPhoenix%20Legal%20Services!5e0!3m2!1ses-419!2smx!4v1674143417271!5m2!1ses-419!2smx"
                 allowfullscreen></iframe>
         </div>
     </section>

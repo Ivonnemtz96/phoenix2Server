@@ -193,7 +193,7 @@
 
             <div class="container text-center mt-5">
                 <div class="btns">
-                    <a target="_blank" href="/purificadora.pdf" class="theme-btn btn-pdf">Versión PDF<i
+                    <a target="_blank" href="/Phoenix_closing_guide.pdf" class="theme-btn btn-pdf" >Versión PDF<i
                             class="fi "></i></a>
                 </div>
             </div>
