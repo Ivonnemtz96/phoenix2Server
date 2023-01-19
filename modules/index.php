@@ -25,10 +25,10 @@
                     </div>
                     <div class="text-center">
                         <h6 style="color:#fff;text-shadow: 2px 2px #000;">Desplazar hacia abajo</h6>
-                        
+
                     </div>
                     <a href="/#nosotros" class="button-down"></a>
-                    
+
 
                 </div>
             </div>
@@ -179,13 +179,16 @@
                     <div class="testimonial-slider">
                         <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
-                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
-                                consequatur doloremque quas voluptatem nemo placeat!</p>
-                            <h3>Cliente 1</h3>
+                            <p>
+                                Es un despacho serio y muy profesional. Siempre me han dado respuesta y he podido
+                                solucionar todo con su equipo, siempre preocupado por dar seguimiento eficaz a sus
+                                operaciones con la certeza de brindar un muy buen servicio a sus colaboradores y
+                                clientes
+                            </p>
+                            <h3>Carlos Castellón <br> <span>Delegado Fiduciario | Banorte Los Cabos</span></h3>
 
                         </div>
-                        <div class="testimonial-text">
+                        <!-- <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
                                 error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
@@ -212,7 +215,7 @@
                                 error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
                                 consequatur doloremque quas voluptatem nemo placeat!</p>
                             <h3>Cliente 5</h3>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
 
