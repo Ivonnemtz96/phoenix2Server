@@ -157,8 +157,8 @@
                 <a href="mailto:cesar@phoenixservices.com.mx "
                     style="color: #000;text-decoration: underline;">cesar@phoenixservices.com.mx </a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
-                    Cesar abogado responsable de construir relaciones a largo plazo con los clientes clave de Phoenix
-                    Legal Services. durante los últimos 20 años Cesar ha estado involucrado en todos los aspectos de la
+                    Cesar, abogado responsable de construir relaciones a largo plazo con los clientes clave de Phoenix
+                    Legal Services. Durante los últimos 20 años, Cesar ha estado involucrado en todos los aspectos de la
                     industria de bienes raíces (corretaje, desarrollo,construcción, fideicomisos y depósito en
                     garantía), tanto a nivel nacional como internacional. El aporta un nivel muy alto de organización y
                     eficiencia a la operación de PLS y tiene como objetivo estar siempre un paso por delante de
@@ -183,12 +183,10 @@
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
                     Jordy abogado que enfoca su práctica en brindar soluciones prácticas a los clientes de Phoenix. Esta
                     sintonizado con el conjunto dinámico de circunstancias que unen a las partes de una transacción, de
-                    modo que puede asesorar a sus clientes desde el primer paso de la transacción hasta el cierre.
-                    Los compañeros de trabajo y los clientes de Jordy aprecian su profundo conocimiento (¡él es un
-                    encanto!), con el tendrá una comprensión total y clara de nuestros servicios. PD: ¡El vive en shorts
-                    todo el año y lo mantiene relajado!
-                    Jordy está casado con Eduardo, y juntos mantienen un refugio de perros, además de ayudar a distintas
-                    casas hogar contra el maltrato infantil y de la mujer.
+                    modo que puede asesorar a sus clientes desde el primer paso de la transacción hasta el cierre. Los
+                    compañeros de trabajo y los clientes de Jordy aprecian su profundo conocimiento (¡él es un
+                    encanto!), con el tendrá una comprensión total y clara de nuestros servicios. <br>
+                    PD: ¡El vive en shorts todo el año y lo mantiene relajado!
                 </p>
             </div>
         </div>
@@ -227,12 +225,10 @@
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
                     <a href=""></a>
                     Eduardo se graduó de psicólogo lo cual ha servido mucho para convertirse en un miembro indispensable
-                    del Equipo de Phoenix Legal Services.
-                    Si bien no actúa como Abogado, Eduardo se mantiene ocupado como administrador de la oficina y todos
-                    los tramites gubernamentales que requieren los fideicomisos. Cuando el calor de Cabo lo permite,
-                    trata de no perder la oportunidad de caminar con sus perros por el centro de San Jose por los
-                    numerosos senderos y montes de la ciudad. Es un espectador voraz de cine de terror, pero se siente
-                    especialmente atraído por el movimiento drag queen internacional.
+                    del Equipo de Phoenix Legal Services. Si bien no actúa como Abogado, Eduardo se mantiene ocupado
+                    como administrador de la oficina y todos los tramites gubernamentales que requieren los
+                    fideicomisos. Cuando el calor de Cabo lo permite, trata de no perder la oportunidad de caminar con
+                    sus perros o ver un atardecer en el mar.
                 </p>
             </div>
         </div>
