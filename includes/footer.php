@@ -5,7 +5,7 @@
                 <div class="col col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="widget about-widget">
                         <div class="logo widget-title">
-                            <img src="/assets/images/Logo-bco.png" alt="">
+                            <img style="width: 15rem;" src="/assets/images/Logo-bco.png" alt="">
                         </div>
                         <p>
                             Phoenix Legal Services, estamos orgullosos de asociarnos con los mejores del sector.
