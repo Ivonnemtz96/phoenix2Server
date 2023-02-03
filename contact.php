@@ -5,6 +5,7 @@ $title = 'Contacto';
 $contacto = 'active';
 
 include('includes/head.php');
+include_once("php/msg.php");
 ?>
 
 <body>

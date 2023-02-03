@@ -32,7 +32,8 @@
                                     </div>
                                     <div class="office-info-text">
                                         <h2>Dirección</h2>
-                                        <p>C. Valerio González Plaza Tamarindo #4 <br> San José del Cabo, B.C.S. 23406</p>
+                                        <p>C. Valerio González Plaza Tamarindo #4 <br> San José del Cabo, B.C.S. 23406
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -45,7 +46,9 @@
                                     </div>
                                     <div class="office-info-text">
                                         <h2>Correo</h2>
-                                        <p><a style="color: #484653;text-decoration: underline;" href="mailto:hola@phoenixservices.com.mx">hola@phoenixservices.com.mx</a> <br><br><br>
+                                        <p><a style="color: #484653;text-decoration: underline;"
+                                                href="mailto:hola@phoenixservices.com.mx">hola@phoenixservices.com.mx</a>
+                                            <br><br><br>
                                         </p>
                                     </div>
                                 </div>
@@ -59,7 +62,8 @@
                                     </div>
                                     <div class="office-info-text">
                                         <h2>Llámanos</h2>
-                                        <a style="color: #484653;text-decoration: underline;" href="tel:+526246901960">+52 624 690 1960</a> <br><br><br><br>
+                                        <a style="color: #484653;text-decoration: underline;"
+                                            href="tel:+526246901960">+52 624 690 1960</a> <br><br><br><br>
                                     </div>
                                 </div>
                             </div>
@@ -72,13 +76,13 @@
                         </p>
                     </div>
                     <div class="wpo-contact-form-area">
-                        <form method="post" class="contact-validation-active" id="contact-form-main">
+                        <form method="post" class="contact-validation-active" id="contact-form-main"
+                            action="/php/contact.php">
                             <div>
-                                <input type="text" class="form-control" name="name" id="name" placeholder="Nombre*">
+                                <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Nombre*">
                             </div>
                             <div>
-                                <input type="email" class="form-control" name="email" id="email"
-                                    placeholder="Correo*">
+                                <input type="email" class="form-control" name="email" id="email" placeholder="Correo*">
                             </div>
                             <div>
                                 <input type="text" class="form-control" name="tel" id="tel" placeholder="Teléfono">
@@ -98,19 +102,21 @@
                                 </select>
                             </div> -->
                             <div class="fullwidth">
-                                <textarea class="form-control" name="note" id="note"
-                                    placeholder="Mensaje"></textarea>
+                                <textarea class="form-control" name="msj" id="msj" placeholder="Mensaje"></textarea>
                             </div>
-                            <div class="submit-area">
-                                <button type="submit" class="theme-btn">Enviar</button>
-                                <div id="loader">
-                                    <i class="ti-reload"></i>
+                            <div class="row justify-content-center" style="margin-bottom: 3rem; margin-top:3rem;">
+                                <div class="col-12 col-md-5">
+                                    <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
+                                        required></div>
                                 </div>
                             </div>
-                            <div class="clearfix error-handling-messages">
+                            <div class="submit-area">
+                                <button type="submit" name="submit" value="submit" class="theme-btn">Enviar</button>
+                            </div>
+                            <!-- <div class="clearfix error-handling-messages">
                                 <div id="success">Thank you</div>
                                 <div id="error"> Error occurred while sending email. Please try again later. </div>
-                            </div>
+                            </div> -->
                         </form>
                     </div>
                 </div>
