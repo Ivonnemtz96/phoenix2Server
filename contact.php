@@ -16,9 +16,9 @@ include_once("php/msg.php");
 
     <?php 
         include('includes/preloader.php');
-        include('includes/header.php');
-        include('modules/contact.php');
-        include('includes/footer.php');
+        include($lenguaje.'/header.php');
+        include($lenguaje.'/contact.php');
+        include($lenguaje.'/footer.php');
         include('includes/scripts.php');
     ?>
 

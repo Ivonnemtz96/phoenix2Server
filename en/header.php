@@ -21,6 +21,16 @@
                                 <span>Address:</span>
                                 C.Valerio González Plaza Tamarindo #4
                             </li>
+                             <li>
+                                <a href="?lang=en">
+                                    <img style="width: 1.8rem;" src="/assets/images/eua.png" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="?lang=es">
+                                    <img style="width: 1.8rem;" src="/assets/images/espana.png" alt="">
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -62,7 +72,7 @@
                             <button class="menu-close"><i class="ti-close"></i></button>
                             <ul class="nav navbar-nav mb-2 mb-lg-0">
                                 <li>
-                                    <a class="<? echo $inicio?>" href="/">Inicio</a>
+                                    <a class="<? echo $inicio?>" href="/">Home</a>
                                     <!--class="menu-item-has-children"
                                      <ul class="sub-menu">
                                         <li><a href="index.html">Home style 1</a></li>
@@ -73,14 +83,14 @@
                                 </li>
                                 <!-- <li><a href="about.php">Nosotros</a></li> -->
                                 <li class="menu-item-has-children">
-                                    <a class="<? echo $sobre?>" href="#">Sobre</a>
+                                    <a class="<? echo $sobre?>" href="#">About</a>
                                     <ul class="sub-menu">
-                                        <li><a  href="/about">Nosotros</a></li>
-                                        <li><a href="/team">Nuestro equipo</a></li>
+                                        <li><a  href="/about">About Us</a></li>
+                                        <li><a href="/team">Our Team</a></li>
                                         <!-- <li><a href="giveback.php">Retribuir</a></li> -->
                                     </ul>
-                                <li><a class="<? echo $servicios?>" href="/services">Servicios</a></li>
-                                <li><a class="<? echo $guia?>" href="/guia">Guía de cierre</a></li>
+                                <li><a class="<? echo $servicios?>" href="/services">Services</a></li>
+                                <li><a class="<? echo $guia?>" href="/guia">Closing Guide</a></li>
                                 <!-- <li><a href="about.html"></a></li> -->
                                 <!-- <li class="menu-item-has-children">
                                     <a href="#">project</a>

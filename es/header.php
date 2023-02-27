@@ -21,6 +21,16 @@
                                 <span>Dirección:</span>
                                 C.Valerio González Plaza Tamarindo #4
                             </li>
+                            <li>
+                                <a href="?lang=en">
+                                    <img style="width: 1.8rem;" src="/assets/images/eua.png" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="?lang=es">
+                                    <img style="width: 1.8rem;" src="/assets/images/espana.png" alt="">
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>

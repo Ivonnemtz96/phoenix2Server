@@ -15,9 +15,9 @@ include('includes/head.php');
 
     <?php 
         include('includes/preloader.php');
-        include('includes/header.php');
-        include('modules/team.php');
-        include('includes/footer.php');
+        include($lenguaje.'/header.php');
+        include($lenguaje.'/team.php');
+        include($lenguaje.'/footer.php');
         include('includes/scripts.php');
     ?>
 
