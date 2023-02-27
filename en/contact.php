@@ -4,10 +4,10 @@
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="wpo-breadcumb-wrap">
-                        <h2>Contáctanos</h2>
+                        <h2>Contact Us</h2>
                         <ol class="wpo-breadcumb-wrap">
-                            <li><a href="/">Inicio</a></li>
-                            <li>Contacto</li>
+                            <li><a href="/">Home</a></li>
+                            <li>Contact Us</li>
                         </ol>
                     </div>
                 </div>
@@ -31,7 +31,7 @@
                                         </div>
                                     </div>
                                     <div class="office-info-text">
-                                        <h2>Dirección</h2>
+                                        <h2>Address</h2>
                                         <p>C. Valerio González Plaza Tamarindo #4 <br> San José del Cabo, B.C.S. 23406
                                         </p>
                                     </div>
@@ -45,7 +45,7 @@
                                         </div>
                                     </div>
                                     <div class="office-info-text">
-                                        <h2>Correo</h2>
+                                        <h2>E-mail</h2>
                                         <p><a style="color: #484653;text-decoration: underline;"
                                                 href="mailto:hola@phoenixservices.com.mx">hola@phoenixservices.com.mx</a>
                                             <br><br><br>
@@ -61,7 +61,7 @@
                                         </div>
                                     </div>
                                     <div class="office-info-text">
-                                        <h2>Llámanos</h2>
+                                        <h2>Call Us</h2>
                                         <a style="color: #484653;text-decoration: underline;"
                                             href="tel:+526246901960">+52 624 690 1960</a> <br><br><br><br>
                                     </div>
@@ -70,25 +70,25 @@
                         </div>
                     </div>
                     <div class="wpo-contact-title">
-                        <h2 style="font-size: 25px;">¿Tienes alguna duda o comentario?</h2>
+                        <h2 style="font-size: 25px;">Do you have any question or comment?</h2>
                         <p>
-                            Estamos listos para responder todas tus dudas y ayudarte a encontrar tu casa ideal.
+                        We are ready to answer all your questions and help you find your ideal home.
                         </p>
                     </div>
                     <div class="wpo-contact-form-area">
                         <form method="post" class="contact-validation-active" id="contact-form-main"
                             action="/php/contact.php">
                             <div>
-                                <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Nombre*">
+                                <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Full name*" required>
                             </div>
                             <div>
-                                <input type="email" class="form-control" name="email" id="email" placeholder="Correo*">
+                                <input type="email" class="form-control" name="email" id="email" placeholder="E-mail*" required>
                             </div>
                             <div>
-                                <input type="text" class="form-control" name="tel" id="tel" placeholder="Teléfono">
+                                <input type="text" class="form-control" name="tel" id="tel" placeholder="Phone*" required>
                             </div>
                             <div>
-                                <input type="text" class="form-control" name="asunto" id="asunto" placeholder="Asunto">
+                                <input type="text" class="form-control" name="asunto" id="asunto" placeholder="Subject" required>
                             </div>
                             <!-- <div>
                                 <select name="service" class="form-control">
@@ -102,7 +102,7 @@
                                 </select>
                             </div> -->
                             <div class="fullwidth">
-                                <textarea class="form-control" name="msj" id="msj" placeholder="Mensaje"></textarea>
+                                <textarea class="form-control" name="msj" id="msj" placeholder="Message"></textarea>
                             </div>
                             <div class="row justify-content-center" style="margin-bottom: 3rem; margin-top:3rem;">
                                 <div class="col-12 col-md-5">
@@ -111,7 +111,7 @@
                                 </div>
                             </div>
                             <div class="submit-area">
-                                <button type="submit" name="submit" value="submit" class="theme-btn">Enviar</button>
+                                <button type="submit" name="submit" value="submit" class="theme-btn">Send</button>
                             </div>
                             <!-- <div class="clearfix error-handling-messages">
                                 <div id="success">Thank you</div>

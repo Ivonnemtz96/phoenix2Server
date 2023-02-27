@@ -4,10 +4,10 @@
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="wpo-breadcumb-wrap">
-                        <h2>Sobre Phoenix Legal Services</h2>
+                        <h2>About Phoenix Legal Services</h2>
                         <ol class="wpo-breadcumb-wrap">
-                            <li><a href="/">Inicio</a></li>
-                            <li>Nosotros</li>
+                            <li><a href="/">Home</a></li>
+                            <li>About Us</li>
                         </ol>
                     </div>
                 </div>
@@ -29,13 +29,12 @@
                     <div class="about-right">
                         <div class="text">
                             <!-- <span>¿Quiénes somos?</span> -->
-                            <h2>Representamos sus intereses durante todo el proceso.</h2>
+                            <h2>We represent your interests throughout the entire process.</h2>
                             <p>
-                                En Phoenix Legal Services, nuestra misión es brindar una experiencia de cierre única y
-                                centrada en el cliente a través de un servicio al cliente amable, profesional y
-                                receptivo, al tiempo que mantenemos nuestro compromiso con nuestros principios básicos
-                                de transparencia, comunicación clara y rápida, y responsabilidad a través de cada
-                                transacción.
+                                At Phoenix Legal Services, our mission is to provide a unique client-centric closing
+                                experience through friendly, professional and responsive client service, while
+                                maintaining our commitment to our core principles of transparency, clear and prompt
+                                communication, and accountability throughout the transaction.
                             </p>
 
                         </div>
@@ -55,7 +54,7 @@
                     <div class="about-right">
                         <div class="text">
                             <!-- <span>¿Quiénes somos?</span> -->
-                            <h2>Un enfoque moderno</h2>
+                            <h2>Modern approach</h2>
                             <p>
                                 En lugar de hacer las cosas de la manera típica como los viejos cerradores, creamos un
                                 sistema diseñado en torno a las necesidades de nuestros clientes. Aprovechando elementos
@@ -89,18 +88,18 @@
 
     <section class="" style="padding: 80px 0px; background-color: #fff;">
         <div class="container">
-            <h2 style="margin-bottom: 2rem;">Nuestros principios fundamentales</h2>
+            <h2 style="margin-bottom: 2rem;">Our main principles</h2>
             <div class="row align-items-center mb-5 g-5">
                 <div class="col-lg-4 col-12">
                     <div class="about-right" style="background-color:#e5e5e5;padding:40px;">
                         <div class="text">
                             <!-- <span>¿Quiénes somos?</span> -->
-                            <h4>Transparencia</h4>
+                            <h4>Transparency</h4>
                             <p style="color: #292929;">
-                                Entendemos que el proceso de compra de bienes raíces en México está lleno de incógnitas
-                                para los compradores primerizos. Es por eso que nuestra prioridad es estar contigo en
-                                cada paso del camino para brindarte tranquilidad y claridad en todo el proceso de
-                                compra.
+                                We understand that the process of buying real estate in Mexico is full of unknowns for
+                                first-time buyers. for first-time buyers. That's why we make it our priority to be with
+                                you every step of the way every step of the way to bring you peace of mind and clarity
+                                throughout the buying process. buying process.
                                 <br>
                                 <br>
                                 <br>
@@ -115,13 +114,13 @@
                     <div class="about-right" style="background-color:#e5e5e5;padding:40px;">
                         <div class="text">
                             <!-- <span>¿Quiénes somos?</span> -->
-                            <h4>Comunicación</h4>
+                            <h4>Communication</h4>
                             <p style="color: #292929;">
-                                Entienda lo que está pasando y lo que viene después. Cualquiera que sea su consulta,
-                                responderemos con prontitud, abordaremos directamente sus preguntas y entregaremos
-                                respuestas de manera oportuna. Con Phoenix, nos comunicamos claramente con los clientes
-                                sobre los pasos del proceso de cierre, con actualizaciones y notificaciones continuas
-                                para garantizar que su transacción esté siempre encaminada.
+                                Understand what is happening and what comes next. Whatever your inquiry, we will respond
+                                promptly, directly address your questions and deliver timely answers. answers in a
+                                timely manner. With Phoenix, we communicate clearly with clients about the steps in the
+                                closing process about the steps of the closing process, with continuous updates and
+                                notifications to ensure that your transaction is always on track.
                                 <br>
                                 <br>
                                 <br>
@@ -134,14 +133,9 @@
                     <div class="about-right" style="background-color:#e5e5e5;padding:40px;">
                         <div class="text">
                             <!-- <span>¿Quiénes somos?</span> -->
-                            <h4>Responsabilidad</h4>
+                            <h4>Responsability</h4>
                             <p style="color: #292929;">
-                                Phoenix entiende que la atención a los detalles no termina con la preparación del
-                                contrato o la diligencia debida, sino que incluye un cuidado genuino, niveles más altos
-                                de comunicación y opciones creativas de cierre para crear una experiencia de cierre
-                                excepcional para los clientes. Su día de cierre marcará el comienzo de un nuevo y
-                                emocionante capítulo de su vida, y nuestra misión es garantizar que su experiencia de
-                                cierre inicie el viaje con una celebración.
+                            Phoenix understands that attention to detail does not end with the preparation of the contract or due diligence, but includes genuine care contract preparation or due diligence, but includes genuine care, higher levels of communication and creative closing communication and creative closing options to create an exceptional closing experience for clients. exceptional closing experience for clients. Your closing day will mark the beginning of a new and exciting chapter in your life, and our exciting chapter of your life, and our mission is to ensure that your closing experience begins the journey with a experience begins the journey with a celebration.
                                 <br>
                                 <br>
 
@@ -157,7 +151,7 @@
     <!-- start wpo-team-section -->
     <section hidden class="wpo-team-section section-padding">
         <div class="container">
-            <div class="row justify-content-center" >
+            <div class="row justify-content-center">
                 <div class="col-lg-6 col-12">
                     <div class="wpo-section-title">
                         <h2>Conoce a nuestro equipo</h2> <br>
@@ -353,12 +347,12 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-7 col-12">
                         <div class="cta-left">
-                            <h2>Estamos aquí para guiarte.</h2>
+                            <h2>We are here to guide you.</h2>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-5 col-12">
                         <div class="cta-right">
-                            <a href="tel:6246901960" class="theme-btn">Llamar</a>
+                            <a href="tel:6246901960" class="theme-btn">Call</a>
                         </div>
                     </div>
                 </div>
