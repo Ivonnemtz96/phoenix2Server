@@ -56,13 +56,14 @@
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h2>Modern approach</h2>
                             <p>
-                                En lugar de hacer las cosas de la manera típica como los viejos cerradores, creamos un
-                                sistema diseñado en torno a las necesidades de nuestros clientes. Aprovechando elementos
-                                seguros y modernos y la investigación meticulosa de nuestros socios de servicio,
-                                agilizamos simultáneamente los procedimientos y minimizamos los riesgos en el proceso de
-                                cierre de bienes raíces para nuestros clientes. <br><br>
-                                Nuestra misión en Phoenix Legal Services es brindar un servicio personalizado a nuestros
-                                clientes para que la experiencia de compra de bienes raíces sea perfecta y placentera.
+                                Instead of doing things the typical way like the old closers, we created a system
+                                designed around our customers' needs. system designed around the needs of our customers.
+                                Leveraging secure, modern and the meticulous research of our service partners, we
+                                simultaneously streamline procedures and minimize risks in the real estate closing
+                                process for our clients. real estate closing process for our clients. <br><br>
+                                Our mission at Phoenix Legal Services is to provide personalized service to our clients
+                                in order to make their real estate clients to make their real estate buying experience
+                                seamless and enjoyable.
 
                             </p>
                         </div>
@@ -106,6 +107,8 @@
                                 <br>
                                 <br>
                                 <br>
+                                <br>
+                                <br>
                             </p>
                         </div>
                     </div>
@@ -124,6 +127,9 @@
                                 <br>
                                 <br>
                                 <br>
+                                <br>
+                                <br>
+                                <br>
                             </p>
                         </div>
                     </div>
@@ -135,8 +141,14 @@
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h4>Responsability</h4>
                             <p style="color: #292929;">
-                            Phoenix understands that attention to detail does not end with the preparation of the contract or due diligence, but includes genuine care contract preparation or due diligence, but includes genuine care, higher levels of communication and creative closing communication and creative closing options to create an exceptional closing experience for clients. exceptional closing experience for clients. Your closing day will mark the beginning of a new and exciting chapter in your life, and our exciting chapter of your life, and our mission is to ensure that your closing experience begins the journey with a experience begins the journey with a celebration.
-                                <br>
+                                Phoenix understands that attention to detail does not end with the preparation of the
+                                contract or due diligence, but includes genuine care contract preparation or due
+                                diligence, but includes genuine care, higher levels of communication and creative
+                                closing communication and creative closing options to create an exceptional closing
+                                experience for clients. exceptional closing experience for clients. Your closing day
+                                will mark the beginning of a new and exciting chapter in your life, and our exciting
+                                chapter of your life, and our mission is to ensure that your closing experience begins
+                                the journey with a experience begins the journey with a celebration.
                                 <br>
 
                             </p>
