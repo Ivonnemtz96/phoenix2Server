@@ -1,3 +1,6 @@
+<?
+include("indexcontroller.php");
+?>
 <!DOCTYPE html>
 <html lang="en">
 <?php
