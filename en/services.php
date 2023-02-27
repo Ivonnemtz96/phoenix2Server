@@ -4,10 +4,10 @@
         <div class="row">
             <div class="col col-xs-12">
                 <div class="wpo-breadcumb-wrap">
-                    <h2>Nuestros servicios</h2>
+                    <h2>Our Services</h2>
                     <ol class="wpo-breadcumb-wrap">
-                        <li><a href="/">Inicio</a></li>
-                        <li>Servicios</li>
+                        <li><a href="/">Home</a></li>
+                        <li>Services</li>
                     </ol>
                 </div>
             </div>
@@ -24,16 +24,16 @@
                 <div class="wpo-section-title">
                     <!-- <span>SUCCESSFUL PROJECT</span> -->
                     <h2 style="margin-bottom: 1rem;text-transform: none; text-align: center;">
-                        Comprar una propiedad en Cabo, lo hacemos fácil.
+                        Buying a property in Cabo, we make it easy.
                     </h2>
                     <p style="color: #292929;">
-                        Nuestro equipo de expertos locales está listo para guiarlo a través del proceso de compra de una
-                        propiedad. Estamos comprometidos con un servicio rápido, profesional y amigable para ayudarlo a
-                        comprender y sentirse cómodo durante todo el proceso de compra de una propiedad. Nuestros
-                        abogados se especializan en el mercado inmobiliario del área de Baja California Sur y están
-                        preparados para brindarle el apoyo <strong>adecuado de inicio hasta que ¡Eres oficialmente el
-                            nuevo
-                            propietario!</strong>
+
+                        Our team of local experts is ready to guide you through the process of buying a property. We are
+                        committed to fast, professional and friendly service to help you understand and feel comfortable
+                        throughout the entire property buying process. Our attorneys specialize in the Baja California
+                        Sur area real estate market and are prepared to provide you with the right support <strong>from
+                            the beginning until you are officially the new owner!</strong>
+
                     </p>
                     <!-- <div class="shape-title">
                         <img src="/assets/images/section-title-shape-2.png" alt="">
@@ -48,31 +48,24 @@
         </div>
     </div>
     <section class="linea">
-        <h2 style="text-align: center;">Nuestros servicios</h2>
+        <h2 style="text-align: center;">Our Services</h2>
         <div class="container d-none d-md-block">
             <ul>
                 <li>
                     <div class="linea-txt">
                         <time>
-                            <h4 style="color: #fff;">Cierres</h4>
+                            <h4 style="color: #fff;">Closings</h4>
                         </time>
                         <p>
-                            Coordinamos el proceso de cierre de la operación inmobiliaria con los agentes inmobiliarios,
-                            el
-                            vendedor, el comprador, el prestamista (si procede), el banco fiduciario, el tasador, el
-                            notario,
-                            las oficinas gubernamentales y todas las personas que participan en el proceso. <br>
-                            Respondemos rápidamente a todas sus preguntas desde el principio y durante todo el proceso,
-                            le
-                            enviamos informes, protegemos sus intereses y nos aseguramos de que el papeleo de cierre sea
-                            correcto, justo y esté en orden legal. Establecemos su Fideicomiso y completamos todas las
-                            tareas
-                            previas al cierre en su nombre, y estamos a su lado o le representamos en el cierre. Si la
-                            transacción involucra financiamiento (ya sea otorgado por el vendedor o por un tercer
-                            prestamista)
-                            implementamos las garantías e instrumentos necesarios para asegurar las obligaciones de pago
-                            del
-                            comprador.
+                            We coordinate the real estate closing process with the real estate agents, the seller, the
+                            buyer, the lender (if applicable), the trust bank, the appraiser, the notary, the government
+                            offices and everyone involved in the process. <br>
+                            We promptly answer all your questions from the beginning and throughout the process, send
+                            you reports, protect your interests and make sure the closing paperwork is correct, fair and
+                            in legal order. We set up your Trust and complete all pre-closing tasks on your behalf, and
+                            we stand by your side or represent you at closing. If the transaction involves financing
+                            (whether provided by the seller or a third party lender) we implement the necessary
+                            guarantees and instruments to secure the buyer's payment obligations.
                         </p>
                     </div>
                 </li>
@@ -92,61 +85,53 @@
                 <li>
                     <div class="linea-txt">
                         <time>
-                            <h4 style="color: #fff;">Servicios de depósito en garantía</h4>
+                            <h4 style="color: #fff;">Escrow services</h4>
                         </time>
                         <p>
-                            No proporcionamos servicios de custodia directamente a nuestros clientes, sino que
-                            utilizamos
-                            empresas de custodia bien establecidas en Estados Unidos, tales como Global Escrow
-                            Solutions,
-                            TLA y
-                            Armour Secure. Estas empresas se especializan en los servicios de custodia ofreciendo el
-                            mejor
-                            nivel
-                            de seguridad requerido para todos nuestros clientes.
+                            We do not provide custodial services directly to our customers, but rather we use use
+                            established U.S. escrow companies, such as Global Escrow Solutions, Global Escrow Solutions
+                            Solutions, TLA and Armour Secure. These companies specialize in escrow services, offering
+                            the best level level of security required for all our clients.
                         </p>
                     </div>
                 </li>
                 <li>
                     <div class="linea-txt">
                         <time>
-                            <h4 style="color: #fff;">Contratos y documentos jurídicos</h4>
+                            <h4 style="color: #fff;">Contracts and legal documents</h4>
                         </time>
                         <p>
-                            En Phoenix Legal Services nuestros abogados están capacitados para asistirle en todo tipo de
-                            contratos que neustros clientes necesiten, como lo son: promesa a fideicomiso , compraventa,
-                            construcción, arrendamiento, joint ventures, etc. <br>
-                            También redactamos otros documentos legales como pagarés, poderes, revisiones de abogados,
-                            informes
-                            de due diligence, resoluciones corporativas, notificaciones, comunicaciones oficiales, etc.
+                            At Phoenix Legal Services our lawyers are able to assist you in all types of contracts that
+                            our clients may need, such as: promise to trust, purchase and sale, construction, lease,
+                            joint ventures, etc. <br>
+                            We also draft other legal documents such as promissory notes, powers of attorney, attorney
+                            reviews, due diligence reports, corporate resolutions, notices, official communications,
+                            etc.
                         </p>
                     </div>
                 </li>
                 <li>
                     <div class="linea-txt">
                         <time>
-                            <h4 style="color: #fff;">Creación de Empresas</h4>
+                            <h4 style="color: #fff;">Business Start-Ups</h4>
                         </time>
                         <p>
-                            Podemos ayudarle a constituir una empresa o sociedad mexicana en menos de dos semanas.
-                            Obtenemos
-                            el permiso de nombre, redactamos los estatutos y los poderes (si son aplicables), y
-                            trabajamos
-                            con el notario mexicano para formalizar la escritura de constitución.
+                            We can help you incorporate a Mexican company or corporation in less than two weeks. We
+                            obtain the name permit, draft the by-laws and powers of attorney (if applicable), and we
+                            work with you to work with the Mexican notary to formalize the deed of incorporation.
                         </p>
                     </div>
                 </li>
                 <li>
                     <div class="linea-txt">
                         <time>
-                            <h4 style="color: #fff;">Traducciones oficiales al español</h4>
+                            <h4 style="color: #fff;">Official Spanish translations</h4>
                         </time>
                         <p>
-                            Todos los documentos de cierre redactados en un idioma extranjero deben ser traducidos al
-                            español, por ejemplo, poderes otorgados en el extranjero, documentos corporativos de
-                            empresas
-                            constituidas en otros países, etc. Disponemos de un traductor oficial interno para su
-                            comodidad.
+                            All closing documents drafted in a foreign language must be translated into Spanish.
+                            Spanish, e.g., powers of attorney granted abroad, corporate documents of companies companies
+                            incorporated in other countries, etc. We have an official in-house translator for your
+                            convenience. convenience.
                         </p>
                     </div>
                 </li>
@@ -156,71 +141,57 @@
         <div class="container d-block d-md-none">
             <div class="row g-4 m-2">
                 <div class="col-12 p-4" style="background-color: #00000073;">
-                    <h4 style="color: #fff;">Cierres</h4>
+                    <h4 style="color: #fff;">Closing</h4>
                     <p>
-                        Coordinamos el proceso de cierre de la operación inmobiliaria con los agentes inmobiliarios,
-                        el
-                        vendedor, el comprador, el prestamista (si procede), el banco fiduciario, el tasador, el
-                        notario,
-                        las oficinas gubernamentales y todas las personas que participan en el proceso. <br>
-                        Respondemos rápidamente a todas sus preguntas desde el principio y durante todo el proceso,
-                        le
-                        enviamos informes, protegemos sus intereses y nos aseguramos de que el papeleo de cierre sea
-                        correcto, justo y esté en orden legal. Establecemos su Fideicomiso y completamos todas las
-                        tareas
-                        previas al cierre en su nombre, y estamos a su lado o le representamos en el cierre. Si la
-                        transacción involucra financiamiento (ya sea otorgado por el vendedor o por un tercer
-                        prestamista)
-                        implementamos las garantías e instrumentos necesarios para asegurar las obligaciones de pago
-                        del
-                        comprador.
+                        We coordinate the real estate closing process with the real estate agents, seller, buyer, lender
+                        (if applicable), trustee bank, appraiser, notary, government offices and everyone else involved
+                        in the process. <br>
+
+                        We promptly answer all your questions from the beginning and throughout the process, send you
+                        reports, protect your interests and make sure the closing paperwork is correct, fair and in
+                        legal order. We set up your Trust and complete all pre-closing tasks on your behalf, and we
+                        stand by your side or represent you at closing. If the transaction involves financing (whether
+                        provided by the seller or a third party lender) we implement the necessary guarantees and
+                        instruments to secure the buyer's payment obligations.
                     </p>
                 </div>
                 <div class="col-12 p-4" style="background-color: #00000073;">
 
-                    <h4 style="color: #fff;">Servicios de depósito en garantía</h4>
+                    <h4 style="color: #fff;">Escrow services</h4>
 
                     <p>
-                        No proporcionamos servicios de custodia directamente a nuestros clientes, sino que
-                        utilizamos
-                        empresas de custodia bien establecidas en Estados Unidos, tales como Global Escrow
-                        Solutions,
-                        TLA y
-                        Armour Secure. Estas empresas se especializan en los servicios de custodia ofreciendo el
-                        mejor
-                        nivel
-                        de seguridad requerido para todos nuestros clientes.
+                        We do not provide custodial services directly to our customers, but rather we use use
+                        established U.S. escrow companies, such as Global Escrow Solutions, Global Escrow Solutions
+                        Solutions, TLA and Armour Secure. These companies specialize in escrow services, offering
+                        the best level level of security required for all our clients.
                     </p>
                 </div>
                 <div class="col-12 p-4" style="background-color: #00000073;">
-                    <h4 style="color: #fff;">Contratos y documentos jurídicos</h4>
+                    <h4 style="color: #fff;">Contracts and legal documents</h4>
                     <p>
-                        En Phoenix Legal Services nuestros abogados están capacitados para asistirle en todo tipo de
-                        contratos que neustros clientes necesiten, como lo son: promesa a fideicomiso , compraventa,
-                        construcción, arrendamiento, joint ventures, etc. <br>
-                        También redactamos otros documentos legales como pagarés, poderes, revisiones de abogados,
-                        informes
-                        de due diligence, resoluciones corporativas, notificaciones, comunicaciones oficiales, etc.
+                        At Phoenix Legal Services our lawyers are able to assist you in all types of contracts that
+                        our clients may need, such as: promise to trust, purchase and sale, construction, lease,
+                        joint ventures, etc. <br>
+                        We also draft other legal documents such as promissory notes, powers of attorney, attorney
+                        reviews, due diligence reports, corporate resolutions, notices, official communications,
+                        etc.
                     </p>
                 </div>
                 <div class="col-12 p-4" style="background-color: #00000073;">
-                        <h4 style="color: #fff;">Creación de Empresas</h4>
+                    <h4 style="color: #fff;">Business Start-Ups</h4>
                     <p>
-                        Podemos ayudarle a constituir una empresa o sociedad mexicana en menos de dos semanas.
-                        Obtenemos
-                        el permiso de nombre, redactamos los estatutos y los poderes (si son aplicables), y
-                        trabajamos
-                        con el notario mexicano para formalizar la escritura de constitución.
+                        We can help you incorporate a Mexican company or corporation in less than two weeks. We
+                        obtain the name permit, draft the by-laws and powers of attorney (if applicable), and we
+                        work with you to work with the Mexican notary to formalize the deed of incorporation.
                     </p>
                 </div>
                 <div class="col-12 p-4" style="background-color: #00000073;">
-                        <h4 style="color: #fff;">Traducciones oficiales al español</h4>
+                    <h4 style="color: #fff;">Official Spanish translations</h4>
                     <p>
-                        Todos los documentos de cierre redactados en un idioma extranjero deben ser traducidos al
-                        español, por ejemplo, poderes otorgados en el extranjero, documentos corporativos de
-                        empresas
-                        constituidas en otros países, etc. Disponemos de un traductor oficial interno para su
-                        comodidad.
+                        All closing documents drafted in a foreign language must be translated into Spanish.
+                        Spanish, e.g., powers of attorney granted abroad, corporate documents of companies companies
+                        incorporated in other countries, etc. We have an official in-house translator for your
+                        convenience. convenience.
                     </p>
                 </div>
             </div>

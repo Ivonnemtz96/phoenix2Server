@@ -10,12 +10,11 @@
                     <div class="col col-md-10 col-sm-12 slide-caption">
                         <div class="hero-slider-content">
                             <div class="slide-title">
-                                <h2>¿Sueñas con una propiedad?</h2>
+                                <h2>Do you dream of owning a property?</h2>
                             </div>
                             <div class="slide-subtitle">
                                 <p>
-                                    Guiamos proactivamente su transacción y lo mantenemos informado continuamente a lo
-                                    largo del camino.
+                                We proactively guide your transaction and keep you continuously informed along the way. along the way.
                                 </p>
                             </div>
                             <!-- <div class="btns">
@@ -24,7 +23,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <h6 style="color:#fff;text-shadow: 2px 2px #000;">Desplazar hacia abajo</h6>
+                        <h6 style="color:#fff;text-shadow: 2px 2px #000;">Scroll down</h6>
 
                     </div>
                     <a href="/#nosotros" class="button-down"></a>
@@ -57,13 +56,9 @@
                 <div class="about-right">
                     <div class="text text-center">
                         <!-- <span>¿Quiénes somos?</span> -->
-                        <h2>Nuestro Objetivo</h2>
+                        <h2>Our Objective</h2>
                         <p>
-                            Los servicios de cierre de bienes raíces de Phoenix Legal Services están diseñados en torno
-                            a nuestros principios básicos de transparencia, comunicación clara y rápida, y
-                            responsabilidad en cada transacción. Para que nuestros clientes tengan la libertad de
-                            explorar oportunidades inmobiliarias sabiendo que Phoenix Legal Services ofrece una solución
-                            confiable para proteger su inversión.
+                        Phoenix Legal Services' real estate closing services are designed around our basic principles of transparency, clear our core principles of transparency, clear and prompt communication, and accountability in every accountability in every transaction. So that our clients have the freedom to explore real estate explore real estate opportunities knowing that Phoenix Legal Services offers a reliable solution to protect their investment. solution to protect their investment.
                         </p>
                         <a href="/contact" class="theme-btn">Contactar</a>
                     </div>
@@ -78,7 +73,7 @@
 <section class="wpo-service-section" style="padding: 79px 0;">
     <div class="container">
         <div class="scervice-wrap">
-            <h3 style="text-align: center; margin-bottom: 2rem;">Nuestros servicios</h3>
+            <h3 style="text-align: center; margin-bottom: 2rem;">Our Services</h3>
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-3 col-md-3 col-12">
                     <div class="scervice-item">
@@ -87,7 +82,7 @@
                         </div>
                         <div class="scervice-item-text">
                             <a href="/services">
-                                <h2>Cierre <br><br><br></h2>
+                                <h2>Closing <br><br><br></h2>
                             </a>
                             <!-- <p>It seem that only fragmen
                                 the original remain.</p> -->
@@ -101,7 +96,7 @@
                         </div>
                         <div class="scervice-item-text">
                             <a href="/services">
-                                <h2>Servicio de depósito de garantía </h2>
+                                <h2>Escrow service </h2>
                             </a>
                             <!-- <p>It seem that only fragmen
                                 the original remain.</p> -->
@@ -115,7 +110,7 @@
                         </div>
                         <div class="scervice-item-text">
                             <a href="/services">
-                                <h2>Contratos y documentos jurídicos</h2>
+                                <h2>Contracts and legal documents</h2>
                             </a>
                             <!-- <p>It seem that only fragmen
                                 the original remain.</p> -->
@@ -130,7 +125,7 @@
                         </div>
                         <div class="scervice-item-text">
                             <a href="/services">
-                                <h2>Traducciones oficiales al español</h2>
+                                <h2>Official Spanish translations</h2>
                             </a>
                             <!-- <p>It seem that only fragmen
                                 the original remain.</p> -->
@@ -139,7 +134,7 @@
                 </div>
                 <div class="col-md-3 mt-5 text-center justify-content-center">
                     <div class="container">
-                        <a href="/services" class="theme-btn">Ver más</a>
+                        <a href="/services" class="theme-btn">View more</a>
                     </div>
                 </div>
             </div>
@@ -155,12 +150,12 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-7 col-12">
                     <div class="cta-left">
-                        <h2>Estamos aquí para guiarte.</h2>
+                        <h2>We are here to guide you.</h2>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-5 col-12">
                     <div class="cta-right">
-                        <a href="tel:6246901960" class="theme-btn">Llamar</a>
+                        <a href="tel:6246901960" class="theme-btn">Call Us</a>
                     </div>
                 </div>
             </div>
@@ -180,12 +175,9 @@
                         <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
                             <p>
-                                Es un despacho serio y muy profesional. Siempre me han dado respuesta y he podido
-                                solucionar todo con su equipo, siempre preocupado por dar seguimiento eficaz a sus
-                                operaciones con la certeza de brindar un muy buen servicio a sus colaboradores y
-                                clientes
+                            It is a serious and very professional firm. They have always given me answers and I have been able to with their team, always concerned about providing effective follow up to their operations with the certainty of providing a very good operations with the certainty of providing a very good service to their collaborators and clients. 
                             </p>
-                            <h3>Carlos Castellón <br> <span>Delegado Fiduciario | Banorte Los Cabos</span></h3>
+                            <h3>Carlos Castellón <br> <span>Trustee Delegate | Banorte Los Cabos</span></h3>
 
                         </div>
                         <!-- <div class="testimonial-text">

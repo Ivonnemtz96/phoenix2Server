@@ -4,10 +4,10 @@
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="wpo-breadcumb-wrap">
-                        <h2>Conoce a nuestro equipo</h2>
+                        <h2>Our Team</h2>
                         <ol class="wpo-breadcumb-wrap">
-                            <li><a href="/">Inicio</a></li>
-                            <li>Asóciate</li>
+                            <li><a href="/">Home</a></li>
+                            <li>Become a member</li>
                         </ol>
                     </div>
                 </div>
@@ -29,18 +29,20 @@
                     <div class="about-right">
                         <div class="text" style="padding: 15px 32px;">
                             <!-- <span>¿Quiénes somos?</span> -->
-                            <h2 style="font-size:25px;">Nuestra compañía de cierres es 100% propiedad y está
-                                administrada por abogados.</h2>
+                            <h2 style="font-size:25px;">Our closing company is 100% owned and managed by managed by
+                                attorneys.</h2>
                             <p>
-                                Phoenix Legal Services ha sido propiedad y está operado por un abogado y un equipo de
-                                expertos de la industria desde su creación. ¡Nuestro equipo eficiente tiene más de 30
-                                años de experiencia combinada en servicios inmobiliarios, lo que ahora nos han
-                                convertido el servicio de cierres en más confiable! <br><br>
-                                Como compañía de cierres de bienes raíces de Phoenix Legal Services está orientada a las
-                                relaciones, nuestra fortaleza radica en reunir a las personas para formular una
-                                transacción exitosa. Nuestra atención al detalle y un excepcional servicio al cliente es
-                                lo que nos distingue. Trabajamos para superar las expectativas en cada transacción,
-                                prometiendo un proceso fluido y sin complicaciones para todas las partes.
+                                Phoenix Legal Services has been owned and operated by an attorney and a team of industry
+                                experts since its inception. Our efficient team has more than 30 years of combined
+                                experience in real estate services, which has now years of combined experience in real
+                                estate services, which has now made us the most reliable closing made closing services
+                                more reliable! <br><br>
+                                As a relationship-driven real estate closing company, Phoenix Legal Services' strength
+                                lies in bringing people together to formulate our strength lies in bringing people
+                                together to formulate a successful transaction. successful transaction. Our attention to
+                                detail and exceptional customer service is what sets us apart. what sets us apart. We
+                                work to exceed expectations in every transaction, promising a smooth and seamless
+                                process for all parties.
 
                             </p>
 
@@ -58,7 +60,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-12">
                     <div class="wpo-section-title">
-                        <h2>Conoce a nuestro equipo</h2> <br>
+                        <h2>Our Team</h2> <br>
                         <div class="shape-title">
                             <!-- <img src="/assets/images/section-title-shape-2.png" alt=""> -->
                         </div>
@@ -78,7 +80,7 @@
                                 </a>
                                 <a class="btn theme-btn mt-1" data-bs-toggle="offcanvas" href="#offcanvasExample"
                                     role="button" aria-controls="offcanvasExample" style="border:solid 1px;">
-                                    Ver más
+                                    View More
                                 </a>
                             </div>
                         </div>
@@ -95,7 +97,7 @@
                                 </a>
                                 <a class="btn theme-btn mt-1" data-bs-toggle="offcanvas" href="#offcanvas2Example"
                                     role="button" aria-controls="offcanvas2Example" style="border:solid 1px;">
-                                    Ver más
+                                    View More
                                 </a>
                             </div>
                         </div>
@@ -112,7 +114,7 @@
                                 </a>
                                 <a class="btn theme-btn mt-1" data-bs-toggle="offcanvas" href="#offcanvas3Example"
                                     role="button" aria-controls="offcanvas3Example" style="border:solid 1px;">
-                                    Ver más
+                                    View More
                                 </a>
 
                             </div>
@@ -130,7 +132,7 @@
                                 </a>
                                 <a class="btn theme-btn mt-1" data-bs-toggle="offcanvas" href="#offcanvas4Example"
                                     role="button" aria-controls="offcanvas4Example" style="border:solid 1px;">
-                                    Ver más
+                                    View More
                                 </a>
                             </div>
                         </div>
@@ -147,7 +149,7 @@
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasExample"
             aria-labelledby="offcanvasExampleLabel">
             <div class="offcanvas-header">
-                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Cesar Zuñiga <br>Socio / Director de Operaciones
+                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Cesar Zuñiga <br>Partner / Operations Manager
                 </h5>
                 <h6></h6>
                 <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
@@ -158,13 +160,14 @@
                 <a href="mailto:cesar@phoenixservices.com.mx "
                     style="color: #000;text-decoration: underline;">cesar@phoenixservices.com.mx </a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
-                    Cesar, abogado responsable de construir relaciones a largo plazo con los clientes clave de Phoenix
-                    Legal Services. Durante los últimos 20 años, Cesar ha estado involucrado en todos los aspectos de la
-                    industria de bienes raíces (corretaje, desarrollo,construcción, fideicomisos y depósito en
-                    garantía), tanto a nivel nacional como internacional. El aporta un nivel muy alto de organización y
-                    eficiencia a la operación de PLS y tiene como objetivo estar siempre un paso por delante de
-                    cualquier problema potencial para que pueda abordarse rápidamente. Cesar vive en San Jose del Cabo,
-                    Baja California Sur, con su esposa y 2 hijos.
+                    Cesar, attorney responsible for building long-term relationships with key Phoenix clients. Legal
+                    Services. For the past 20 years, Cesar has been involved in all aspects of the real estate industry
+                    (brokerage, development, construction, trusts and escrow). real estate industry (brokerage,
+                    development, construction, trusts and escrow), both domestically and internationally. escrow), both
+                    nationally and internationally. He brings a very high level of organization and to PLS's operation
+                    and aims to always be one step ahead of any potential problems so that they can be any potential
+                    problems so that they can be addressed quickly. Cesar lives in San Jose del Cabo, Baja California
+                    Sur, with his wife and 2 children.
                 </p>
             </div>
         </div>
@@ -172,7 +175,7 @@
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas2Example"
             aria-labelledby="offcanvas2ExampleLabel">
             <div class="offcanvas-header">
-                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Jordy Baltazar <br>Socio / Abogado Inmobiliario
+                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Jordy Baltazar <br>Partner / Real Estate Attorney
                 </h5>
                 <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                     aria-label="Close"></button>
@@ -182,12 +185,12 @@
                 <a href="mailto:jordy@phoenixservices.com.mx"
                     style="color: #000;text-decoration: underline;">jordy@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
-                    Jordy abogado que enfoca su práctica en brindar soluciones prácticas a los clientes de Phoenix. Esta
-                    sintonizado con el conjunto dinámico de circunstancias que unen a las partes de una transacción, de
-                    modo que puede asesorar a sus clientes desde el primer paso de la transacción hasta el cierre. Los
-                    compañeros de trabajo y los clientes de Jordy aprecian su profundo conocimiento (¡él es un
-                    encanto!), con el tendrá una comprensión total y clara de nuestros servicios. <br>
-                    PD: ¡El vive en shorts todo el año y lo mantiene relajado!
+                    Jordy attorney who focuses his practice on providing practical solutions to Phoenix clients. He is
+                    attuned to the dynamic set of circumstances that bring the parties to a transaction together, so he
+                    is able to advise his clients from the first step of the transaction through closing. Jordy's
+                    co-workers and clients appreciate his depth of knowledge (he's a sweetheart!), with which you will
+                    have a full and clear understanding of our services. <br>
+                    PS: He lives in shorts year round and keeps it relaxed!
                 </p>
             </div>
         </div>
@@ -195,7 +198,7 @@
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas3Example"
             aria-labelledby="offcanvas3ExampleLabel">
             <div class="offcanvas-header">
-                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Karina <br>Abogado Inmobiliario</h5>
+                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Karina <br>Real Estate Lawyer</h5>
                 <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                     aria-label="Close"></button>
             </div>
@@ -204,10 +207,12 @@
                 <a href="mailto:karina@phoenixservices.com.mx"
                     style="color: #000;text-decoration: underline;">karina@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
-                    Karina comenzó su carrera profesional trabajando para el gobierno federal antes de pasar a los
-                    fideicomisos, criando a dos hijos increíbles, aprendió a ser súper organizada, flexible y abordar la
-                    vida y el trabajo con honestidad directa y un sentido del humor inteligente. Cuando no está en la
-                    oficina, a Karina le gusta pasar tiempo con sus hijos y amigos.
+                    Karina began her professional career working for the federal government before moving into trusts.
+                    raising two amazing children, she learned to be super organized, flexible and approach life and work
+                    with straightforward honesty and a smart sense of humor. life and work with straightforward honesty
+                    and a smart sense of humor. When she's not in the office, Karina enjoys spending time with her
+                    children and friends.
+
                 </p>
             </div>
         </div>
@@ -215,7 +220,7 @@
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas4Example"
             aria-labelledby="offcanvas4ExampleLabel">
             <div class="offcanvas-header">
-                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Eduardo <br>Administrador</h5>
+                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Eduardo <br>Administrator</h5>
                 <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                     aria-label="Close"></button>
             </div>
@@ -225,11 +230,7 @@
                     style="color: #000;text-decoration: underline;">eduardo@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
                     <a href=""></a>
-                    Eduardo se graduó de psicólogo lo cual ha servido mucho para convertirse en un miembro indispensable
-                    del Equipo de Phoenix Legal Services. Si bien no actúa como Abogado, Eduardo se mantiene ocupado
-                    como administrador de la oficina y todos los tramites gubernamentales que requieren los
-                    fideicomisos. Cuando el calor de Cabo lo permite, trata de no perder la oportunidad de caminar con
-                    sus perros o ver un atardecer en el mar.
+                    Eduardo has a degree in psychology which has served him well in becoming an indispensable member of the Phoenix Legal Services team. of the Phoenix Legal Services team. Although he does not act as an attorney, Eduardo keeps busy as an office administrator as office administrator and all the governmental procedures required by the trusts. trusts. When the Cabo heat permits, he tries not to miss the opportunity to walk his dogs or watch a sunset. his dogs or watch a sunset on the ocean.
                 </p>
             </div>
         </div>
@@ -242,12 +243,12 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-7 col-12">
                         <div class="cta-left">
-                            <h2>Estamos aquí para guiarte.</h2>
+                            <h2>We are here to guide you.</h2>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-5 col-12">
                         <div class="cta-right">
-                            <a href="tel:6246901960" class="theme-btn">Llamar</a>
+                            <a href="tel:6246901960" class="theme-btn">Call Us</a>
                         </div>
                     </div>
                 </div>
