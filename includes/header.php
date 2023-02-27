@@ -21,6 +21,16 @@
                                 <span>Dirección:</span>
                                 C.Valerio González Plaza Tamarindo #4
                             </li>
+                            <li>
+                                <a class="?lang=en" href="/guia">
+                                    <img style="width: 1.8rem;" src="/assets/images/eua.png" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a class="?lang=es" href="/guia">
+                                    <img style="width: 1.8rem;" src="/assets/images/espana.png" alt="">
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -75,12 +85,14 @@
                                 <li class="menu-item-has-children">
                                     <a class="<? echo $sobre?>" href="#">Sobre</a>
                                     <ul class="sub-menu">
-                                        <li><a  href="/about">Nosotros</a></li>
+                                        <li><a href="/about">Nosotros</a></li>
                                         <li><a href="/team">Nuestro equipo</a></li>
                                         <!-- <li><a href="giveback.php">Retribuir</a></li> -->
                                     </ul>
                                 <li><a class="<? echo $servicios?>" href="/services">Servicios</a></li>
                                 <li><a class="<? echo $guia?>" href="/guia">Guía de cierre</a></li>
+
+
                                 <!-- <li><a href="about.html"></a></li> -->
                                 <!-- <li class="menu-item-has-children">
                                     <a href="#">project</a>
@@ -148,7 +160,7 @@
                             </div> -->
 
                             <div class="close-form">
-                                <a  class="theme-btn" href="/contact">Contáctanos</a>
+                                <a class="theme-btn" href="/contact">Contáctanos</a>
                             </div>
                         </div>
                     </div>
