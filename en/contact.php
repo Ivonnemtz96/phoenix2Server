@@ -77,7 +77,7 @@
                     </div>
                     <div class="wpo-contact-form-area">
                         <form method="post" class="contact-validation-active" id="contact-form-main"
-                            action="/php/contact.php">
+                            action="/php/contact_eng.php">
                             <div>
                                 <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Full name*" required>
                             </div>
