@@ -57,7 +57,7 @@
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h2>Un enfoque moderno</h2>
                             <p>
-                            En lugar de hacer las cosas de la manera típica como los antiguos cerradores, creamos un
+                                En lugar de hacer las cosas de la manera típica como los antiguos cerradores, creamos un
                                 sistema diseñado en torno a las necesidades de nuestros clientes. Aprovechando la
                                 seguridad, la modernidad y la meticulosa investigación de nuestros socios de servicios,
                                 agilizamos simultáneamente los procedimientos y minimizamos los riesgos en el proceso de
@@ -98,7 +98,10 @@
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h4>Transparencia</h4>
                             <p style="color: #292929;">
-                            Entendemos que el proceso de compra de bienes raíces en México está lleno de variables desconocidas para los compradores primerizos. Es por eso que nuestra prioridad es estar con usted en cada paso del camino para brindarle tranquilidad y claridad durante todo el proceso de compra.
+                                Entendemos que el proceso de compra de bienes raíces en México está lleno de variables
+                                desconocidas para los compradores primerizos. Es por eso que nuestra prioridad es estar
+                                con usted en cada paso del camino para brindarle tranquilidad y claridad durante todo el
+                                proceso de compra.
                                 <br>
                                 <br>
                                 <br>
@@ -116,11 +119,11 @@
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h4>Comunicación</h4>
                             <p style="color: #292929;">
-                                Entienda lo que está pasando y lo que viene después. Cualquiera que sea su consulta,
-                                responderemos con prontitud, abordaremos directamente sus preguntas y entregaremos
-                                respuestas de manera oportuna. Con Phoenix, nos comunicamos claramente con los clientes
-                                sobre los pasos del proceso de cierre, con actualizaciones y notificaciones continuas
-                                para garantizar que su transacción esté siempre encaminada.
+                                Entender lo que está pasando y lo que viene a continuación. Sea cual sea su consulta, le
+                                responderemos con prontitud, abordaremos directamente sus preguntas y le daremos las
+                                respuestas en el momento oportuno. Con Phoenix, nos comunicamos claramente con los
+                                clientes sobre los pasos del proceso de cierre, con actualizaciones y notificaciones
+                                continuas para garantizar que su transacción esté siempre en marcha.
                                 <br>
                                 <br>
                                 <br>
@@ -135,12 +138,12 @@
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h4>Responsabilidad</h4>
                             <p style="color: #292929;">
-                                Phoenix entiende que la atención a los detalles no termina con la preparación del
-                                contrato o la diligencia debida, sino que incluye un cuidado genuino, niveles más altos
-                                de comunicación y opciones creativas de cierre para crear una experiencia de cierre
-                                excepcional para los clientes. Su día de cierre marcará el comienzo de un nuevo y
-                                emocionante capítulo de su vida, y nuestra misión es garantizar que su experiencia de
-                                cierre inicie el viaje con una celebración.
+                                Phoenix entiende que la atención al detalle no termina con la preparación del contrato o
+                                la diligencia debida, sino que incluye un cuidado genuino, niveles más altos de
+                                comunicación y opciones creativas de cierre para crear una experiencia de cierre
+                                excepcional para los clientes. Su día de cierre marcará el comienzo de un capítulo nuevo
+                                y emocionante en su vida, y nuestra misión es asegurar que su experiencia de cierre
+                                comienza el viaje con una celebración.
                                 <br>
                                 <br>
 
@@ -156,7 +159,7 @@
     <!-- start wpo-team-section -->
     <section hidden class="wpo-team-section section-padding">
         <div class="container">
-            <div class="row justify-content-center" >
+            <div class="row justify-content-center">
                 <div class="col-lg-6 col-12">
                     <div class="wpo-section-title">
                         <h2>Conoce a nuestro equipo</h2> <br>
