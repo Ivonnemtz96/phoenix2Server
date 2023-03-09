@@ -27,13 +27,12 @@
                         Comprar una propiedad en Cabo, lo hacemos fácil.
                     </h2>
                     <p style="color: #292929;">
-                        Nuestro equipo de expertos locales está listo para guiarlo a través del proceso de compra de una
-                        propiedad. Estamos comprometidos con un servicio rápido, profesional y amigable para ayudarlo a
-                        comprender y sentirse cómodo durante todo el proceso de compra de una propiedad. Nuestros
-                        abogados se especializan en el mercado inmobiliario del área de Baja California Sur y están
-                        preparados para brindarle el apoyo <strong>adecuado de inicio hasta que ¡Eres oficialmente el
-                            nuevo
-                            propietario!</strong>
+                        Nuestro equipo de expertos locales está preparado para guiarle a través del proceso de compra de
+                        una propiedad. Estamos comprometidos con un servicio rápido, profesional y amigable para
+                        ayudarle a entender y sentirse cómodo durante todo el proceso de compra de una propiedad.
+                        ¡Nuestros abogados se especializan en el mercado inmobiliario del área de Baja California Sur y
+                        están preparados para brindarle el apoyo <strong> adecuado desde el principio hasta que usted sea
+                        oficialmente el nuevo propietario!</strong>
                     </p>
                     <!-- <div class="shape-title">
                         <img src="/assets/images/section-title-shape-2.png" alt="">
@@ -204,7 +203,7 @@
                     </p>
                 </div>
                 <div class="col-12 p-4" style="background-color: #00000073;">
-                        <h4 style="color: #fff;">Creación de Empresas</h4>
+                    <h4 style="color: #fff;">Creación de Empresas</h4>
                     <p>
                         Podemos ayudarle a constituir una empresa o sociedad mexicana en menos de dos semanas.
                         Obtenemos
@@ -214,7 +213,7 @@
                     </p>
                 </div>
                 <div class="col-12 p-4" style="background-color: #00000073;">
-                        <h4 style="color: #fff;">Traducciones oficiales al español</h4>
+                    <h4 style="color: #fff;">Traducciones oficiales al español</h4>
                     <p>
                         Todos los documentos de cierre redactados en un idioma extranjero deben ser traducidos al
                         español, por ejemplo, poderes otorgados en el extranjero, documentos corporativos de
