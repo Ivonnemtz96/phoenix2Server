@@ -14,8 +14,8 @@
                             </div>
                             <div class="slide-subtitle">
                                 <p>
-                                    Guiamos proactivamente su transacción y lo mantenemos informado continuamente a lo
-                                    largo del camino.
+                                    Guiamos su transacción de forma proactiva y le mantenemos continuamente informado a
+                                    lo largo del proceso.
                                 </p>
                             </div>
                             <!-- <div class="btns">
@@ -59,11 +59,11 @@
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2>Nuestro Objetivo</h2>
                         <p>
-                            Los servicios de cierre de bienes raíces de Phoenix Legal Services están diseñados en torno
-                            a nuestros principios básicos de transparencia, comunicación clara y rápida, y
-                            responsabilidad en cada transacción. Para que nuestros clientes tengan la libertad de
-                            explorar oportunidades inmobiliarias sabiendo que Phoenix Legal Services ofrece una solución
-                            confiable para proteger su inversión.
+                            Los servicios de cierre inmobiliario de Phoenix Legal Services están diseñados en torno a
+                            nuestros principios básicos de transparencia, comunicación clara y rápida, y responsabilidad
+                            en cada transacción. Para que nuestros clientes tengan la libertad de explorar oportunidades
+                            inmobiliarias sabiendo que Phoenix Legal Services ofrece una solución fiable para proteger
+                            su inversión.
                         </p>
                         <a href="/contact" class="theme-btn">Contactar</a>
                     </div>
@@ -190,7 +190,14 @@
                         <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
                             <p>
-                                My name is Denise Gonzalez Boisson I am a Real Estate Agent in Los Cabos,  I would like to share with you my experience working with  Phoenix Legal Services, Jordy Baltazar is an amazing attorney. He and his team works with you and your clients so nicely with so much kindness and professionalism, them responds within 24 hours and keeps you updated on your clients….. Let’s put it this way, I trust them with my life!.... have been blessed to have met and work with  Jordy Baltazar and his team… They are an asset with my clients and transactions!.... with that said I highly recommend his services and practice!... They are the Best!!
+                                My name is Denise Gonzalez Boisson I am a Real Estate Agent in Los Cabos, I would like
+                                to share with you my experience working with Phoenix Legal Services, Jordy Baltazar is
+                                an amazing attorney. He and his team works with you and your clients so nicely with so
+                                much kindness and professionalism, them responds within 24 hours and keeps you updated
+                                on your clients….. Let’s put it this way, I trust them with my life!.... have been
+                                blessed to have met and work with Jordy Baltazar and his team… They are an asset with my
+                                clients and transactions!.... with that said I highly recommend his services and
+                                practice!... They are the Best!!
                             </p>
                             <h3>Denise Gonzalez Boisson <span> Real Estate Agent | Los Cabos</span></h3>
                         </div>
