@@ -117,7 +117,7 @@
                     <img src="/assets/images/3.jpg" alt="">
                 </div>
             </div>
-            <div class="col-lg-9 col-12  ">
+            <div class="col-lg-9 col-12">
                 <div class="about-right">
                     <div class="text" style="padding: 2px 22px;">
                         <!-- <span>¿Quiénes somos?</span> -->
