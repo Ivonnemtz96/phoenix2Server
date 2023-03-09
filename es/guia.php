@@ -65,11 +65,14 @@
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2 style=" text-align: center; font-size: 29px;">Paso 1: Realizar la debida diligencia</h2>
                         <p>
-                            Esta guía de cierre lo guiará a través de cada paso del proceso de cierre, desde la
-                            preparación de una oferta de compra, el uso efectivo de una cuenta de depósito en garantía,
-                            el proceso de diligencia debida hasta la firma de los documentos finales de cierre. Hemos
-                            respondido las preguntas más frecuentes para brindarle una mejor comprensión de cómo
-                            adquirir una propiedad en México y sentirse más en control durante el proceso de cierre.
+                            La parte más importante de su proceso de cierre es la diligencia debida inicial o la
+                            búsqueda del título. Aquí es donde solicitamos, investigamos y revisamos todos los
+                            documentos necesarios del vendedor para asegurarnos de que la propiedad elegida esté en
+                            regla y lista para transferir legalmente el título sin ningún problema. Se realiza una
+                            búsqueda exhaustiva durante el proceso de cierre para garantizar que todos los registros
+                            relacionados con la propiedad, así como las deudas garantizadas por la propiedad, hayan sido
+                            debidamente preparados, satisfechos y registrados. Nuestro equipo preparará un informe
+                            detallado para que usted describa los hallazgos resultantes.
                             <br><br><br>
                         </p>
 
@@ -193,7 +196,7 @@
 
             <div class="container text-center mt-5">
                 <div class="btns">
-                    <a target="_blank" href="/Phoenix_closing_guide.pdf" class="theme-btn btn-pdf" >Versión PDF<i
+                    <a target="_blank" href="/Phoenix_closing_guide.pdf" class="theme-btn btn-pdf">Versión PDF<i
                             class="fi "></i></a>
                 </div>
             </div>

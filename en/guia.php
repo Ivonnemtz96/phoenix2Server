@@ -30,16 +30,13 @@
                     <div class="text" style="padding: 2px 22px;">
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2 style=" text-align: center; font-size: 2rem;">Everything you need to know about acquiring
-                            acquiring a property in Mexico property in Mexico, from the initial offer to the final
-                            closing.</h2>
+                            property in Mexico, from the initial offer to the final closing.</h2>
                         <p>
                             This closing guide will walk you through each step of the closing process, from the
-                            preparation of a purchase offer, to the actual use of an escrow account, to the preparation
-                            of a purchase offer, the actual use of an escrow account, the due diligence process, to the
-                            the due diligence process to signing the final closing documents. We have answered the most
-                            frequently asked questions to give you a better understanding of how to buy a property in
-                            Mexico and feel more comfortable purchasing a property in Mexico and feel more in control
-                            during the closing process.
+                            preparation of a purchase offer, the actual use of an escrow account, the due diligence
+                            process to signing the final closing documents. We have answered the most frequently asked
+                            questions to give you a better understanding of how to buy property in Mexico and feel more
+                            comfortable and in control during the closing process.
                         </p>
 
                     </div>
@@ -89,18 +86,15 @@
                     <div class="text" style="padding: 2px 22px;">
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2 style=" text-align: center; font-size: 29px;">Step 2: Prepare escrow and purchase agreements
-                            escrow and purchase</h2>
+                        </h2>
                         <p>
                             Once the property due diligence is completed and satisfactory, we begin drafting and
-                            reviewing the purchase and escrow documents. drafting and review of the purchase and escrow
-                            documents. Depending on your depending on your purchase scenario, we draft and prepare or
-                            review and adjust the pledge agreements for all parties to pledge agreements for all parties
-                            to review and sign. At this point your offer becomes firm and firm and we begin the next
-                            steps to finalize your purchase. The escrow account is very The escrow account is very
-                            important to protect you and your investment and we recommend that you use escrow services
-                            to protect your use escrow services for your purchase. We coordinate with the escrow service
-                            escrow services company and make sure that all necessary documents are properly prepared for
-                            signing. properly prepared for signing.
+                            reviewing the purchase and escrow documents. Depending on your purchase scenario, we draft
+                            and prepare or review and adjust the pledge agreements for all parties to review and sign.
+                            At this point your offer becomes firm and we begin the next steps to finalize your purchase.
+                            The escrow account is very important to protect you and your investment, and we recommend
+                            that you use escrow services to protect your purchase. We coordinate with the escrow company
+                            and make sure that all necessary documents are properly prepared for signing.
                         </p>
                     </div>
                 </div>
@@ -123,17 +117,16 @@
                 <div class="about-right">
                     <div class="text" style="padding: 2px 22px;">
                         <!-- <span>¿Quiénes somos?</span> -->
-                        <h2 style=" text-align: center; font-size: 29px;">Step 3 - Establish the Trust (Trust) to
+                        <h2 style=" text-align: center; font-size: 29px;">Step 3 - Establish the Trust (Fideicomiso) to
                             Acquire Your Property</h2>
                         <p>
                             As a foreigner in Mexico, you have two options for acquiring property within 50 km of the
-                            coast or 100 km of the border (the restricted zone); a fidecomiso (trust) or to establish a
+                            coast or 100 km of the border (the restricted zone); a fideicomiso (trust) or to establish a
                             Mexican corporation. For the vast majority of buyers, the best option will be a bank trust
                             in which a Mexican Banking Institution acquires the property in your name with you as the
                             sole beneficiary. We coordinate with the Mexican Ministry of Foreign Affairs and the trustee
-                            bank to ensure that your trust is established prior to the closing date. is established
-                            prior to the closing date with the Notary. We can provide you with guidance during our
-                            introductory meeting on which option best suits your needs.
+                            bank to ensure that your trust is established prior to the closing date. We can provide you
+                            with guidance during our introductory meeting on which option best suits your needs.
                         </p>
 
                     </div>
@@ -148,16 +141,13 @@
                     <div class="text" style="padding: 2px 22px;">
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2 style=" text-align: center; font-size: 29px;">Step 4: Coordinate with the notary public and
-                            the trust bank trust bank</h2>
+                            the trust bank</h2>
                         <p>
                             Once your fideicomiso (trust) is prepared, it is time to prepare the final closing documents
-                            with the notary. closing documents with the notary. By law, to transfer title to the
-                            property in Mexico, a government-appointed notary must formalize the deed and prepare the
-                            final closing documents with the notary. Mexico, a government appointed notary must
-                            formalize the deed and prepare the final closing documents. final closing documents. We work
-                            closely with the notary to ensure that your documents are drafted correctly and in
-                            accordance with the terms set forth in your promise contract. established in your promise
-                            contract.
+                            with the notary. By law, to transfer title to the property in Mexico, a government-appointed
+                            notary must formalize the deed and prepare the final closing documents. We work closely with
+                            the notary to ensure that your documents are drafted correctly and in accordance with the
+                            terms established in your promissory contract.
                             <br><br><br>
                         </p>
                     </div>
@@ -181,18 +171,15 @@
                 <div class="about-right">
                     <div class="text" style="padding: 2px 22px;">
                         <!-- <span>¿Quiénes somos?</span> -->
-                        <h2 style=" text-align: center; font-size: 29px;">Step 5 - Final closure</h2>
+                        <h2 style=" text-align: center; font-size: 29px;">Step 5 - Final closing</h2>
                         <p>
                             Once the closing documents are finalized, we will guide you through the final draft to
-                            ensure that all the details are draft to ensure that all details are correct and fully
-                            understood. fully understood. When you are ready to sign the final deed, we will coordinate
-                            with the seller and the notary to sign at the notary's office. seller and the notary to sign
-                            at the notary's office. In the event that you are unable to present at the signing, we can
-                            sign on your behalf through a power of attorney that you can give us that authorizes us to
-                            sign on your behalf. that you can give us that authorizes us to sign your deed. Immediately
-                            afterwards, your deed is deed is filed at the public registry office for registration and,
-                            usually within 90 days, within 90 days, your usually within 90 days, you will receive the
-                            final copy of your deed and supporting documents. supporting documents.
+                            ensure that all details are correct and fully understood. When you are ready to sign the
+                            final deed, we will coordinate with the seller and the notary to sign at the notary's
+                            office. In the event that you are unable to be present at the signing, we can sign through a
+                            power of attorney that authorizes us to sign on your behalf. Immediately afterwards, your
+                            deed is deed is filed at the public registry office for registration and, usually within 90
+                            days, you will receive the final copy of your deed and supporting documents.
                         </p>
 
                     </div>
@@ -239,11 +226,9 @@
                             to follow the instructions given by the foreign buyer. Contrary to a land lease, as
                             beneficiary of the trust, the foreign buyer enjoys all the rights of full ownership and may
                             sell, give away, lease, add buildings, improve existing buildings, mortgage and encumber the
-                            property. existing buildings, mortgage and encumber the property. The trust technically
-                            complies with the prohibitions of the prohibitions of the Mexican federal constitution
-                            against foreign ownership of property. property in restricted zones. Foreigners have been
-                            buying, owning and selling property in restricted properties Mexican coastal properties
-                            through trusts for almost fifty years.
+                            property.. The trust technically complies with the prohibitions of the Mexican federal
+                            constitution against foreign ownership of property in restricted zones. Foreigners have been
+                            buying, owning and selling Mexican coastal properties through trusts for almost fifty years.
                         </p>
                     </div>
                 </div>
@@ -254,7 +239,7 @@
                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                         data-bs-target="#panelsStayOpen-collapseNuevo" aria-expanded="false"
                         aria-controls="panelsStayOpen-collapseNuevo">
-                        Do I need to be a resident to buy a property in Mexico?
+                        Do I need to be a resident to buy property in Mexico?
                     </button>
                 </h2>
                 <div id="panelsStayOpen-collapseNuevo" class="accordion-collapse collapse"
@@ -262,11 +247,9 @@
                     <div class="accordion-body">
                         <p style="color: #666666;">
                             No, you do not need to be a resident to purchase property in Mexico. By using the trust, the
-                            beneficiary of the trust can be the same as any entity that owns property in Mexico.
-                            property in the U.S., such as any of the following individuals, couples, groups of
-                            individuals, or groups of individuals not resident or through a U.S.-based corporation
-                            (LLC).ding Mexican coastal property through Mexican coastal trusts. Mexican coastal
-                            properties through trusts for almost fifty years.
+                            beneficiary of the trust can be the same as any entity that owns property in the U.S., such
+                            as individuals, couples, groups of individuals, or groups of non-resident individuals or
+                            through a U.S.-based corporation (LLC).
                         </p>
                     </div>
                 </div>
@@ -286,12 +269,12 @@
                         <p style="color: #666666;">
                             This will depend on the individual and the intended use of the property. For the vast
                             majority of foreign buyers, a fideicomiso will be the best and simplest option. Certain
-                            factors will determine which vehicle is most suitable, such as; if your property will be
+                            factors will determine which vehicle is most suitable, such as: if your property will be
                             used to generate income, if you plan to obtain residency in Mexico, and if you plan to
                             purchase more than one property. Owning a Mexican corporation requires more reporting
                             obligations compared to a trust, as well as a minimum of two shareholders to form the
-                            corporation. to form the corporation. Depending on your objectives, our team can model the
-                            right structure for your purchase. structure for your purchase.
+                            corporation. Depending on your objectives, our team can model the right structure for your
+                            purchase.
                         </p>
                     </div>
                 </div>
@@ -302,7 +285,8 @@
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false"
                         aria-controls="panelsStayOpen-collapseThree">
-                        How does the Notary Public get involved in the process of buying a property in Mexico?
+                        How does the Notary Public get involved in the process of buying property in Mexico?
+
                     </button>
                 </h2>
                 <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse"
@@ -310,8 +294,8 @@
                     <div class="accordion-body">
                         <p style="color: #666666;">
                             A notary public in the U.S. plays a significantly different role than a notary public in
-                            Mexico when it comes to real estate transactions. Notaries public in Mexico are attorneys
-                            with at least five years of experience, who have passed two rigorous examinations. They are
+                            Mexico when it comes to real estate transactions. Notaries in Mexico are attorneys with at
+                            least five years of experience, who have passed two rigorous examinations. They are
                             appointed by the Governor of the State and by the Executive Branch of the federal government
                             and, as such, represent the governor in all real estate transactions. In Mexico, a number of
                             legal documents (wills, deeds, powers of attorney, formation of corporations, establishment
@@ -319,23 +303,20 @@
                             notary public in order to be valid. Once the promissory note or trust is drawn up, the buyer
                             has the right to choose a notary public to close the transaction. In some planned
                             communities or developments, the buyer may want to consider using the seller's notary
-                            because the notary, because of his or her experience with other properties in the
-                            development, will be familiar with many aspects of the transaction. There are a number of
-                            documents that should be should be prepared to take to the notary public. Proof of full
-                            names, places of birth and passport passport; and, the ability to prove legal presence in
-                            Mexico, (VISA), if you are in Mexico to execute the closing documents. in Mexico to execute
-                            the closing documents himself. The seller must also provide documents for examination and
-                            verification by the notary public: the deed to the property and items such as deed to the
-                            property and items such as up to date receipts for taxes, subdivision fees, water and any
-                            other water and any other utilities. When everything is in order, the notary public prepares
-                            the transfer deed subject to the terms of the promise contract. promise. It is important to
-                            note that even if the buyer selects the notary public, it does not mean that the notary
-                            public "works" for the buyer. means that the notary public "works for the buyer". The notary
-                            is an impartial party to the real estate transaction, legally responsible for ensuring that
-                            all essential legal formalities are followed. all essential legal formalities are followed.
-                            These include identifying the property, the names of the buyers and sellers the names of the
-                            buyers and sellers, the capacity in which any signatory is acting, and incorporating this
-                            information into the deed. incorporating this information into the public deed.
+                            because of his or her experience with other properties in the development, the notary will
+                            be familiar with many aspects of the transaction. There are a number of documents that must
+                            be prepared to take to the notary public. Proof of full legal names, places of birth and
+                            passport; and, the ability to prove your legal stay in Mexico, (VISA), if you are in Mexico
+                            to execute the closing documents. The seller must also provide documents for examination and
+                            verification by the notary public: the deed to the property and items such as tax receipts,
+                            subdivision fees, water and any other utilities. When everything is in order, the notary
+                            public prepares the transfer deed subject to the terms of the promissory contract. It is
+                            important to note that even if the buyer selects the notary public, it does not mean that
+                            the notary public "works" for the buyer. The notary is an impartial party to the real estate
+                            transaction, legally responsible for ensuring that all essential legal formalities are
+                            followed. These include identifying the property, the names of the buyers and sellers, the
+                            capacity in which any signatory is acting, and incorporating this information into the
+                            public deed.
                         </p>
                     </div>
                 </div>
@@ -353,18 +334,15 @@
                     aria-labelledby="panelsStayOpen-headingCuatro">
                     <div class="accordion-body">
                         <p style="color: #666666;">
-                            When you choose to use a closing services company like Phoenix, you can buy Mexico real
-                            estate with confidence knowing that there is at least one person/firm that is on your side.
-                            Mexico real estate with confidence knowing that there is at least one person/company on your
-                            side. side. Many real estate agents in Mexico are unlicensed and unregulated, and do not
-                            have the disclosure responsibilities or liabilities under "real estate law". have the
-                            disclosure responsibilities or the responsibilities under "agency law" that real estate
-                            agents in the U.S. do. that real estate agents in the U.S. and Canada do. The seller, and
-                            its associated associated parties, only have to look out for the seller's interest. The role
-                            of the notary is to be a neutral party in the real estate transaction and process all
-                            documentation in accordance with the laws and regulations of the Mexican government. with
-                            the laws and regulations of the Mexican government. Having an attorney legally responsible
-                            to protect the best interests of the Buyer is well worth the cost.
+                            When you choose to use a closing services company like Phoenix, you can buy real estate in
+                            Mexico with confidence, knowing that there is at least one person/firm that is on your side.
+                            Many real estate agents in Mexico are unlicensed and unregulated, and do not have the
+                            disclosure responsibilities or liabilities under "real estate law" that real estate agents
+                            in the U.S. and Canada do. The seller, and its associated parties, only have to look out for
+                            the seller's interest. The role of the notary is to be a neutral party in the real estate
+                            transaction and process all documentation in accordance with the laws and regulations of the
+                            Mexican government. Having an attorney legally responsible to protect the best interests of
+                            the Buyer is well worth the cost.
                         </p>
                     </div>
                 </div>
@@ -383,9 +361,8 @@
                     <div class="accordion-body">
                         <p style="color: #666666;">
                             No, you do not need to purchase title insurance if you hire a competent attorney to
-                            represent you during your purchase, perform thorough due diligence and your purchase,
-                            performs thorough due diligence and ensures the transfer of rightful title to the property.
-                            transfer of rightful title to the property.
+                            represent you during your purchase, perform thorough due diligence and ensures the transfer
+                            of rightful title to the property.
                         </p>
                     </div>
                 </div>
@@ -404,17 +381,14 @@
                     <div class="accordion-body">
                         <p style="color: #666666;">
                             In most cases, our recommendation will be to use escrow services to secure your bond,
-                            deposits or payments. to guarantee your bond, deposits or payments. Unlike in the U.S. and
-                            Canada, real estate agents and attorneys in Mexico cannot legally hold funds in trust.
-                            trust. The best and most favorable way to handle earnest money, deposits and payments
-                            involving real estate transactions in Mexico is to real estate transactions in Mexico is
-                            with a neutral escrow services company that has a neutral escrow escrow services company
-                            that has a legal and fiduciary duty and responsibility as escrow agent. as escrow agent. As
-                            your closing services coordinator, we oversee the proper preparation and filing of all
-                            documentation necessary to open the escrow account you need. opening the escrow account that
-                            will be used to hold the funds from your transaction. transaction. We work closely with the
-                            escrow agent to ensure that the funds are disbursed in accordance with the terms and
-                            conditions of the escrow agreement. escrow agreement.
+                            deposits or payments. Unlike in the U.S. and Canada, real estate agents and attorneys in
+                            Mexico cannot legally hold funds in trust. The best and most favorable way to handle earnest
+                            money, deposits and payments involving real estate transactions in Mexico is with a neutral
+                            escrow services company that has a legal and fiduciary duty and responsibility as escrow
+                            agent. As your closing services coordinator, we oversee the proper preparation and filing of
+                            all documentation necessary to open the escrow account that will be used to hold the funds
+                            from your transaction. We work closely with the escrow agent to ensure that the funds are
+                            disbursed in accordance with the terms and conditions of the escrow agreement.
                         </p>
                     </div>
                 </div>
@@ -425,24 +399,20 @@
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#panelsStayOpen-collapseSiete" aria-expanded="false"
                         aria-controls="panelsStayOpen-collapseSiete">
-                        What are the average closing costs when buying a property in Mexico?
+                        What are the average closing costs when buying property in Mexico?
                     </button>
                 </h2>
                 <div id="panelsStayOpen-collapseSiete" class="accordion-collapse collapse"
                     aria-labelledby="panelsStayOpen-headingSiete">
                     <div class="accordion-body">
                         <p style="color: #666666;">
-                            Many U.S. and Canadian buyers are surprised by the closing costs associated with acquiring
-                            real estate in Mexico. associated with the acquisition of real estate in Mexico. There are
-                            fees associated with closing a transaction in Mexico that are not part of a U.S. real estate
-                            transaction. transaction in Mexico that are not part of a real estate transaction in the
-                            U.S., such as the acquisition tax, notary fee, recording fee, and registration fee. There
-                            are fees associated with closing a transaction in Mexico that are not part of a U.S. real
-                            estate transaction, such as the acquisition tax, notary fee, registration fee and escrow
-                            fee. trust fee. For most properties, total closing costs range from 5% to 9%. between 5% and
-                            9% of the property value. It is important to note that while closing costs are higher than
-                            their U.S. equivalent, property taxes are much lower, with an average property taxes are
-                            much lower, averaging 0.3% of the property value.
+                            Many U.S. and Canadian buyers are surprised by the closing costs associated with the
+                            acquisition of real estate in Mexico. There are fees associated with closing a transaction
+                            in Mexico that are not part of a U.S. real estate transaction, such as the acquisition tax,
+                            notary fee, recording fee, and trust fee. For most properties, total closing costs range
+                            from 5% to 9%of the property value. It is important to note that while closing costs are
+                            higher than their U.S. equivalent, property taxes are much lower, averaging 0.3% of the
+                            property value.
                         </p>
                     </div>
                 </div>
@@ -453,15 +423,15 @@
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#panelsStayOpen-collapseOcho" aria-expanded="false"
                         aria-controls="panelsStayOpen-collapseOcho">
-                        Can I buy a property through a U.S.-based LLC?
+                        Can I buy a property through a U.S. based LLC?
                     </button>
                 </h2>
                 <div id="panelsStayOpen-collapseOcho" class="accordion-collapse collapse"
                     aria-labelledby="panelsStayOpen-headingOcho">
                     <div class="accordion-body">
                         <p style="color: #666666;">
-                            Yes, you can purchase a property through a U.S. based LLC. shareholder of the Mexican
-                            Corporation or beneficiary of the trust.
+                            Yes, you can purchase a property through a U.S. based LLC. The LLC may be a shareholder of
+                            the Mexican Corporation or beneficiary of the trust.
                         </p>
                     </div>
                 </div>
