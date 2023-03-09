@@ -144,6 +144,7 @@
                                 exciting chapter in your life, and our mission is to ensure that your closing experience
                                 begins the journey with a celebration.
                                 <br>
+                                <br>
 
                             </p>
                         </div>
