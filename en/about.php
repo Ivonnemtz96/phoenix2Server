@@ -57,14 +57,12 @@
                             <h2>Modern approach</h2>
                             <p>
                                 Instead of doing things the typical way like the old closers, we created a system
-                                designed around our customers' needs. system designed around the needs of our customers.
-                                Leveraging secure, modern and the meticulous research of our service partners, we
-                                simultaneously streamline procedures and minimize risks in the real estate closing
-                                process for our clients. real estate closing process for our clients. <br><br>
+                                designed around our customers' needs. Leveraging secure, modern and the meticulous
+                                research of our service partners, we simultaneously streamline procedures and minimize
+                                risks in the real estate closing process for our clients.
+                                <br>
                                 Our mission at Phoenix Legal Services is to provide personalized service to our clients
-                                in order to make their real estate clients to make their real estate buying experience
-                                seamless and enjoyable.
-
+                                in order to make their real estate buying experience seamless and enjoyable.
                             </p>
                         </div>
                     </div>
@@ -97,10 +95,9 @@
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h4>Transparency</h4>
                             <p style="color: #292929;">
-                                We understand that the process of buying real estate in Mexico is full of unknowns for
-                                first-time buyers. for first-time buyers. That's why we make it our priority to be with
-                                you every step of the way every step of the way to bring you peace of mind and clarity
-                                throughout the buying process. buying process.
+                                We understand that the process of buying real estate in Mexico is full of unknown
+                                variables for first-time buyers. That's why we make it our priority to be with you every
+                                step of the way to bring you peace of mind and clarity throughout the buying process.
                                 <br>
                                 <br>
                                 <br>
@@ -119,12 +116,11 @@
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h4>Communication</h4>
                             <p style="color: #292929;">
-                                Understand what is happening and what comes next. Whatever your inquiry, we will respond
-                                promptly, directly address your questions and deliver timely answers. answers in a
-                                timely manner. With Phoenix, we communicate clearly with clients about the steps in the
-                                closing process about the steps of the closing process, with continuous updates and
-                                notifications to ensure that your transaction is always on track.
-                                <br>
+                                Understanding what is happening and what comes next. Whatever your inquiry, we will
+                                respond promptly, directly address your questions and deliver answers in a timely
+                                manner. With Phoenix, we communicate clearly with clients about the steps of the closing
+                                process, with continuous updates and notifications to ensure that your transaction is
+                                always on track.
                                 <br>
                                 <br>
                                 <br>
@@ -139,16 +135,15 @@
                     <div class="about-right" style="background-color:#e5e5e5;padding:40px;">
                         <div class="text">
                             <!-- <span>¿Quiénes somos?</span> -->
-                            <h4>Responsability</h4>
+                            <h4>Responsibility</h4>
                             <p style="color: #292929;">
                                 Phoenix understands that attention to detail does not end with the preparation of the
-                                contract or due diligence, but includes genuine care contract preparation or due
-                                diligence, but includes genuine care, higher levels of communication and creative
-                                closing communication and creative closing options to create an exceptional closing
-                                experience for clients. exceptional closing experience for clients. Your closing day
-                                will mark the beginning of a new and exciting chapter in your life, and our exciting
-                                chapter of your life, and our mission is to ensure that your closing experience begins
-                                the journey with a experience begins the journey with a celebration.
+                                contract or due diligence, but includes genuine care, higher levels of communication and
+                                creative closing communication and creative closing options to create an exceptional
+                                closing experience for clients. Your closing day will mark the beginning of a new and
+                                exciting chapter in your life, and our mission is to ensure that your closing experience
+                                begins the journey with a celebration.
+                                <br>
                                 <br>
 
                             </p>
