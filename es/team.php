@@ -29,19 +29,18 @@
                     <div class="about-right">
                         <div class="text" style="padding: 15px 32px;">
                             <!-- <span>¿Quiénes somos?</span> -->
-                            <h2 style="font-size:25px;">Nuestra compañía de cierres es 100% propiedad y está
-                                administrada por abogados.</h2>
+                            <h2 style="font-size:25px;">Nuestra compañía de cierre es 100% propiedad de y administrada
+                                por abogados.</h2>
                             <p>
-                                Phoenix Legal Services ha sido propiedad y está operado por un abogado y un equipo de
-                                expertos de la industria desde su creación. ¡Nuestro equipo eficiente tiene más de 30
-                                años de experiencia combinada en servicios inmobiliarios, lo que ahora nos han
-                                convertido el servicio de cierres en más confiable! <br><br>
+                                Phoenix Legal Services ha sido propiedad y operado por un abogado y un equipo de
+                                expertos de la industria desde su creación. Nuestro eficiente equipo cuenta con más de
+                                30 años de experiencia combinada en servicios inmobiliarios, ¡lo que nos ha convertido
+                                en los servicios de cierre más fiables! <br><br>
                                 Como compañía de cierres de bienes raíces de Phoenix Legal Services está orientada a las
                                 relaciones, nuestra fortaleza radica en reunir a las personas para formular una
                                 transacción exitosa. Nuestra atención al detalle y un excepcional servicio al cliente es
                                 lo que nos distingue. Trabajamos para superar las expectativas en cada transacción,
                                 prometiendo un proceso fluido y sin complicaciones para todas las partes.
-
                             </p>
 
                         </div>
