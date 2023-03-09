@@ -57,13 +57,14 @@
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h2>Un enfoque moderno</h2>
                             <p>
-                                En lugar de hacer las cosas de la manera típica como los viejos cerradores, creamos un
-                                sistema diseñado en torno a las necesidades de nuestros clientes. Aprovechando elementos
-                                seguros y modernos y la investigación meticulosa de nuestros socios de servicio,
+                            En lugar de hacer las cosas de la manera típica como los antiguos cerradores, creamos un
+                                sistema diseñado en torno a las necesidades de nuestros clientes. Aprovechando la
+                                seguridad, la modernidad y la meticulosa investigación de nuestros socios de servicios,
                                 agilizamos simultáneamente los procedimientos y minimizamos los riesgos en el proceso de
-                                cierre de bienes raíces para nuestros clientes. <br><br>
-                                Nuestra misión en Phoenix Legal Services es brindar un servicio personalizado a nuestros
-                                clientes para que la experiencia de compra de bienes raíces sea perfecta y placentera.
+                                cierre inmobiliario para nuestros clientes.<br><br>
+                                Nuestra misión en Phoenix Legal Services es proporcionar un servicio personalizado a
+                                nuestros clientes con el fin de hacer su experiencia de compra de bienes raíces sin
+                                problemas y agradable.
 
                             </p>
                         </div>
@@ -97,10 +98,8 @@
                             <!-- <span>¿Quiénes somos?</span> -->
                             <h4>Transparencia</h4>
                             <p style="color: #292929;">
-                                Entendemos que el proceso de compra de bienes raíces en México está lleno de incógnitas
-                                para los compradores primerizos. Es por eso que nuestra prioridad es estar contigo en
-                                cada paso del camino para brindarte tranquilidad y claridad en todo el proceso de
-                                compra.
+                            Entendemos que el proceso de compra de bienes raíces en México está lleno de variables desconocidas para los compradores primerizos. Es por eso que nuestra prioridad es estar con usted en cada paso del camino para brindarle tranquilidad y claridad durante todo el proceso de compra.
+                                <br>
                                 <br>
                                 <br>
                                 <br>
