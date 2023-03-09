@@ -10,11 +10,11 @@
                     <div class="col col-md-10 col-sm-12 slide-caption">
                         <div class="hero-slider-content">
                             <div class="slide-title">
-                                <h2>Do you dream of owning a property?</h2>
+                                <h2>Do you dream of owning property?</h2>
                             </div>
                             <div class="slide-subtitle">
                                 <p>
-                                We proactively guide your transaction and keep you continuously informed along the way. along the way.
+                                We proactively guide your transaction and keep you continuously informed along the way.
                                 </p>
                             </div>
                             <!-- <div class="btns">
@@ -58,9 +58,9 @@
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2>Our Objective</h2>
                         <p>
-                        Phoenix Legal Services' real estate closing services are designed around our basic principles of transparency, clear our core principles of transparency, clear and prompt communication, and accountability in every accountability in every transaction. So that our clients have the freedom to explore real estate explore real estate opportunities knowing that Phoenix Legal Services offers a reliable solution to protect their investment. solution to protect their investment.
+                        Phoenix Legal Services' real estate closing services are designed around our basic principles of transparency, clear and prompt communication, and accountability in every transaction. So that our clients have the freedom to explore real estate opportunities knowing that Phoenix Legal Services offers a reliable solution to protect their investment.
                         </p>
-                        <a href="/contact" class="theme-btn">Contactar</a>
+                        <a href="/contact" class="theme-btn">Contact</a>
                     </div>
                 </div>
             </div>
@@ -175,18 +175,18 @@
                         <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
                             <p>
-                            It is a serious and very professional firm. They have always given me answers and I have been able to with their team, always concerned about providing effective follow up to their operations with the certainty of providing a very good operations with the certainty of providing a very good service to their collaborators and clients. 
+                            It is a serious and very professional firm. They have always given me answers and I have been able to solve everything with their team, always concerned about providing effective follow up to their operations with the certainty of providing a very good service to their collaborators and clients. 
                             </p>
                             <h3>Carlos Castellón <br> <span>Trustee Delegate | Banorte Los Cabos</span></h3>
-
                         </div>
-                        <!-- <div class="testimonial-text">
+                        <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
-                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
-                                consequatur doloremque quas voluptatem nemo placeat!</p>
-                            <h3>Cliente 2</h3>
+                            <p>
+                                My name is Denise Gonzalez Boisson I am a Real Estate Agent in Los Cabos,  I would like to share with you my experience working with  Phoenix Legal Services, Jordy Baltazar is an amazing attorney. He and his team works with you and your clients so nicely with so much kindness and professionalism, them responds within 24 hours and keeps you updated on your clients….. Let’s put it this way, I trust them with my life!.... have been blessed to have met and work with  Jordy Baltazar and his team… They are an asset with my clients and transactions!.... with that said I highly recommend his services and practice!... They are the Best!!
+                            </p>
+                            <h3>Denise Gonzalez Boisson <span> Real Estate Agent | Los Cabos</span></h3>
                         </div>
+                        <!-- 
                         <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
