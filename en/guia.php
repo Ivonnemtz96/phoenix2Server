@@ -64,13 +64,13 @@
                         <!-- <span>¿Quiénes somos?</span> -->
                         <h2 style=" text-align: center; font-size: 29px;">Step 1: Perform due diligence</h2>
                         <p>
-                            This closing guide will walk you through each step of the closing process, from the
-                            preparation of a purchase offer, to the actual use of an escrow account, to the preparation
-                            of a purchase offer, the actual use of an escrow account, the due diligence process, to the
-                            the due diligence process to signing the final closing documents. We have answered the most
-                            frequently asked questions to give you a better understanding of how to buy a property in
-                            Mexico and feel more comfortable purchasing a property in Mexico and feel more in control
-                            during the closing process.
+                            The most important part of your closing process is the initial due diligence or title
+                            search. This is where we request, research and review all necessary documents from the
+                            seller to ensure that the chosen property is in good standing and ready to legally transfer
+                            title without any problems. A thorough search is performed during the closing process to
+                            ensure that all records related to the property, as well as any debts secured by the
+                            property, have been properly prepared, satisfied and recorded. Our team will prepare a
+                            detailed report for you to describe the resulting findings.
                             <br><br><br>
                         </p>
 
