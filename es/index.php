@@ -185,11 +185,11 @@
                                 operaciones con la certeza de brindar un muy buen servicio a sus colaboradores y
                                 clientes
                             </p>
-                            <h3>Carlos Castellón <br> <span>Delegado Fiduciario | Banorte Los Cabos</span></h3>
+                            <h3 style="margin-bottom: 2rem;">Carlos Castellón <br> <span>Delegado Fiduciario | Banorte Los Cabos</span></h3>
                         </div>
                         <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
-                            <p>
+                            <p style="font-size: 18px;">
                                 My name is Denise Gonzalez Boisson I am a Real Estate Agent in Los Cabos, I would like
                                 to share with you my experience working with Phoenix Legal Services, Jordy Baltazar is
                                 an amazing attorney. He and his team works with you and your clients so nicely with so
@@ -199,7 +199,7 @@
                                 clients and transactions!.... with that said I highly recommend his services and
                                 practice!... They are the Best!!
                             </p>
-                            <h3>Denise Gonzalez Boisson <span> Real Estate Agent | Los Cabos</span></h3>
+                            <h3 style="margin-bottom: 2rem;">Denise Gonzalez Boisson <span> Real Estate Agent | Los Cabos</span></h3>
                         </div>
                         <!-- <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">

@@ -5350,14 +5350,16 @@ img {
   padding: 0;
   border: none;
   border-radius: 100%;
-  background-color: #000;
+  background-color: #ac8d68;
+  border: 2px solid #000;
   text-indent: -9999px;
   opacity: 0.5;
 }
 .wpo-testimonial-section .testimonial-wrapper .testimonial-slider .slick-dots li.slick-active button,
 .wpo-testimonial-section-s2 .testimonial-wrapper .testimonial-slider .slick-dots li.slick-active button {
-  background-color: #000;
+  background-color: #ac8d68;
   opacity: 1;
+  border: 2px solid #000;
 }
 .wpo-testimonial-section.wpo-testimonial-section-s2,
 .wpo-testimonial-section-s2.wpo-testimonial-section-s2 {

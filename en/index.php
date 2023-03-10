@@ -171,20 +171,20 @@
         <div class="testimonial-wrapper text-center">
             <div class="row justify-content-center">
                 <div class="col-lg-9 col-12">
-                    <div class="testimonial-slider">
+                    <div class="testimonial-slider slider">
                         <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
                             <p>
                             It is a serious and very professional firm. They have always given me answers and I have been able to solve everything with their team, always concerned about providing effective follow up to their operations with the certainty of providing a very good service to their collaborators and clients. 
                             </p>
-                            <h3>Carlos Castellón <br> <span>Trustee Delegate | Banorte Los Cabos</span></h3>
+                            <h3 style="margin-bottom: 2rem;">Carlos Castellón <br> <span>Trustee Delegate | Banorte Los Cabos</span></h3>
                         </div>
                         <div class="testimonial-text">
                             <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
-                            <p>
+                            <p style="font-size: 18px;">
                                 My name is Denise Gonzalez Boisson I am a Real Estate Agent in Los Cabos,  I would like to share with you my experience working with  Phoenix Legal Services, Jordy Baltazar is an amazing attorney. He and his team works with you and your clients so nicely with so much kindness and professionalism, them responds within 24 hours and keeps you updated on your clients….. Let’s put it this way, I trust them with my life!.... have been blessed to have met and work with  Jordy Baltazar and his team… They are an asset with my clients and transactions!.... with that said I highly recommend his services and practice!... They are the Best!!
                             </p>
-                            <h3>Denise Gonzalez Boisson <span> Real Estate Agent | Los Cabos</span></h3>
+                            <h3 style="margin-bottom: 2rem;">Denise Gonzalez Boisson <span> Real Estate Agent | Los Cabos</span></h3>
                         </div>
                         <!-- 
                         <div class="testimonial-text">
