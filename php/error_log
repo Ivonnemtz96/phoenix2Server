@@ -1,0 +1,2 @@
+[28-Feb-2023 16:21:47 America/Boise] PHP Notice:  Undefined index: g-recaptcha-response in /home1/arketll6/public_html/000-SUBDOMINIOS/phoenixservices/php/contact_eng.php on line 21
+[28-Feb-2023 16:21:47 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/arketll6/public_html/000-SUBDOMINIOS/phoenixservices/php/contact_eng.php:21) in /home1/arketll6/public_html/000-SUBDOMINIOS/phoenixservices/php/contact_eng.php on line 70

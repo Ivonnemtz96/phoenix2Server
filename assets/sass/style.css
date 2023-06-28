@@ -296,7 +296,7 @@ img {
 
 /** for popup image ***/
 .mfp-wrap {
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.2);
   z-index: 99999;
 }
 
@@ -3776,7 +3776,7 @@ img {
 4. wpo-footer
 --------------------------------------------------------------*/
 .wpo-site-footer {
-  background: url(../images/footer-bg.jpg) no-repeat center center;
+  background: url(../images/footerImg.jpg) no-repeat center center;
   background-size: cover;
   position: relative;
   font-size: 15px;
@@ -3791,7 +3791,7 @@ img {
   height: 100%;
   content: "";
   background: #252525de;
-  opacity: 0.9;
+  opacity: 0.6;
   z-index: -1;
 }
 .wpo-site-footer ul {
@@ -5153,6 +5153,26 @@ img {
   position: relative;
   z-index: 1;
 }
+
+.bg-fondo{
+  background: url(../images/testimonial.jpg) center/cover, no-repeat;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+.bg-fondo::before{
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #050506c2;
+  opacity: 0.8;
+  z-index: -1;
+}
+
 .wpo-testimonial-section .testimonial-wrapper::before,
 .wpo-testimonial-section-s2 .testimonial-wrapper::before {
   position: absolute;
@@ -10139,3 +10159,97 @@ time {
   border-color: #000;
   color: #000;
  }
+ /* Opiniones **********************************************/
+
+#service-slider .service-items {
+  border: 2px solid #ddd;
+  padding: 58px 37px;
+  text-align: center;
+  margin: 0 5px;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+#service-slider .service-items .service-slider-image {
+  width: 100px;
+  height: 100px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #652d90;
+  display: inline-block;
+}
+#service-slider .service-items .service-details {
+  padding-top: 20px;
+}
+#service-slider .service-items .service-details h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #545554;
+}
+#service-slider .service-items .service-details p {
+  font-size: 16px;
+  line-height: 26px;
+}
+#service-slider .service-items .service-details .more-service {
+  font-size: 16px;
+  color: #333;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #545554;
+}
+#service-slider .service-items:hover {
+  border-color: #AC8D68;
+}
+#service-slider .service-items:hover .service-details h3 {
+  color: #652d90;
+}
+#service-slider .service-items:hover .service-details .more-service {
+  color: #652d90;
+}
+#service-slider .owl-nav {
+  position: relative;
+  margin-top: 80px;
+}
+#service-slider .owl-nav .owl-prev, #service-slider .owl-nav .owl-next {
+  width: 46px;
+  height: 46px;
+  line-height: 46px;
+  text-align: center;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  position: absolute;
+  top: 0;
+}
+#service-slider .owl-nav .owl-prev {
+  left: 43%;
+}
+#service-slider .owl-nav .owl-next {
+  right: 43%;
+}
+/* #service-slider .owl-dots {
+  left: 48%;
+  position: absolute;
+  margin-top: 14px;
+}
+#service-slider .owl-dots .owl-dot {
+  float: left;
+}
+#service-slider .owl-dots .owl-dot span {
+  background-color: #869791;
+  border-radius: 20px;
+  height: 12px;
+  margin: 5px 7px;
+  opacity: 0.5;
+  width: 12px;
+  float: left;
+}
+#service-slider .owl-dots .owl-dot.active span {
+  background-color: #652d90;
+  opacity: 1;
+} */

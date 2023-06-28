@@ -170,71 +170,109 @@
 <!-- end wpo-cta-section -->
 
 
-<!-- start wpo-testimonial-section -->
-<div class="wpo-testimonial-section section-padding" style="margin-top: 1rem;">
-    <div class="container-fluid">
-        <div class="testimonial-wrapper text-center">
-            <div class="row justify-content-center">
-                <div class="col-lg-9 col-12">
-                    <div class="testimonial-slider">
-                        <div class="testimonial-text">
-                            <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
-                            <p>
-                                Es un despacho serio y muy profesional. Siempre me han dado respuesta y he podido
-                                solucionar todo con su equipo, siempre preocupado por dar seguimiento eficaz a sus
-                                operaciones con la certeza de brindar un muy buen servicio a sus colaboradores y
-                                clientes
-                            </p>
-                            <h3 style="margin-bottom: 2rem;">Carlos Castellón <br> <span>Delegado Fiduciario | Banorte Los Cabos</span></h3>
+<section class="service" id="Service" style="padding: 81px;">
+    <div class="container-fluid bg-fondo">
+        <div class="row" style="padding: 2.5rem;">
+            <div class="col-sm-12">
+                <div id="service-slider" class="owl-carousel">
+                    <!--Service 1 -->
+                    <div class="item">
+                        <div class="service-items">
+                            <!-- <img class="img-circle service-slider-image"
+                                src="http://themes.audemedia.com/html/goodgrowth/images/testimonial3.jpg" alt=""> -->
+                            <div class="service-details">
+                                <h5 style="margin-bottom: 2rem; color:#fff;">Carlos Castellón <br> <span>Delegado
+                                        Fiduciario | Banorte
+                                        Los Cabos</span></h5>
+                                <p>Es un despacho serio y muy profesional. Siempre me han dado respuesta y he podido
+                                    solucionar todo con su equipo, siempre preocupado por dar seguimiento eficaz a sus
+                                    operaciones con la certeza de brindar un muy buen servicio a sus colaboradores y
+                                    clientes </p>
+                                <!-- <a href="#" class="more-service">read more <i class="fa fa-plus"></i></a> -->
+                            </div>
+
                         </div>
-                        <div class="testimonial-text">
-                            <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
-                            <p style="font-size: 18px;">
-                                My name is Denise Gonzalez Boisson I am a Real Estate Agent in Los Cabos, I would like
-                                to share with you my experience working with Phoenix Legal Services, Jordy Baltazar is
-                                an amazing attorney. He and his team works with you and your clients so nicely with so
-                                much kindness and professionalism, them responds within 24 hours and keeps you updated
-                                on your clients….. Let’s put it this way, I trust them with my life!.... have been
-                                blessed to have met and work with Jordy Baltazar and his team… They are an asset with my
-                                clients and transactions!.... with that said I highly recommend his services and
-                                practice!... They are the Best!!
-                            </p>
-                            <h3 style="margin-bottom: 2rem;">Denise Gonzalez Boisson <span> Real Estate Agent | Los Cabos</span></h3>
-                        </div>
-                        <!-- <div class="testimonial-text">
-                            <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
-                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
-                                consequatur doloremque quas voluptatem nemo placeat!</p>
-                            <h3>Cliente 2</h3>
-                        </div>
-                        <div class="testimonial-text">
-                            <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
-                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
-                                consequatur doloremque quas voluptatem nemo placeat!</p>
-                            <h3>Cliente 3</h3>
-                        </div>
-                        <div class="testimonial-text">
-                            <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
-                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
-                                consequatur doloremque quas voluptatem nemo placeat!</p>
-                            <h3>Cliente 4</h3>
-                        </div>
-                        <div class="testimonial-text">
-                            <img style="filter: brightness(0);" src="/assets/images/ft-icon/5.png" alt="">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, doloremque incidunt iste
-                                error corrupti officia! Laborum quo dolorum soluta rem sapiente, quae adipisci autem
-                                consequatur doloremque quas voluptatem nemo placeat!</p>
-                            <h3>Cliente 5</h3>
-                        </div> -->
                     </div>
+                    <!--END OF Service 1 -->
+
+                    <!--Service 4 -->
+                    <div class="item">
+                        <div class="service-items">
+                            <!-- <img class="img-circle service-slider-image"
+                                src="http://themes.audemedia.com/html/goodgrowth/images/testimonial3.jpg" alt=""> -->
+                            <div class="service-details">
+                                <h5 style="color: #fff;">Clifford Mang</h5>
+                                <p>Jordy y Cesar hicieron que la planificación y ejecución de mi fido fuera perfecta, muchas gracias chicos.</p>
+                                <!-- <a href="#test-modal" class="more-service pattern  open-popup-link">read more <i
+                                        class="fa fa-plus"></i></a> -->
+                            </div> 
+
+                        </div>
+                    </div>
+                    <!--END OF Service 4 -->
+                    <!--Service 2 -->
+                    <div class="item">
+                        <div class="service-items">
+                            <!-- <img class="img-circle service-slider-image"
+                                src="http://themes.audemedia.com/html/goodgrowth/images/testimonial3.jpg" alt=""> -->
+                            <div class="service-details">
+                                <h5 style="margin-bottom: 2rem; color:#fff;">Denise Gonzalez Boisson <span> Real Estate
+                                        Agent | Los
+                                        Cabos</span></h5>
+                                <p>
+                                    My name is Denise Gonzalez Boisson I am a Real Estate Agent in Los Cabos, I would
+                                    like
+                                    to share with you my experience working with Phoenix Legal Services, Jordy Baltazar
+                                    is...
+                                </p>
+                                <a href="#test-modal" class="more-service open-popup-link" style="color: #fff;">Ver más
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--END OF Service 2 -->
+                    <!--Service 3 -->
+                    <div class="item">
+                        <div class="service-items">
+                            <!-- <img class="img-circle service-slider-image"
+                                src="http://themes.audemedia.com/html/goodgrowth/images/testimonial3.jpg" alt=""> -->
+                            <div class="service-details">
+                                <h5 style="color: #fff;">Kyle Anderson</h5>
+                                <p>We strongly recommend Phoenix Services, which provided exceptional service and was
+                                    responsive to all our needs !</p>
+                                <!-- <a href="#" class="more-service">read more <i class="fa fa-plus"></i></a> -->
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--END OF Service 3 -->
+                    
                 </div>
-
             </div>
-
         </div>
     </div>
+</section>
+
+
+
+<div id="test-modal" class="container white-popup mfp-hide"
+    style="background-color: #fff; text-align: center; max-width: 60rem;">
+    <h1>Review</h1>
+    <p>
+        My name is Denise Gonzalez Boisson I am a Real Estate Agent in Los Cabos, I would
+        like
+        to share with you my experience working with Phoenix Legal Services, Jordy Baltazar
+        is
+        an amazing attorney. He and his team works with you and your clients so nicely with
+        so
+        much kindness and professionalism, them responds within 24 hours and keeps you
+        updated
+        on your clients….. Let’s put it this way, I trust them with my life!.... have been
+        blessed to have met and work with Jordy Baltazar and his team… They are an asset
+        with my
+        clients and transactions!.... with that said I highly recommend his services and
+        practice!... They are the Best!!
+    </p>
+    <p><a class="popup-modal-dismiss" href="#">Regresar</a></p>
 </div>
-<!-- end wpo-testimonial-section -->

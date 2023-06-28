@@ -22,7 +22,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 col-12">
                     <div class="about-left">
-                        <img src="/assets/images/about.jpg" alt="">
+                        <img src="/assets/images/teamAbout.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-7 col-12">
@@ -69,7 +69,7 @@
                     <div class="col-lg-3 col-12">
                         <div class="team-single">
                             <div class="team-single-img">
-                                <img src="/assets/images/team/2.jpg" alt="">
+                                <img src="/assets/images/team/2.jpg?=1" alt="">
                             </div>
                             <div class="team-single-text">
                                 <a href="team-single.html">
@@ -86,7 +86,7 @@
                     <div class="col-lg-3 col-12">
                         <div class="team-single">
                             <div class="team-single-img">
-                                <img src="/assets/images/team/2.jpg" alt="">
+                                <img src="/assets/images/team/4.jpg?=1" alt="">
                             </div>
                             <div class="team-single-text">
                                 <a href="team-single.html">
@@ -103,7 +103,7 @@
                     <div class="col-lg-3 col-12">
                         <div class="team-single">
                             <div class="team-single-img">
-                                <img src="/assets/images/team/1.jpg" alt="">
+                                <img src="/assets/images/team/1.jpg?=1" alt="">
                             </div>
                             <div class="team-single-text">
                                 <a href="team-single.html">
@@ -121,7 +121,7 @@
                     <div class="col-lg-3 col-12">
                         <div class="team-single">
                             <div class="team-single-img">
-                                <img src="/assets/images/team/4.jpg" alt="">
+                                <img src="/assets/images/team/3.jpg?=1" alt="">
                             </div>
                             <div class="team-single-text">
                                 <a href="team-single.html">
@@ -176,7 +176,7 @@
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="/assets/images/team/2.jpg" alt="" class="mb-3">
+                <img src="/assets/images/team/4.jpg?=1" alt="" class="mb-3">
                 <a href="mailto:jordy@phoenixservices.com.mx"
                     style="color: #000;text-decoration: underline;">jordy@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
@@ -198,7 +198,7 @@
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="/assets/images/team/1.jpg" alt="" class="mb-3">
+                <img src="/assets/images/team/1.jpg?=1" alt="" class="mb-3">
                 <a href="mailto:karina@phoenixservices.com.mx"
                     style="color: #000;text-decoration: underline;">karina@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
@@ -219,7 +219,7 @@
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="/assets/images/team/2.jpg" alt="" class="mb-3">
+                <img src="/assets/images/team/3.jpg?=1" alt="" class="mb-3">
                 <a href="mailto:eduardo@phoenixservices.com.mx"
                     style="color: #000;text-decoration: underline;">eduardo@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">

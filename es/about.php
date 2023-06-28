@@ -22,7 +22,7 @@
             <div class="row align-items-center" style="background-color: #fff;padding: 25px 10px;">
                 <div class="col-lg-5 col-12">
                     <div class="about-left">
-                        <img src="/assets/images/2.webp" alt="">
+                        <img src="/assets/images/2.webp?=1" alt="">
                     </div>
                 </div>
                 <div class="col-lg-7 col-12">
@@ -72,7 +72,7 @@
                 </div>
                 <div class="col-lg-5 col-12">
                     <div class="about-left">
-                        <img src="/assets/images/1.webp" alt="">
+                        <img src="/assets/images/1.webp?=1" alt="">
                     </div>
                 </div>
 
