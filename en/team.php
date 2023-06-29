@@ -107,7 +107,7 @@
                             </div>
                             <div class="team-single-text">
                                 <a href="team-single.html">
-                                    <h2>Karina</h2> <br>
+                                    <h2>Karina García</h2> <br>
                                 </a>
                                 <a class="btn theme-btn mt-1" data-bs-toggle="offcanvas" href="#offcanvas3Example"
                                     role="button" aria-controls="offcanvas3Example" style="border:solid 1px;">
@@ -125,7 +125,7 @@
                             </div>
                             <div class="team-single-text">
                                 <a href="team-single.html">
-                                    <h2>Eduardo</h2> <br>
+                                    <h2>Eduardo Alejandre</h2> <br>
                                 </a>
                                 <a class="btn theme-btn mt-1" data-bs-toggle="offcanvas" href="#offcanvas4Example"
                                     role="button" aria-controls="offcanvas4Example" style="border:solid 1px;">
@@ -193,7 +193,7 @@
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas3Example"
             aria-labelledby="offcanvas3ExampleLabel">
             <div class="offcanvas-header">
-                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Karina <br>Real Estate Lawyer</h5>
+                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Karina García<br>Real Estate Lawyer</h5>
                 <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                     aria-label="Close"></button>
             </div>
@@ -214,7 +214,7 @@
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas4Example"
             aria-labelledby="offcanvas4ExampleLabel">
             <div class="offcanvas-header">
-                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Eduardo <br>Administrator</h5>
+                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Eduardo Alejandre<br>Administrator</h5>
                 <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                     aria-label="Close"></button>
             </div>

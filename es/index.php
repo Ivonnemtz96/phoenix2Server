@@ -259,7 +259,7 @@
 <div id="test-modal" class="container white-popup mfp-hide"
     style="background-color: #fff; text-align: center; max-width: 60rem;">
     <h1>Review</h1>
-    <p>
+    <p style="color: #000;">
         My name is Denise Gonzalez Boisson I am a Real Estate Agent in Los Cabos, I would
         like
         to share with you my experience working with Phoenix Legal Services, Jordy Baltazar

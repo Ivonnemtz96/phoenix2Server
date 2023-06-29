@@ -107,7 +107,7 @@
                             </div>
                             <div class="team-single-text">
                                 <a href="team-single.html">
-                                    <h2>Karina</h2> <br>
+                                    <h2>Karina García</h2> <br>
                                 </a>
                                 <a class="btn theme-btn mt-1" data-bs-toggle="offcanvas" href="#offcanvas3Example"
                                     role="button" aria-controls="offcanvas3Example" style="border:solid 1px;">
@@ -125,7 +125,7 @@
                             </div>
                             <div class="team-single-text">
                                 <a href="team-single.html">
-                                    <h2>Eduardo</h2> <br>
+                                    <h2>Eduardo Alejandre</h2> <br>
                                 </a>
                                 <a class="btn theme-btn mt-1" data-bs-toggle="offcanvas" href="#offcanvas4Example"
                                     role="button" aria-controls="offcanvas4Example" style="border:solid 1px;">
@@ -153,7 +153,7 @@
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="/assets/images/team/2.jpg" alt="" class="mb-3">
+                <img src="/assets/images/team/2.jpg?=1" alt="" class="mb-3">
                 <a href="mailto:cesar@phoenixservices.com.mx "
                     style="color: #000;text-decoration: underline;">cesar@phoenixservices.com.mx </a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
@@ -177,7 +177,7 @@
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="/assets/images/team/2.jpg" alt="" class="mb-3">
+                <img src="/assets/images/team/4.jpg?=1" alt="" class="mb-3">
                 <a href="mailto:jordy@phoenixservices.com.mx"
                     style="color: #000;text-decoration: underline;">jordy@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
@@ -194,12 +194,12 @@
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas3Example"
             aria-labelledby="offcanvas3ExampleLabel">
             <div class="offcanvas-header">
-                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Karina <br>Abogado Inmobiliario</h5>
+                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Karina García<br>Abogado Inmobiliario</h5>
                 <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="/assets/images/team/1.jpg" alt="" class="mb-3">
+                <img src="/assets/images/team/1.jpg?=1" alt="" class="mb-3">
                 <a href="mailto:karina@phoenixservices.com.mx"
                     style="color: #000;text-decoration: underline;">karina@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
@@ -214,12 +214,12 @@
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas4Example"
             aria-labelledby="offcanvas4ExampleLabel">
             <div class="offcanvas-header">
-                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Eduardo <br>Administrador</h5>
+                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Eduardo Alejandre<br>Administrador</h5>
                 <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                     aria-label="Close"></button>
             </div>
             <div class="offcanvas-body text-center">
-                <img src="/assets/images/team/2.jpg" alt="" class="mb-3">
+                <img src="/assets/images/team/3.jpg?=1" alt="" class="mb-3">
                 <a href="mailto:eduardo@phoenixservices.com.mx"
                     style="color: #000;text-decoration: underline;">eduardo@phoenixservices.com.mx</a> <br>
                 <p style="color: #414141; text-align: justify;margin-top:1rem;">
